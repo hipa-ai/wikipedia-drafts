@@ -1,0 +1,1869 @@
+{{Тенісист
+|ім'я_гравця         = Еліна Світоліна
+|фото                = Elina Svitolina (2023 DC Open) 28 (cropped).jpg
+|громадянство        = {{UKR}}
+|місце_проживання    = [[Монте-Карло]],<br/>{{MCO}}
+|дата_народження     = 12.9.1994
+|місце_народження    = [[Одеса]],<br/>{{UKR}}
+|дата_смерті         = <!-- дд.мм.рррр -->
+|місце_смерті        = 
+|зріст               = 174
+|вага                = 60
+|початок_кар'єри     = 2008
+|завершення_кар'єри  = 
+|робоча_рука         = права
+|бекхенд             = дворучний
+|тренер              = Ендрю Беттлз
+|призові_гроші       = 27 504 746
+|одиночні_результати         = 519-272
+|одиночних_титулів           = 19
+|найвища_одиночна_позиція    = 3 (11 вересня 2017)
+|поточна_одиночна_позиція    = 9 (9 лютого 2026)
+|результати_Australian_Open  = ПФ ([[Відкритий чемпіонат Австралії з тенісу 2026, жінки, одиночний розряд|2026]])
+|результати_Roland_Garros    = ЧФ ([[Відкритий чемпіонат Франції з тенісу 2015, жінки, одиночний розряд|2015]], [[Відкритий чемпіонат Франції з тенісу 2017, жінки, одиночний розряд|2017]], [[Відкритий чемпіонат Франції з тенісу 2020, жінки, одиночний розряд|2020]], [[Відкритий чемпіонат Франції з тенісу 2023, жінки, одиночний розряд|2023]], [[Відкритий чемпіонат Франції з тенісу 2025, жінки, одиночний розряд|2025]])
+|результати_Wimbledon        = ПФ ([[Вімблдонський турнір 2019, жінки, одиночний розряд|2019]], [[Вімблдонський турнір 2023, жінки, одиночний розряд|2023]])
+|результати_US_Open          = ПФ ([[Відкритий чемпіонат США з тенісу 2019, жінки, одиночний розряд|2019]])
+|результати_на_World_Tour_Finals= '''Переможець''' ([[WTA фінал 2018, одиночний розряд|2018]])
+|результати_Олімпіади        = Бронза ([[Літні Олімпійські ігри 2020|Токіо 2020]])
+|парні_результати        = 48-68
+|парних_титулів          = 2
+|найвища_парна_позиція   = 108 (4 травня 2015)
+|результати_парні_Australian_Open   = 1к ([[Відкритий чемпіонат Австралії з тенісу 2014, жінки, парний розряд|2014]], [[Відкритий чемпіонат Австралії з тенісу 2016, жінки, парний розряд|2016]])
+|результати_парні_Roland_Garros     = 2к ([[Відкритий чемпіонат Франції з тенісу 2014, жінки, парний розряд|2014]])
+|результати_парні_Wimbledon         = 2к ([[Вімблдонський турнір 2016, жінки, парний розряд|2016]])
+|результати_парні_US_Open           = 2к ([[Відкритий чемпіонат США з тенісу 2014, жінки, парний розряд|2014]])
+|результати_парні_Олімпіади         = 1к ([[Теніс на літніх Олімпійських іграх 2016|2016]], [[Теніс на літніх Олімпійських іграх 2020 — жіночий парний турнір|2021]])
+|результати_мікст_Australian_Open   = ПФ ([[Відкритий чемпіонат Австралії з тенісу 2017, змішаний парний розряд|2017]])
+|результати_мікст_Roland_Garros     = 2к ([[Відкритий чемпіонат Франції з тенісу 2015, змішаний парний розряд|2015]], [[Відкритий чемпіонат Франції з тенісу 2017, змішаний парний розряд|2017]])
+|результати_мікст_Wimbledon         = 3к ([[Вімблдонський турнір 2014, змішаний парний розряд|2014]])
+|результати_мікст_US_Open           = 2к ([[Відкритий чемпіонат США з тенісу 2018, змішаний парний розряд|2018]])
+|командні_результати     = yes
+|результати_BJKCup       = ПФ ([[Billie Jean King Cup 2025|2025]])
+|результати_HopmanCup    = F ([[Кубок Гопмана 2016|2016]])
+|останнє_оновлення       = 27 січня 2026
+}}
+{{MedalTableTop}}
+{{MedalCountry|{{UKR}}}}
+{{MedalSport|[[Теніс]]}}
+{{ряд
+|{{Орден За заслуги II ступеня (Україна)}}
+|{{Орден За заслуги III ступеня (Україна)}}
+}}
+{{ряд2
+ |{{Орден княгині Ольги III ступеня}}
+}}
+{{MedalOlympic}}
+{{MedalBronze|[[Літні Олімпійські ігри 2020|Токіо 2020]]|[[Теніс на літніх Олімпійських іграх 2020 — жіночий одиночний турнір|одиночний розряд]]}}
+{{MedalBottom}}
+'''Елі́на Миха́йлівна Монфіс'''<ref>[https://drive.google.com/file/d/1phimeRsF5sTkLmNDrJS4NuY9GkQrsJE3/view Склад офіційної делегації національної збірної команди України для участі в Іграх XXXIII Олімпіади 2024 року в м. Париж (Французька Республіка)]</ref> (ур. '''Світо́ліна'''), змагається як '''Еліна Світоліна'''<ref>[https://www.wtatennis.com/players/316738/elina-svitolina WTA&nbsp;— Elina Svitolina]</ref> ({{нар|а}} {{ДН|12|9|1994}}, [[Одеса]])&nbsp;— українська [[теніс]]истка, третя ракетка світу в [[Рейтинг WTA|рейтингу WTA]] у 2017, 2018 і 2019 роках в одиночному розряді, бронзова призерка [[Літні Олімпійські ігри 2020|Літніх Олімпійських ігор 2020 в Токіо]] (2021), чемпіонка [[WTA фінал 2018, одиночний розряд|підсумкового турніру WTA Finals 2018 року]]. Виграла 19 турнірів [[Жіноча тенісна асоціація|WTA]] в одиночному розряді та два&nbsp;— в парному. Тричі діставалася півфіналів на [[Турніри Великого шлему|турнірах Великого шлему]] (2019, 2023) і дев'ять разів&nbsp;— чвертьфіналів (2015, 2017, 2018, 2019, 2020, 2021, 2023, 2024, 2025).
+
+Станом на середину сезону 2023 року 37 разів вигравала в тенісисток, що перебували у топ-10 рейтингу WTA на момент гри, зокрема 7 разів у поточних перших ракеток, а також загалом 46 разів перемагала 12 тенісисток, що колись займали позицію першої ракетки світу. Обігрувала таких чемпіонок, як [[Анджелік Кербер]] (9 разів), [[Гарбінє Мугуруса]] (7 разів), [[Сімона Халеп]] (6 разів), [[Ешлі Барті]] (5 разів), [[Вінус Вільямс]] (4 рази), [[Каролін Возняцкі]] (4 рази), [[Кароліна Плішкова]] (4 рази), [[Петра Квітова]] (4 рази), [[Осака Наомі|Наомі Осака]] (тричі), [[Серена Вільямс]], [[Іга Свьонтек]], [[Ана Іванович]], [[Вікторія Азаренко]], [[Аріна Соболенко]] тощо.
+
+З Літніх Олімпійських ігор 2016 року до листопада 2019 року Еліна Світоліна вигравала всі матчі, в яких зустрічалася з поточними [[Рейтинг WTA#Перші ракетки світу|першими ракетками світу]] на момент гри, шість разів поспіль, обігравши [[Серена Вільямс|Серену Вільямс]], [[Анджелік Кербер]] (тричі) і Симону Халеп (двічі).
+
+Найуспішніша спортсменка в історії українського тенісу, встановила багато національних рекордів як серед жінок, так і серед тенісистів обох статей загалом, зокрема здобула єдину для України олімпійську медаль із будь-якої тенісної дисципліни, зайняла найвищу серед українських тенісистів третю позицію у світовому рейтингу, єдина перемагала в підсумковому чемпіонаті року, до січня 2024 єдина серед жінок досягала півфіналів турнірів Великого шлему в одиночному розряді тощо.
+
+== Життєпис ==
+Народилася [[12 вересня]] [[1994]] року в [[Одеса|Одесі]] в сім'ї спортсменів Олени та Михайла Світоліних. Батько займався [[Боротьба (спорт)|боротьбою]], а мати&nbsp;— майстер із [[Веслувальний спорт|веслування]]. Старший брат Юліан (1985&nbsp;р. н.) займався тенісом з 9-ти років, Еліна почала в чотири. На одному з турнірів виступ 12-річної Еліни побачив бізнесмен [[Сапронов Юрій Анатолійович|Юрій Сапронов]] із Харкова, який став її спонсором і, зокрема, оплачував тренування. У 2007 році родина переїхала з Одеси до [[Харків|Харкова]]<ref>{{cite news
+ | назва            =Перші тренери Світоліної розповіли про початок шляху українки до великих перемог у тенісі
+ | url              =http://prosport.tsn.ua/sport/pershi-treneri-svitolinoyi-rozpovili-pro-pochatok-shlyahu-ukrayinki-do-velikih-peremog-u-tenisi-714017.html
+ | газета           =[[ТСН]]
+ | дата             =11 серпня 2016
+ | дата-доступу     =12 серпня 2016
+}}</ref><ref>{{cite news
+ |назва              = Ще не чемпіонка, але вже героїня. Що потрібно знати про Еліну Світоліну
+ |url                     = http://ua.112.ua/statji/shche-ne-chempionka-ale-vzhe-heroinia-shcho-potribno-znaty-pro-elinu-svitolinu-330839.html
+ |газета            = [[112.ua]]
+ |дата                = 10 серпня 2016
+ |дата-доступу = 12 серпня 2016
+ |archive-date            = 2016-08-11
+ |archive-url             = https://web.archive.org/web/20160811213149/http://ua.112.ua/statji/shche-ne-chempionka-ale-vzhe-heroinia-shcho-potribno-znaty-pro-elinu-svitolinu-330839.html
+}}</ref><ref name="Радіо Свобода">{{cite news
+ | назва            =Мені пропонували великі гроші, аби грала за інші країни, але, на щастя, я з Україною – Світоліна
+ | url              =https://www.radiosvoboda.org/a/28651028.html
+ | газета           =[[Радіо Свобода]]
+ | дата             =31 липня 2017
+ | дата-доступу     =14 вересня 2017
+}}</ref>.
+
+Формально резиденцією Світоліної є Харків, хоча вона тренується й живе за кордоном. В Одесі та Харкові Еліна буває один-два рази на рік<ref name="Радіо Свобода"/>. Станом на грудень [[2017]] року мала житло в [[Лондон]]і та [[Монако]]<ref>{{Cite web|url=https://www.youtube.com/watch?v=VwB_1FN4RTI/|title=Перша ракетка України Еліна Світоліна розповіла, на що витрачає мільйонні гонорари|website=www.youtube.com|publisher=[[Світське життя]]|date=9 грудня 2017|accessdate=10 січня 2018}}</ref>.
+
+За словами Світоліної, з дитинства, відколи вона почала показувати результати, їй надходили пропозиції грати за інші країни, зокрема [[Ізраїль]], [[Велика Британія|Велику Британію]], [[Австралія|Австралію]], [[Казахстан]], проте вона наголошує, що пишається тим, що грає за Україну<ref name="Радіо Свобода"/><ref name="Гордон">[https://www.youtube.com/watch?v=kAycz-TnuJw&ab_channel=ВгостяхуГордона Інтерв'ю Дмитру Гордону, прем'єра 11 січня 2022]</ref>.
+
+З 2016 року Еліна мала стосунки з британським гравцем у [[крикет]] Рісом Топлі<ref>{{Cite web|url=http://xsport.ua/tennis_s/news/svitolina-v-velikobritanii-menya-znayut-kak-devushku-risa_312401/|title=Свитолина: «В Великобритании меня знают как девушку Риса»|website=xsport.ua|date=6 липня 2017|accessdate=9 січня 2018|archive-date=2018-01-09|archive-url=https://web.archive.org/web/20180109180852/http://xsport.ua/tennis_s/news/svitolina-v-velikobritanii-menya-znayut-kak-devushku-risa_312401/}}</ref>, в лютому 2018 року вони розійшлися.
+
+З січня 2019 року зустрічалася з французьким тенісистом [[Гаель Монфіс|Гаелем Монфісом]], з яким [[Шлюб|одружилася]] 16 липня 2021 року.<ref>{{Cite web|title=Еліна Світоліна вийшла заміж: історія кохання яскравої спортивної пари у фото|url=https://lite.rbc.ua/ukr/zvyozdy/elina-svitolina-vyshla-zamuzh-istoriya-lyubvi-1626507878.html|website=РБК-Украина|accessdate=2021-07-22|language=ru}}</ref><ref>[https://odesskiye.info/uk/news-2146 Еліна Світоліна: одеська обраниця для французького нареченого,&nbsp;— ''odesskiye.info'', 19.07.2021]</ref><ref>{{Cite web|title=Світоліна вийшла заміж за французького тенісиста: фото з весілля|url=https://www.rbc.ua/ukr/styler/svitolina-vyshla-zamuzh-frantsuzskogo-tennisista-1626460771.html|website=РБК-Украина|accessdate=2021-07-22|language=ru}}</ref>. 15 жовтня 2022 року [[Материнство|народила]] доньку Скай Монфіс<ref>{{Cite web|title=Тенісистка Еліна Світоліна народила дівчинку і показала перший кадр: "Вітайте Скай Монфіс"|url=https://znaj.ua/show-business/440479-tenisistka-elina-svitolina-narodila-divchinku-i-pokazala-pershiy-kadr-vitayte-skay-monfis|website=znaj.ua|date=2022-10-15|accessdate=2022-10-15|language=uk}}</ref><ref>{{Cite web|title=ФОТО. Еліна Світоліна народила доньку|url=https://sport.ua/uk/news/599841-foto-elina-svitolina-rodila-dochku|website=Спорт.ua|accessdate=2022-10-15|language=uk}}</ref>.
+
+Цікавиться [[футбол]]ом, часто відвідує футбольні матчі, вболіває за [[Збірна України з футболу|збірну України]] та за [[Челсі (футбольний клуб)|«Челсі»]], поблизу стадіону якого жила у [[Вімблдон (Лондон)|Вімблдоні]] в [[Лондон]]і, також захоплюється [[Кріштіану Роналду]].<ref>[https://www.youtube.com/watch?v=XzOxJgJFnDw «Тут у мене друзі-футболісти»: Еліна Світоліна розповіла, за яку команду АПЛ вболіває. ПРОФУТБОЛ. 22 квітня 2018]</ref>
+
+== Кар'єра ==
+[[Файл:Elina Svitolina-2010-07-06.jpg|міні|ліворуч|170пкс|На [[Відкритий чемпіонат США з тенісу 2009|US Open 2009]]]]
+
+=== 2009: Участь на Відкритому чемпіонаті США серед юніорок ===
+Першим помітним виступом тенісистки, у 14 років, стала участь у юніорській частині [[Відкритий чемпіонат США з тенісу 2009|Відкритого чемпіонату США]], де вона, однак, програла в першому колі [[Тімеа Бабош]].
+
+=== 2010: перемога на Ролан Гаррос серед юніорок ===
+На юніорській частині [[Відкритий чемпіонат Франції з тенісу 2010|Відкритого чемпіонату Франції]] перемогла в одиночному розряді у віці 15&nbsp;років, обігравши у фіналі [[Унс Джабір]].
+
+У парному розряді разом з [[Хромачова Ірина Павлівна|Іриною Хромачовою]] пройшла до юніорського фіналу на [[Вімблдонський турнір 2010|Вімблдоні]], де програла Тімеї Бабош і [[Слоун Стівенс]].
+
+Цього ж року розпочала професійну кар'єру в дорослих турнірах, зокрема пройшла до чвертьфіналу турніру [[Міжнародна федерація тенісу|ITF]] у [[Харків|Харкові]]<ref>{{Cite web |url=http://www.champion.com.ua/tennis/2010/10/14/363028/ |title=ITF Kharkiv Ladies Cup |access-date=2017-09-13 |archive-date=2017-09-13 |archive-url=https://web.archive.org/web/20170913091806/http://www.champion.com.ua/tennis/2010/10/14/363028/ |url-status=dead }} {{Webarchive|url=https://web.archive.org/web/20170913091806/http://www.champion.com.ua/tennis/2010/10/14/363028/ |date=2017-09-13 }}</ref>.
+
+На кінець року в рейтингу WTA займала 498-му позицію в одиночному розряді та 443-тю&nbsp;— у парному розряді.
+
+=== 2011: перші титули ITF ===
+На турнірі [[Міжнародна федерація тенісу|ITF]] у [[Бельгія|Бельгії]] Еліна Світоліна в парі з [[Заневська Марина Володимирівна|Мариною Заневською]] дійшла до фіналу<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2011/04/23/435177/|title=ITF Бельгія. Світоліна та Заневська програли у фіналі пари|work=Чемпіон|accessdate=2017-08-25|archive-date=2017-08-25|archive-url=https://web.archive.org/web/20170825151131/http://www.champion.com.ua/tennis/2011/04/23/435177/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170825151131/http://www.champion.com.ua/tennis/2011/04/23/435177/ |date=2017-08-25 }}</ref>, перед тим синхронно поступившись у чвертьфіналі одиночних змагань<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2011/04/21/434807/|title=ITF Бельгія. Світоліна та Заневська залишили змагання в одиночному розряді|work=Чемпіон|accessdate=2017-08-25|archive-date=2017-08-25|archive-url=https://web.archive.org/web/20170825151246/http://www.champion.com.ua/tennis/2011/04/21/434807/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170825151246/http://www.champion.com.ua/tennis/2011/04/21/434807/ |date=2017-08-25 }}</ref>. У першому колі кваліфікації [[Відкритий чемпіонат Франції з тенісу 2011|Відкритого чемпіонату Франції 2011]] Еліна програла першій сіяній росіянці [[Пивоварова Анастасія Олегівна|Анастасії Пивоваровій]]<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2011/05/18/442558/|title=WTA Ролан Гаррос. Світоліна програла першій "сіяній"|work=Чемпіон|accessdate=2017-08-25|url-status=dead}}</ref>.
+
+У червні на турнірі ITF у [[Чехія|Чехії]] Світоліна дісталася півфіналів одиночного та парного розрядів, поступившись господарці турніру [[Кароліна Плішкова|Кароліні Плішковій]]<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2011/06/4/444929/|title=ITF Чехія. Світоліна поступилася у півфіналі|work=Чемпіон|accessdate=2017-08-25|archiveurl=https://web.archive.org/web/20170825151535/http://www.champion.com.ua/tennis/2011/06/4/444929/|archivedate=2017-08-25|deadurl=yes}} {{Webarchive|url=https://web.archive.org/web/20170825151535/http://www.champion.com.ua/tennis/2011/06/4/444929/ |date=2017-08-25 }}</ref>, а в парі з Веронікою Капшай&nbsp;— сестрам [[Кіченок Людмила Вікторівна|Людмилі]] та [[Кіченок Надія Вікторівна|Надії Кіченок]]<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2011/06/3/444850/|title=ITF Чехія. Сестри Кіченок перемогли Світоліну та Капшай у парному півфіналі|work=Чемпіон|accessdate=2017-08-25|archiveurl=https://web.archive.org/web/20170825151441/http://www.champion.com.ua/tennis/2011/06/3/444850/|archivedate=2017-08-25|deadurl=yes}} {{Webarchive|url=https://web.archive.org/web/20170825151441/http://www.champion.com.ua/tennis/2011/06/3/444850/ |date=2017-08-25 }}</ref>. Перший дорослий титул ITF Еліна Світоліна здобула в серпні на [[Тенісний корт|хардовому]] турнірі в [[Стамбул]]і ([[Туреччина]]), перемігши у фіналі Аню Пріслан зі [[Словенія|Словенії]] (6:2, 6:7(5), 6:0)<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2011/08/20/455666/|title=ITF Стамбул. Світоліна виграє перший дорослий титул|work=Чемпіон|accessdate=2017-08-25|archive-date=2017-08-25|archive-url=https://web.archive.org/web/20170825145254/http://www.champion.com.ua/tennis/2011/08/20/455666/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170825145254/http://www.champion.com.ua/tennis/2011/08/20/455666/ |date=2017-08-25 }}</ref>; другий&nbsp;— у жовтні на турнірі в [[Лагос]]і ([[Нігерія]]), де у фіналі не встояла хорватка [[Донна Векич]] (6:4, 6:3)<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2011/10/23/465903/|title=Світоліна виграла одиночний турнір у Нігерії|work=Чемпіон|accessdate=2017-08-25|archive-date=2017-08-25|archive-url=https://web.archive.org/web/20170825151537/http://www.champion.com.ua/tennis/2011/10/23/465903/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170825151537/http://www.champion.com.ua/tennis/2011/10/23/465903/ |date=2017-08-25 }}</ref>.
+
+У передостанній день року Еліна поступилася господарці 50-тисячника в [[Тюмень|Тюмені]] [[Путінцева Юлія Антонівна|Юлії Путінцевій]]<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2011/12/30/476107/|title=ITF Тюмень. Світоліна програла в фіналі|work=Чемпіон|accessdate=2017-08-25|archive-date=2017-08-25|archive-url=https://web.archive.org/web/20170825151140/http://www.champion.com.ua/tennis/2011/12/30/476107/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170825151140/http://www.champion.com.ua/tennis/2011/12/30/476107/ |date=2017-08-25 }}</ref> і, піднявшись на 30 позицій, посіла 202-ге місце в рейтингу WTA<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2012/01/2/476211/|title=Рейтинг WTA: Світоліна піднялась на тридцять позицій|work=Чемпіон|accessdate=2017-08-25|archiveurl=https://web.archive.org/web/20170825151145/http://www.champion.com.ua/tennis/2012/01/2/476211/|archivedate=2017-08-25|deadurl=yes}} {{Webarchive|url=https://web.archive.org/web/20170825151145/http://www.champion.com.ua/tennis/2012/01/2/476211/ |date=2017-08-25 }}</ref>.
+
+=== 2012: вперше участь у турнірах Великого шлема, перша ракетка України ===
+[[Файл:Elina Svitolina, Serena Williams (6959259138).jpg|міні|праворуч|300пкс|Еліна з [[Серена Вільямс|Сереною Вільямс]] у [[Харків|Харкові]], 2012]]
+У березні Еліна перемогла на турнірі [[Міжнародна федерація тенісу|ITF]] в [[Туніс]]і<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2012/03/24/485268/|title=ITF Туніс. Світоліна виграє у фіналі|work=Чемпіон|accessdate=2017-08-25|url-status=dead|archive-date=2017-08-25|archive-url=https://web.archive.org/web/20170825104938/http://www.champion.com.ua/tennis/2012/03/24/485268/}}</ref>. У квітні зіграла перші матчі за [[Жіноча збірна України з тенісу|збірну України]] у відбірковому раунді [[Кубок Федерації|Кубка Федерації]]. У двобої проти команди США Світоліна зіграла два одиночні матчі, зокрема проти знаменитої [[Серена Вільямс|Серени Вільямс]]<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2012/04/21/489260/|title=Кубок Федерацій. Україна - США - 0:2. Вільямс розгромила Світоліну|work=Чемпіон|accessdate=2017-08-25|archive-date=2017-08-25|archive-url=https://web.archive.org/web/20170825105323/http://www.champion.com.ua/tennis/2012/04/21/489260/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170825105323/http://www.champion.com.ua/tennis/2012/04/21/489260/ |date=2017-08-25 }}</ref>, однак поступилася в обох зустрічах<ref>{{Cite news|url=http://tennis.sport.ua/news/154935|title=Кубок Федерации. США выигрывает первые два матча|language=ru|work=СПОРТ.UA|accessdate=2017-08-20}}</ref>.
+
+Еліна Світоліна не зуміла того року пробитися через кваліфікацію основної сітки [[Відкритий чемпіонат Франції з тенісу 2012|Ролан Гарросу]] та [[Вімблдонський турнір 2012|Вімблдону]], поступившись на ранніх стадіях в обох випадках [[Гарбінє Мугуруса|Гарбінє Мугурусі]]<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2012/05/25/492733/|title=WTA Ролан Гаррос. Бейгельзимер та Світоліна вибули|work=Чемпіон|accessdate=2017-08-25|archive-date=2017-08-25|archive-url=https://web.archive.org/web/20170825105442/http://www.champion.com.ua/tennis/2012/05/25/492733/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170825105442/http://www.champion.com.ua/tennis/2012/05/25/492733/ |date=2017-08-25 }}</ref><ref>{{Cite news|url=http://www.champion.com.ua/tennis/2012/06/19/496936/|title=WTA Вімблдон. Бейгельзимер вийшла у другий раунд кваліфікації, Світоліна вибула|work=Чемпіон|accessdate=2017-08-25|archive-date=2017-08-25|archive-url=https://web.archive.org/web/20170825143507/http://www.champion.com.ua/tennis/2012/06/19/496936/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170825143507/http://www.champion.com.ua/tennis/2012/06/19/496936/ |date=2017-08-25 }}</ref>. Натомість на Вімблдонському турнірі 2012 року Еліна добралася до фіналу юніорських змагань, поступившись там [[Ежені Бушар]] із [[Канада|Канади]]<ref>{{Cite news|url=http://tennis.sport.ua/news/160969|title=Уимблдон. Юниоры. Свитолина проигрывает в финале|last=Дудка|first=Влад|language=ru|work=СПОРТ.UA|accessdate=2017-08-20}}</ref><ref>{{Cite news|url=http://www.champion.com.ua/tennis/2012/07/7/499326/|title=Юніори Вімблдон. Світоліна програла у вирішальному поєдинку|work=Чемпіон|accessdate=2017-08-25|archiveurl=https://web.archive.org/web/20170825142955/http://www.champion.com.ua/tennis/2012/07/7/499326/|archivedate=2017-08-25|deadurl=yes}} {{Webarchive|url=https://web.archive.org/web/20170825142955/http://www.champion.com.ua/tennis/2012/07/7/499326/ |date=2017-08-25 }}</ref>.
+
+Світоліна пройшла через кваліфікаційний турнір в основну сітку [[Відкритий чемпіонат США з тенісу 2012, жінки, одиночний розряд|Відкритого чемпіонату США]] й, отже, вперше взяла участь у дорослій частині [[Турніри Великого шолома|турніру Великого шлема]]<ref>{{Cite news|url=http://tennis.sport.ua/news/165147|title=US Open-2012. Элина Свитолина вышла в основную сетку турнира|last=Шаповалов|first=Михаил|language=ru|work=СПОРТ.UA|accessdate=2017-08-20}}</ref><ref>{{Cite news|url=http://www.champion.com.ua/tennis/2012/08/28/505462/|title=US Open. Світоліна програла у першому колі|work=Чемпіон|accessdate=2017-08-25|archive-date=2017-08-25|archive-url=https://web.archive.org/web/20170825105517/http://www.champion.com.ua/tennis/2012/08/28/505462/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170825105517/http://www.champion.com.ua/tennis/2012/08/28/505462/ |date=2017-08-25 }}</ref>, проте програла в першому колі [[Ана Іванович|Ані Іванович]] (3:6, 2:6)<ref>{{Cite news|url=http://tennis.sport.ua/news/165393|title=US Open-2012. Свитолина уступила Иванович в первом круге|last=Дудка|first=Влад|language=ru|work=СПОРТ.UA|accessdate=2017-08-20}}</ref>.
+
+Восени Еліні підкорився 50-тисячний турнір ITF в [[Грузія|грузинському]] [[Телаві]]. У фіналі, в українському дербі, харків'янка, посіяна під другим номером, впевнено переграла киянку [[Цуренко Леся Вікторівна|Лесю Цуренко]], перший номер турніру (6:1, 6:2)<ref>{{Cite news|url=http://tennis.sport.ua/news/168068|title=Элина Свитолина выиграла финал в Телави у Цуренко|last=Реуцкий|first=Михаил|language=ru|work=СПОРТ.UA|accessdate=2017-08-20}}</ref>. І на завершення сезону Світоліній вдалося здобути перший титул {{не перекладено|WTA 125K series|WTA 125K|en|WTA 125K series}}&nbsp;— на турнірі в [[Індія|індійському]] [[Пуне]] 18-річна українка перемогла у фіналі 42-річну японку [[Дате-Крумм Кіміко|Кіміко Дате-Крумм]] (6:2, 6:3)<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2012/11/12/514862/|title=WTA Індія. Світоліна виграла перший титул WTA у кар'єрі|work=Чемпіон|accessdate=2017-08-20|archive-date=2017-08-20|archive-url=https://web.archive.org/web/20170820161253/http://www.champion.com.ua/tennis/2012/11/12/514862/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170820161253/http://www.champion.com.ua/tennis/2012/11/12/514862/ |date=2017-08-20 }}</ref><ref>{{Cite news|url=https://gazeta.ua/ru/articles/sport/_tennis-elina-svitolina-vyigrala-turnir-v-pune/466552|title=Теннис. Элина Свитолина выиграла турнир в Пуне|last=Gazeta.ua|date=2012-11-12|language=ru-RU|work=Gazeta.ua|accessdate=2017-08-20}}</ref><ref>{{Cite news|url=http://www.champion.com.ua/tennis/2012/11/12/514862/|title=WTA Індія. Світоліна виграла перший титул WTA у кар'єрі|work=Чемпіон|accessdate=2017-08-25|archive-date=2017-08-20|archive-url=https://web.archive.org/web/20170820161253/http://www.champion.com.ua/tennis/2012/11/12/514862/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170820161253/http://www.champion.com.ua/tennis/2012/11/12/514862/ |date=2017-08-20 }}</ref>. Заробивши 20 тис. доларів призових та 160 рейтингових очок, Еліна піднялася після цього турніру на 114-й щабель світового жіночого рейтингу<ref>{{Cite news|url=http://tennis.sport.ua/news/172307|title=Рейтинг WTA. Свитолина поднялась на 42 позиции|last=Рыбаченко|first=Евгений|language=ru|work=СПОРТ.UA|accessdate=2017-08-20}}</ref>, а вже в грудні вперше стала найкращою тенісисткою України в жіночому рейтингу<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2012/12/4/517646/|title=Рейтинг WTA. Світоліна - перша "ракетка" України|work=Чемпіон|accessdate=2017-08-25|archiveurl=https://web.archive.org/web/20170825103818/http://www.champion.com.ua/tennis/2012/12/4/517646/|archivedate=2017-08-25|deadurl=yes}} {{Webarchive|url=https://web.archive.org/web/20170825103818/http://www.champion.com.ua/tennis/2012/12/4/517646/ |date=2017-08-25 }}</ref>.
+
+З 2012 року Світоліна тренувалася в академії Шарля Оффрея та Режі Лаверньє в [[Ніцца|Ніцці]] з індивідуальним тренером Себастьєном Матьє<ref>{{cite news
+ |назва        = Еліна Світоліна: "Не сподівалася, що зумію піднятися так високо вже у цьому році"
+ |url          = http://www.champion.com.ua/tennis/2012/12/25/519774/view_print/
+ |газета       = [[Українська правда|Чемпіон]]
+ |дата         = 25 грудня 2012
+ |дата-доступу = 12 серпня 2016
+ |archiveurl   = https://web.archive.org/web/20160819202912/http://www.champion.com.ua/tennis/2012/12/25/519774/view_print/
+ |archivedate  = 19 серпня 2016
+ |deadurl      = yes
+}} {{Webarchive|url=https://web.archive.org/web/20160819202912/http://www.champion.com.ua/tennis/2012/12/25/519774/view_print/ |date= 19 серпня 2016 }}</ref>.
+
+=== 2013: перший титул WTA, топ-50 рейтингу WTA ===
+[[Файл:Svitolina RG13 (9) (9371089607).jpg|міні|ліворуч|170пкс|На [[Відкритий чемпіонат Франції з тенісу 2013, жінки, одиночний розряд|Ролан Гаррос 2013]]]]
+Завдяки торішнім успіхам [[Відкритий чемпіонат Австралії з тенісу 2013, жінки, одиночний розряд|Відкритий чемпіонат Австралії]] Еліна вперше розпочала з основної сітки, проте поступилася в першому колі 5-й ракетці світу й турніру [[Анджелік Кербер]] (2:6, 4:6)<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2013/01/14/521348/|title=Australian Open. Світоліна зазнала поразки у першому колі|work=Чемпіон|accessdate=2017-08-25|url-status=dead|archive-date=2017-08-25|archive-url=https://web.archive.org/web/20170825104639/http://www.champion.com.ua/tennis/2013/01/14/521348/}}</ref>. На початку лютого Світоліна зробила переможний дубль на 75-тисячнику [[Міжнародна федерація тенісу|ITF]] в [[Ейлат]]і: спочатку в одиночному фіналі, подолавши росіянку Марту Сироткіну (6:3, 3:6, 7:5)<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2013/02/2/523217/|title=ITF Ізраїль. Світоліна виборола титул|work=Чемпіон|accessdate=2017-09-14|archiveurl=https://web.archive.org/web/20170915023114/http://www.champion.com.ua/tennis/2013/02/2/523217/|archivedate=2017-09-15|deadurl=yes}} {{Webarchive|url=https://web.archive.org/web/20170915023114/http://www.champion.com.ua/tennis/2013/02/2/523217/ |date=2017-09-15 }}</ref>, потім у парі з її землячкою Аллою Кудрявцевою&nbsp;— італійсько-білоруський дует Дентоні/[[Саснович Олександра Олександрівна|Саснович]] (6:1, 6:3)<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2013/02/3/523227/|title=ITF Ізраїль. Світоліна робить переможний дубль|work=Чемпіон|accessdate=2017-09-14|archiveurl=https://web.archive.org/web/20170915003104/http://www.champion.com.ua/tennis/2013/02/3/523227/|archivedate=2017-09-15|deadurl=yes}} {{Webarchive|url=https://web.archive.org/web/20170915003104/http://www.champion.com.ua/tennis/2013/02/3/523227/ |date=2017-09-15 }}</ref>.
+
+На [[Відкритий чемпіонат Франції з тенісу 2013, жінки, одиночний розряд|Відкритому чемпіонаті Франції]] вона дісталася другого кола, де програла [[Варвара Лепченко|Варварі Лепченко]] (6:7(5), 1:6)<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2013/05/29/534355/|title=Ролан Гаррос. Світоліна у другому раунді поступилася Лепченко|work=Чемпіон|accessdate=2017-09-14|archive-date=2017-09-15|archive-url=https://web.archive.org/web/20170915003111/http://www.champion.com.ua/tennis/2013/05/29/534355/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170915003111/http://www.champion.com.ua/tennis/2013/05/29/534355/ |date=2017-09-15 }}</ref>. На [[Вімблдонський турнір 2013, жінки, одиночний розряд|Вімблдонському турнірі 2013]] Світоліна поступилася майбутній чемпіонці [[Маріон Бартолі]] (3:6, 5:7)<ref>{{Cite news|url=http://tennis.sport.ua/news/193375|title=Уимблдон. Свитолина проиграла Бартоли|last=Реуцкий|first=Михаил|language=ru|work=СПОРТ.UA|accessdate=2017-09-14}}</ref>.
+
+Свій перший титул у серії [[WTA International]] Еліна здобула на [[Baku Cup]] 2013, здолавши у фіналі [[Шахар Пеєр]] (6:4, 6:4)<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2013/07/28/539683/|title=WTA Баку. Світоліна виграла турнір|work=Чемпіон|accessdate=2017-09-14|archive-date=2017-09-06|archive-url=https://web.archive.org/web/20170906213249/http://www.champion.com.ua/tennis/2013/07/28/539683/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170906213249/http://www.champion.com.ua/tennis/2013/07/28/539683/ |date=2017-09-06 }}</ref>. За перемогу вона отримала 40&nbsp;000 доларів призових та звання першої ракетки України, посівши в міжнародному рейтингу 49-те місце<ref>{{Cite news|url=http://www.ukrtennis.com/ru/news/3045-Ukrainskoe-pokorenie-Baku|title=Украинское покорение Баку|language=ru-RU|work=Украинский теннисный клуб|accessdate=2017-08-19}}</ref>.
+
+На початку серпня виграла турнір Міжнародної тенісної федерації {{не перекладено|Viccourt Cup|Viccourt Cup|ru|Viccourt Cup}} у [[Донецьк]]у на відкритих кортах ([[Тенісний корт|хард]]) з призовим фондом 75 тисяч доларів<ref>{{cite news
+ | назва            =Світоліна виграла турнір Міжнародної тенісної федерації
+ | url              =http://www.unian.ua/news/587627-svitolina-vigrala-turnir-mijnarodnoji-tenisnoji-federatsiji.html
+ | газета           =[[УНІАН]]
+ | url-архіву       =https://web.archive.org/web/20130929001632/http://www.unian.ua/news/587627-svitolina-vigrala-turnir-mijnarodnoji-tenisnoji-federatsiji.html
+ | дата-архіву      =29 вересня 2013
+ | дата             =3 квітня 2013
+ | дата-доступу     =12 серпня 2016
+}}</ref>. У напруженому фіналі Світоліна перемогла угорку [[Тімеа Бабош]] (3:6, 6:2, 7:6(9))<ref>{{Cite news|url=http://www.ukrtennis.com/ru/news/3066-Ukrainskiy-prazdnik-v-Donetske|title=Украинский праздник в Донецке|language=ru-RU|work=Украинский теннисный клуб|accessdate=2017-08-19}}</ref>.
+
+На [[Відкритий чемпіонат США з тенісу 2013, жінки, одиночний розряд|Відкритому чемпіонаті США]] Еліна перемогла в першому колі 17-ту сіяну [[Домініка Цібулкова|Домініку Цібулкову]] (6:4, 6:3)<ref>{{Cite news|url=http://www.ukrtennis.com/ru/news/3282-US-Open.-Pervaya-nyu-yorkskaya-pobeda-Svitolinoy-v-osnove|title=US Open. Первая нью-йоркская победа Свитолиной в основе|language=ru-RU|work=Украинский теннисный клуб|accessdate=2017-08-19}}</ref>, однак несподівано поступилася в другому [[Крістіна Макгейл|Крістіні Макгейл]] (4:6, 6:3, 5:7), яка займала на той час 114-ту позицію в рейтингу WTA (Світоліна&nbsp;— 44-ту)<ref>{{Cite news|url=http://www.ukrtennis.com/ru/news/3294-US-Open.-Elina-Svitolina-ustupila-114-y-raketke-mira|title=US Open. Элина Свитолина уступила 114-й ракетке мира|language=ru-RU|work=Украинский теннисный клуб|accessdate=2017-08-19}}</ref>.
+
+=== 2014: другий титул WTA ===
+На [[Відкритий чемпіонат Австралії з тенісу 2014, жінки, одиночний розряд|Відкритому чемпіонаті Австралії]] Еліна добралася до 3-го кола, перемігши росіянку [[Кузнецова Світлана Олександрівна|Світлану Кузнєцову]] (6:3, 6:3)<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2014/01/14/561002/|title=Australian Open. Світоліна впевнено долає перший раунд|work=Чемпіон|accessdate=2017-09-14|archive-date=2017-09-15|archive-url=https://web.archive.org/web/20170915003113/http://www.champion.com.ua/tennis/2014/01/14/561002/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170915003113/http://www.champion.com.ua/tennis/2014/01/14/561002/ |date=2017-09-15 }}</ref>, австралійку {{не перекладено|Олівія Роговська|Олівію Роговську|en|Olivia Rogowska}} (6:4, 7:5)<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2014/01/16/561160/|title=Australian Open. Світоліна крокує у третій раунд|work=Чемпіон|accessdate=2017-09-14|archive-date=2017-09-15|archive-url=https://web.archive.org/web/20170915003115/http://www.champion.com.ua/tennis/2014/01/16/561160/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170915003115/http://www.champion.com.ua/tennis/2014/01/16/561160/ |date=2017-09-15 }}</ref> і програвши 13-й ракетці світу американці [[Слоун Стівенс]] (5:7, 4:6)<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2014/01/18/561364/|title=Australian Open. Світоліна поступилась у третьому раунді|work=Чемпіон|accessdate=2017-09-14|archive-date=2017-09-15|archive-url=https://web.archive.org/web/20170915003109/http://www.champion.com.ua/tennis/2014/01/18/561364/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170915003109/http://www.champion.com.ua/tennis/2014/01/18/561364/ |date=2017-09-15 }}</ref>.
+
+У березні, на турнірі [[Турніри WTA Premier|WTA Premier]] у Маямі Світоліна вийшла до четвертого кола і там дала бій 3-й ракетці світу [[Агнешка Радванська|Агнешці Радванській]] (6:7, 7:5, 2:6)<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2014/03/25/567846/|title=WTA Маямі. Світоліна припинила боротьбу у четвертому раунді|work=Чемпіон|accessdate=2017-09-15|archive-date=2017-09-16|archive-url=https://web.archive.org/web/20170916011220/http://www.champion.com.ua/tennis/2014/03/25/567846/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170916011220/http://www.champion.com.ua/tennis/2014/03/25/567846/ |date=2017-09-16 }}</ref>, після чого, посівши 35-те місце у жіночому рейтингу, стала найкращою тенісисткою у віці до 20 років<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2014/03/24/567812/|title=Світоліна стане тенісисткою-тінейджером з найвищим рейтингом WTA|work=Чемпіон|accessdate=2017-09-15|archive-date=2017-09-16|archive-url=https://web.archive.org/web/20170916052935/http://www.champion.com.ua/tennis/2014/03/24/567812/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170916052935/http://www.champion.com.ua/tennis/2014/03/24/567812/ |date=2017-09-16 }}</ref>. На турнірі WTA в [[Нюрнберг|Нюрнберзі]], що проходив з 18 по 24 травня, дійшла до півфіналу<ref>{{Cite news|url=http://tennis.sport.ua/news/225223|title=Нюрнберг. Свитолина выходит в полуфинал!|last=Дудка|first=Влад|language=ru|work=СПОРТ.UA|accessdate=2017-09-15}}</ref>, де програла [[Кароліна Плішкова|Кароліні Плішковій]] (2:6, 6:1, 6:2)<ref>{{Cite news|url=http://tennis.sport.ua/news/225327|title=Свитолина проиграла в полуфинале турнира в Нюрнберге|last=Дудка|first=Влад|language=ru|work=СПОРТ.UA|accessdate=2017-09-15}}</ref>.
+
+На [[Відкритий чемпіонат Франції з тенісу 2014, жінки, одиночний розряд|Відкритому чемпіонаті Франції]] Еліна Світоліна, після відмови у першому сеті стартового матчу хорватки [[Петра Мартич|Петри Мартич]], вийшла до другого кола де, в черговий раз, поступилася [[Ана Іванович|Ані Іванович]] (5:7, 2:6)<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2014/05/29/573931/|title=Ролан Гаррос. Світоліна у другому раунді поступилася Іванович|work=Чемпіон|accessdate=2017-09-15|archive-date=2017-09-16|archive-url=https://web.archive.org/web/20170916053015/http://www.champion.com.ua/tennis/2014/05/29/573931/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170916053015/http://www.champion.com.ua/tennis/2014/05/29/573931/ |date=2017-09-16 }}</ref>. На [[Вімблдонський турнір 2014, жінки, одиночний розряд|Вімблдонському турнірі]] їй довелося зачохлити ракетку вже після першого кола, після поразки від майбутньої напарниці [[Дой Місакі]] (4:6, 1:6)<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2014/06/23/575983/|title=Вімблдон. Світоліна поступилася у першому колі "одинака"|work=Чемпіон|accessdate=2017-09-15|archive-date=2017-09-16|archive-url=https://web.archive.org/web/20170916010951/http://www.champion.com.ua/tennis/2014/06/23/575983/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170916010951/http://www.champion.com.ua/tennis/2014/06/23/575983/ |date=2017-09-16 }}</ref>.
+
+У липні Світоліна здобула свою першу перемогу на турнірі WTA в парному розряді, вигравши разом із Дой Місакі з Японії [[Istanbul Cup]]<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2014/07/20/578380/|title=Світоліна здобуває парний титул на турнірі WTA International у Стамбулі|work=Чемпіон|accessdate=2017-09-15|archive-date=2017-09-16|archive-url=https://web.archive.org/web/20170916011114/http://www.champion.com.ua/tennis/2014/07/20/578380/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170916011114/http://www.champion.com.ua/tennis/2014/07/20/578380/ |date=2017-09-16 }}</ref>. Вона зуміла захистити свій титул [[Baku Cup]] після перемоги у фіналі над [[Бояна Йовановські|Бояною Йовановські]]<ref>{{Cite news|url=http://tennis.sport.ua/news/231230|title=Элина Свитолина выиграла турнир в Баку|last=Шаповалов|first=Михаил|language=ru|work=СПОРТ.UA|accessdate=2017-09-15}}</ref><ref>{{Cite news|url=http://www.champion.com.ua/tennis/2014/07/27/578992/|title=WTA Баку. Світоліна виграла турнір. ФОТОРЕПОРТАЖ|work=Чемпіон|accessdate=2017-09-15|archive-date=2017-09-06|archive-url=https://web.archive.org/web/20170906201143/http://www.champion.com.ua/tennis/2014/07/27/578992/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170906201143/http://www.champion.com.ua/tennis/2014/07/27/578992/ |date=2017-09-06 }}</ref>.
+
+[[Відкритий чемпіонат США з тенісу 2014, жінки, одиночний розряд|Відкритий чемпіонат США]], як і попередній мейджор, закінчився в першому колі поразкою від словенки [[Полона Герцог|Полони Герцог]] (2:6, 6:7)<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2014/08/27/581559/|title=US Open. Світоліна програла на старті|work=Чемпіон|accessdate=2017-09-15|archive-date=2017-09-16|archive-url=https://web.archive.org/web/20170916011108/http://www.champion.com.ua/tennis/2014/08/27/581559/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170916011108/http://www.champion.com.ua/tennis/2014/08/27/581559/ |date=2017-09-16 }}</ref>. Після чого, на наступних двох турнірах, Еліна показала свій високий потенціал,&nbsp;— у Токіо, щоправда, поступившись у другому колі першій сіяній [[Анджелік Кербер]]<ref>{{Cite news|url=http://tennis.sport.ua/news/236229|title=Элина Свитолина покидает турнир в Токио|last=Шаповалов|first=Михаил|language=ru|work=СПОРТ.UA|accessdate=2017-09-15}}</ref>, віддячивши німкені у чвертьфіналі Вуханя<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2014/09/25/584522/|title=WTA Китай. Світоліна у чвертьфіналі перемогла восьму ракетку світу Анжеліку Кербер|work=Чемпіон|accessdate=2017-09-15|archive-date=2017-09-16|archive-url=https://web.archive.org/web/20170916011103/http://www.champion.com.ua/tennis/2014/09/25/584522/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170916011103/http://www.champion.com.ua/tennis/2014/09/25/584522/ |date=2017-09-16 }}</ref>, і лише у півфіналі її змогла зупинити 3-тя ракетка світу [[Петра Квітова]] (3:6, 5:7)<ref>{{Cite news|url=http://tennis.sport.ua/news/237111|title=Элина Свитолина уступает в полуфинале турнира в Ухане|last=Дудка|first=Влад|language=ru|work=СПОРТ.UA|accessdate=2017-09-15}}</ref>.
+
+До кінця року Еліна Світоліна зуміла ще раз дійти до півфіналу турніру WTA International у Осаці, де поступилася [[Саманта Стосур|Саманті Стосур]]<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2014/10/11/586030/|title=WTA Осака. Світоліна програла путівку в фінал першій сіяній|work=Чемпіон|accessdate=2017-09-15|archive-date=2017-09-16|archive-url=https://web.archive.org/web/20170916011155/http://www.champion.com.ua/tennis/2014/10/11/586030/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170916011155/http://www.champion.com.ua/tennis/2014/10/11/586030/ |date=2017-09-16 }}</ref> і завершила сезон на високому 28-му місці у світовому жіночому рейтингу<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2014/12/29/593861/|title=Рейтинг WTA. У ТОР-100 2014 рік завершують дві українки|work=Чемпіон|accessdate=2017-09-15|url-status=dead|archive-date=2017-09-16|archive-url=https://web.archive.org/web/20170916011105/http://www.champion.com.ua/tennis/2014/12/29/593861/}}</ref>.
+
+=== 2015: перший чвертьфінал у турнірах Великого шлема, третій титул WTA і топ-20 рейтингу WTA ===
+[[Файл:Elina Svitolina (17824474984).jpg|міні||225пкс|На [[Mutua Madrid Open]] 2015]]
+Новий сезон розпочався з виходу в півфінал [[Brisbane International]], де неподоланим бар'єром стала друга ракетка світу [[Шарапова Марія Юріївна|Марія Шарапова]] (1:6, 3:6)<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2015/01/9/594437/|title=WTA Брисбен. Світоліна гідно програла у півфіналі Шараповій|work=Чемпіон|accessdate=2017-09-16|archiveurl=https://web.archive.org/web/20170916140453/http://www.champion.com.ua/tennis/2015/01/9/594437/|archivedate=2017-09-16|deadurl=yes}} {{Webarchive|url=https://web.archive.org/web/20170916140453/http://www.champion.com.ua/tennis/2015/01/9/594437/ |date=2017-09-16 }}</ref>. А вже в третьому колі [[Відкритий чемпіонат Австралії з тенісу 2015, жінки, одиночний розряд|Відкритого чемпіонату Австралії]], після перемог над казашкою [[Путінцева Юлія Антонівна|Юлією Путінцевою]] (6:3, 7:6) та американкою [[Ніколь Гіббс]] (7:6, 7:6), Еліні довелося зустрітися з найкращою тенісисткою тогочасного жіночого рейтингу, [[Серена Вільямс|Сереною Вільямс]]<ref>{{Cite news|url=http://tennis.sport.ua/news/249446|title=Australian Open. Свитолина пробивается в третий раунд|last=Рыбаченко|first=Евгений|language=ru|work=СПОРТ.UA|accessdate=2017-09-16}}</ref>. Українці вдалося навіть взяти перший сет&nbsp;— 6:4, але в наступних двох Серена не залишила опонентці жодних шансів на успіх&nbsp;— 2:6, 0:6<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2015/01/24/595569/|title=Australian Open. Світоліна виграла у Вільямс сет, але програла зустріч|work=Чемпіон|accessdate=2017-09-16|url-status=dead|archive-date=2017-09-16|archive-url=https://web.archive.org/web/20170916140240/http://www.champion.com.ua/tennis/2015/01/24/595569/}}</ref>, і дуже високо оцінила майбутні перспективи своєї молодої суперниці<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2015/01/25/595704/|title=Серена Вільямс: "У Світоліної - великий потенціал"|work=Чемпіон|accessdate=2017-09-16|archive-date=2017-09-16|archive-url=https://web.archive.org/web/20170916140128/http://www.champion.com.ua/tennis/2015/01/25/595704/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170916140128/http://www.champion.com.ua/tennis/2015/01/25/595704/ |date=2017-09-16 }}</ref>. Гарний початок сезону дав Еліні змогу закріпитися в третьому десятку тенісисток світу&nbsp;— на 26-му рядку<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2015/02/2/596311/|title=Рейтинг WTA. Світоліна зберігає 26-е місце|work=Чемпіон|accessdate=2017-09-16|archiveurl=https://web.archive.org/web/20170916182311/http://www.champion.com.ua/tennis/2015/02/2/596311/|archivedate=2017-09-16|deadurl=yes}} {{Webarchive|url=https://web.archive.org/web/20170916182311/http://www.champion.com.ua/tennis/2015/02/2/596311/ |date=2017-09-16 }}</ref>.
+
+У квітні-травні Світоліна, вперше в кар'єрі сіяна під першим номером на турнірі WTA International, дісталася півфіналу [[Claro Open Colsanitas]] у колумбійській [[Богота|Боготі]]<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2015/04/19/614795/|title=WTA Колумбія. Світоліна у фіналі не зіграє|work=Чемпіон|accessdate=2017-09-16|url-status=dead|archive-date=2017-09-16|archive-url=https://web.archive.org/web/20170916140238/http://www.champion.com.ua/tennis/2015/04/19/614795/}}</ref>, а на наступних змаганнях здобула свою третю перемогу в турнірах жіночої тенісної асоціації, цього разу на [[Гран-прі принцеси Лалли Мер'єм]] у [[Марокко]], здолавши у фіналі угорку [[Тімеа Бабош]] (7:5, 7:6)<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2015/05/2/616139/|title=WTA Марокко. Світоліна здобула титул, у фіналі обігравши угорку Бабош|work=Чемпіон|accessdate=2017-09-16|archiveurl=https://web.archive.org/web/20170916140235/http://www.champion.com.ua/tennis/2015/05/2/616139/|archivedate=2017-09-16|deadurl=yes}} {{Webarchive|url=https://web.archive.org/web/20170916140235/http://www.champion.com.ua/tennis/2015/05/2/616139/ |date=2017-09-16 }}</ref>. Цей успіх дав їй змогу уперше потрапити в чільну двадцятку рейтингу WTA та стати найкращою молодою тенісисткою місяця<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2015/05/11/616829/|title=Рейтинг WTA. Світоліна увійшла у двадцятку найкращих тенісисток світу|work=Чемпіон|accessdate=2017-09-16|archive-date=2017-09-16|archive-url=https://web.archive.org/web/20170916182308/http://www.champion.com.ua/tennis/2015/05/11/616829/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170916182308/http://www.champion.com.ua/tennis/2015/05/11/616829/ |date=2017-09-16 }}</ref><ref>{{Cite news|url=http://www.champion.com.ua/tennis/2015/05/9/616729/|title=Світоліна - найкраща молода тенісистка квітня|work=Чемпіон|accessdate=2017-09-16|archiveurl=https://web.archive.org/web/20170916140421/http://www.champion.com.ua/tennis/2015/05/9/616729/|archivedate=2017-09-16|deadurl=yes}} {{Webarchive|url=https://web.archive.org/web/20170916140421/http://www.champion.com.ua/tennis/2015/05/9/616729/ |date=2017-09-16 }}</ref>.
+
+Еліна доволі успішно виступила на [[Відкритий чемпіонат Франції з тенісу 2015, жінки, одиночний розряд|Відкритому чемпіонаті Франції]], вперше діставшись чвертьфіналу турніру [[Турніри Великого шолома|Великого шлема]]. На попередніх стадіях не встояли: бельгійка [[Яніна Вікмаєр]] (6:2, 6:2), казашка Юлія Путінцева (1:6, 7:5, 9:7), німкеня [[Анніка Бек]] (6:3, 2:6, 6:4) та француженка [[Алізе Корне]] (6:2, 7:6<sup>(9:7)</sup>). Натомість, традиційно незручна суперниця, сьома ракетка світу і турніру сербка [[Ана Іванович]] не дала жодних приводів для сумніву у своїй перевазі&nbsp;— Світоліна без бою поступилася у двох сетах (3:6, 2:6)<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2015/06/2/618976/|title=Ролан Гаррос. Світоліна у чвертьфіналі програла Іванович|work=Чемпіон|accessdate=2017-09-16|archiveurl=https://web.archive.org/web/20170916140344/http://www.champion.com.ua/tennis/2015/06/2/618976/|archivedate=2017-09-16|deadurl=yes}} {{Webarchive|url=https://web.archive.org/web/20170916140344/http://www.champion.com.ua/tennis/2015/06/2/618976/ |date=2017-09-16 }}</ref>. Результатом успіху на Ролану Гарросі стали 430 рейтингових очок і новий рекорд України&nbsp;— 17-та сходинка у світовому рейтингу WTA<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2015/06/8/619492/|title=Рейтинг WTA. Світоліна встановила новий рекорд України|work=Чемпіон|accessdate=2017-09-16|archiveurl=https://web.archive.org/web/20170916140130/http://www.champion.com.ua/tennis/2015/06/8/619492/|archivedate=2017-09-16|deadurl=yes}} {{Webarchive|url=https://web.archive.org/web/20170916140130/http://www.champion.com.ua/tennis/2015/06/8/619492/ |date=2017-09-16 }}</ref>. Трав'яна частина сезону виявилася не такою вдалою&nbsp;— вперше бувши сіяною в основній сітці, у другому колі [[Вімблдонський турнір 2015, жінки, одиночний розряд|Вімблдону 2015]], Еліна поступилася австралійці [[Кейсі Деллаква|Кейсі Делакуа]], більш відомій успіхами в парних змаганнях<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2015/07/2/621620/|title=Вімблдон. Світоліна програла у другому колі|work=Чемпіон|accessdate=2017-09-16|archiveurl=https://web.archive.org/web/20170916140101/http://www.champion.com.ua/tennis/2015/07/2/621620/|archivedate=2017-09-16|deadurl=yes}} {{Webarchive|url=https://web.archive.org/web/20170916140101/http://www.champion.com.ua/tennis/2015/07/2/621620/ |date=2017-09-16 }}</ref>.
+
+Перед останнім у сезоні мейджором Світоліна дісталася півфіналів на двох хардових турнірах у США: на [[Bank of the West Classic 2015, одиночний розряд|Bank of the West Classic]] у Стенфорді її зупинила майбутня переможниця [[Анджелік Кербер]] (3:6, 1:6)<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2015/08/9/624931/|title=WTA Стенфорд. Світоліна програла у півфіналі Кербер|work=Чемпіон|accessdate=2017-09-16|archiveurl=https://web.archive.org/web/20170917032545/http://www.champion.com.ua/tennis/2015/08/9/624931/|archivedate=2017-09-17|deadurl=yes}} {{Webarchive|url=https://web.archive.org/web/20170917032545/http://www.champion.com.ua/tennis/2015/08/9/624931/ |date=2017-09-17 }}</ref>, а на [[Мастерс Цинциннаті|Western & Southern Open]] у Цинциннаті вдруге в сезоні Еліну проекзаменувала Серена Вільямс (4:6, 3:6)<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2015/08/23/626234/|title=WTA Цинциннаті. Світоліна у півфіналі поступилася Серені Вільямс. ВІДЕО|work=Чемпіон|accessdate=2017-09-16|archive-date=2017-09-17|archive-url=https://web.archive.org/web/20170917032326/http://www.champion.com.ua/tennis/2015/08/23/626234/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170917032326/http://www.champion.com.ua/tennis/2015/08/23/626234/ |date=2017-09-17 }}</ref>, яка потому теж взяла титул. На самому ж [[Відкритий чемпіонат США з тенісу 2015, жінки, одиночний розряд|US Open 2015]] українка, здолавши послідовно росіянку Єлизавету Куличкову (6:1, 6:4) та естонку [[Кая Канепі|Каю Канепі]] (6:3, 6:4) вийшла аж до третього раунду де поступилася [[Макарова Катерина Валеріївна|Катерині Макаровій]] (Росія, 13)&nbsp;— 3:6, 5:7<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2015/09/4/627428/|title=US Open. Світоліна у третьому раунді поступилася росіянці|work=Чемпіон|accessdate=2017-09-16|archiveurl=https://web.archive.org/web/20170917032502/http://www.champion.com.ua/tennis/2015/09/4/627428/|archivedate=2017-09-17|deadurl=yes}} {{Webarchive|url=https://web.archive.org/web/20170917032502/http://www.champion.com.ua/tennis/2015/09/4/627428/ |date=2017-09-17 }}</ref>.
+
+Останнім вдалим виступом сезону став [[WTA Elite Trophy 2015, одиночний розряд|WTA Elite Trophy]] у китайському [[Чжухай|Чжухаї]],&nbsp;— Еліна пробилася до півфіналу, де поступилася третій сіяній [[Кароліна Плішкова|Кароліні Плішковій]] (3:6, 1:6)<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2015/11/7/633767/|title=WTA Elite Trophy Китай. У півфіналі Світоліна розгромлена Плішковою|work=Чемпіон|accessdate=2017-09-16|archiveurl=https://web.archive.org/web/20170917032459/http://www.champion.com.ua/tennis/2015/11/7/633767/|archivedate=2017-09-17|deadurl=yes}} {{Webarchive|url=https://web.archive.org/web/20170917032459/http://www.champion.com.ua/tennis/2015/11/7/633767/ |date=2017-09-17 }}</ref>. Сезон Світоліна завершила на 19-му рядку світового табеля про ранги, заробивши більше мільйона призових<ref>{{Cite news|url=http://www.champion.com.ua/tennis/2015/12/28/638607/|title=Рейтинг WTA: Українки зберегли свої позиції в ТОР-100|work=Чемпіон|accessdate=2017-09-16|archive-date=2017-09-17|archive-url=https://web.archive.org/web/20170917032414/http://www.champion.com.ua/tennis/2015/12/28/638607/|url-status=dead}} {{Webarchive|url=https://web.archive.org/web/20170917032414/http://www.champion.com.ua/tennis/2015/12/28/638607/ |date=2017-09-17 }}</ref>.
+
+=== 2016: четвертий титул WTA, чвертьфінал Олімпійських ігор ===
+[[Файл:Svitolina RG16 (14) (26794846264).jpg|міні||225пкс|На [[Відкритий чемпіонат Франції з тенісу 2016, жінки, одиночний розряд|Ролан Гаррос 2016]]]]
+Світоліна розпочала рік, представляючи Україну в [[Кубок Гопмана|Кубку Гопмана]] разом з [[Долгополов Олександр Олександрович|Олександром Долгополовим]]. Українська пара добралася до фіналу, де поступилася австралійцям.
+
+На [[Apia International Sydney 2016, жінки, одиночний розряд|Sydney International]] Еліна програла в першому колі [[Анджелік Кербер]]. На Відкритому чемпіонаті Австралії вона добралася до другого кола. Після цього до тренерського штабу Еліни долучилася [[Жустін Енен]]. Світоліна пробилася до півфіналу турніру в Дубаї, де програла [[Сара Еррані|Сарі Еррані]]. На турнірі в [[Qatar Total Open|Досі]] Еліна вибула в першому колі.
+
+[[6 березня]] Еліна Світоліна виграла турнір [[BMW Malaysian Open]], який проходив у [[Куала-Лумпур]]і. Завдяки перемозі вона піднялася на 14-те місце в рейтингу WTA. Матч тривав упродовж практично всього дня&nbsp;— через негоду його чотири рази доводилося переривати, особливо довгою виявилася пауза в середині вирішальної партії. Це четвертий титул серії WTA для 21-річної українки<ref>[http://www.bbc.com/ukrainian/news_in_brief/2016/03/160306_svilolina_victory_rl Українська тенісистка Світоліна виграла турнір у Малайзії]</ref><ref>{{Cite web |url=http://www.champion.com.ua/tennis/2016/03/6/644404/ |title=WTA Малайзія. Світоліна у фіналі перемогла Бушар |accessdate=7 березня 2016 |archiveurl=https://web.archive.org/web/20160308234315/http://www.champion.com.ua/tennis/2016/03/6/644404/ |archivedate=8 березня 2016 |deadurl=yes }} {{Webarchive|url=https://web.archive.org/web/20160308234315/http://www.champion.com.ua/tennis/2016/03/6/644404/ |date=2016-03-08 }}</ref>.
+
+На [[Відкритий чемпіонат Франції з тенісу 2016, жінки, одиночний розряд|Відкритому чемпіонаті Франції]] Еліна дісталася до четвертого кола, де поступилася у двох сетах Серені Вільямс. У третьому колі вона переграла [[Ана Іванович|Ану Іванович]], якій програвала до цього сім разів. На [[Вімблдонський турнір 2016, жінки, одиночний розряд|Вімблдоні 2016]] Еліна програла в другому колі [[Шведова Ярослава В'ячеславівна|Ярославі Шведовій]].
+
+[[9 серпня]] в третьому раунді [[Теніс на літніх Олімпійських іграх 2016|турніру Олімпійських ігор у Ріо-де-Жанейро]] Світоліна перемогла першу ракетку світу [[Серена Вільямс|Серену Вільямс]] у двох сетах (6:4, 6:3) та вийшла у чвертьфінал, у якому програла [[Петра Квітова|Петрі Квітовій]] за 48 хвилин (2:6, 0:6)<ref>{{cite news
+ | назва            =Ріо-2016: Українка Світоліна сенсаційно перемогла першу ракетку світу Уільямс (фотогалерея)
+ | url              =http://sport.unian.ua/rio2016/1461528-rio-2016-ukrajinka-svitolina-sensatsiyno-peremogla-pershu-raketku-svitu-uilyams.html
+ | газета           =[[УНІАН]]
+ | дата             =10 серпня 2016
+ | дата-доступу     =10 серпня 2016
+}}</ref><ref>{{cite news
+ | назва            =Ріо-2016. Світоліна програла чвертьфінал тенісного турніру за 48 хвилин
+ | url              =http://sport.unian.ua/rio2016/1465443-rio-2016-svitolina-prograla-chvertfinal-tenisnogo-turniru-za-48-hvilin.html
+ | газета           =[[УНІАН]]
+ | дата             =11 серпня 2016
+ | дата-доступу     =12 серпня 2016
+}}</ref>.
+
+[[6 жовтня]] [[2016]] року обіграла вже іншу першу ракетку світу&nbsp;— Анджелік Кербер.
+
+На [[Connecticut Open]] Еліна вперше потрапила до фіналу [[Турніри WTA Premier|турніру прем'єрного рівня]], хоча на шляху до фіналу перемагала тільки тенісисток із нижчим від себе рейтингом. У вирішальній грі вона поступилася першій сіяній [[Агнешка Радванська|Агнешці Радванській]].
+
+Рік Світоліна завершила на [[WTA Elite Trophy]], де добралася до фіналу, але поступилася у вирішальному матчі [[Петра Квітова|Петрі Квітовій]]<ref>[http://isport.ua/tennis/360409-svitolina-ustupaet-v-finale-wta-elite-trophy Світоліна встановила нове досягнення українського тенісу.]</ref> На кінець року вона зупинилася на 14 сходинці світового рейтингу.
+
+=== 2017: три поспіль перемоги в турнірах Premier 5, третя ракетка світу ===
+[[Файл:Elina Svitolina (33318618651).jpg|міні|ліворуч|225пкс|На [[BNP Paribas Open|Indian Wells Open]] 2017]]
+На початку січня Еліна дійшла до півфіналу турніру [[Турніри WTA Premier|WTA Premier]] в австралійському [[Брисбен]]і, під час якого обіграла олімпійську чемпіонку [[Моніка Пуїг|Моніку Пуїг]] із [[Пуерто-Рико]], а також у чергове першу ракетку світу [[Анджелік Кербер]]<ref name=":0">[http://zaxid.net/news/showNews.do?elina_svitolina_onovila_natsionalniy_rekord_v_reytingu_naykrashhih_raketok_svitu&objectId=1414576 Еліна Світоліна оновила національний рекорд в рейтингу найкращих ракеток світу] // zaxid.net.&nbsp;— 2017.&nbsp;— 9 січня</ref>.
+
+Еліна Світоліна не брала участі в турнірі в Сіднеї, через те, що підхопила вірус і змушена була знятися з боротьби<ref name=":1">[http://24tv.ua/svitolina_vstanovila_noviy_natsionalniy_rekord_n768738 Світоліна встановила новий національний рекорд] // Канал 24.&nbsp;— 2017.&nbsp;— 9 січня</ref>. На [[Відкритий чемпіонат Австралії з тенісу 2017, жінки, одиночний розряд|Australian Open]] Світоліна виграла в Галини Войскобоєвої та [[Джулія Босерап|Джулії Босерап]], але в третьому колі програла [[Павлюченкова Анастасія Сергіївна|Анастасії Павлюченковій]].
+
+На початку лютого Еліна виграла [[WTA Taiwan Open]]. Це вже п'ятий одиночний титул WTA у професійній кар'єрі Світоліної<ref>{{Cite web|url=http://ukranews.com/ua/news/477198-persha-raketka-ukrainy-elina-svitolina-stala-peremozhnyceyu-taiwan-open|title=Відео дня: Перша ракетка України Еліна Світоліна стала переможницею Taiwan Open|last=|first=|date=2017-02-05|website=ukranews.com|publisher=[[Українські новини]]|language=|accessdate=}}</ref>.
+
+Шостий титул WTA Світоліна здобула на турнірі з чільних п'яти прем'єрного рівня&nbsp;— [[Dubai Tennis Championships]]. Ця перемога дала їй змогу вперше піднятися до першої десятки світового рейтингу.
+
+На [[Кубок Федерації|Кубку Федерації]] в [[Німеччина|Німеччині]] Еліна Світоліна вшосте за кар'єру обіграла Анджелік Кербер, зокрема вчетверте підряд і втретє, коли та обіймала першу позицію в рейтингу WTA на момент гри. Проте в загальному заліку збірна України поступилася збірній Німеччини на цьому турнірі<ref>{{Cite web |url=http://sapronov-tennis.org/kubok-federatsii-svitolina-uverenno-obygryvaet-kerber/ |title=Кубок Федерации. Свитолина уверенно обыгрывает Кербер |accessdate=2017-09-13 |archive-date=2017-09-13 |archive-url=https://web.archive.org/web/20170913135532/http://sapronov-tennis.org/kubok-federatsii-svitolina-uverenno-obygryvaet-kerber/ }} {{Webarchive|url=https://web.archive.org/web/20170913135532/http://sapronov-tennis.org/kubok-federatsii-svitolina-uverenno-obygryvaet-kerber/ |date=2017-09-13 }}</ref>.
+
+Сьомий титул WTA Світоліна здобула на турнірі [[Istanbul Cup]]. Восьмий&nbsp;— на [[Мастерс Рим|Italian Open]], ще одному турнірі з чільних п'яти прем'єрного рівня, де Еліна обіграла підряд трьох тенісисток із топ-10 світового рейтингу (а згодом цього ж року топ-3 у повному складі): [[Кароліна Плішкова|Кароліну Плішкову]], [[Гарбінє Мугуруса|Гарбінє Мугурусу]] й [[Симона Халеп|Сімону Халеп]].
+
+Перед стартом «[[Відкритий чемпіонат Франції з тенісу 2017|Ролан Гарросу]]» Еліна закінчила співпрацю з Габріелем Урпі<ref>[http://vgolos.com.ua/news/elina_svitolina_zakinchyla_spivpratsyu_z_gabrielem_urpi_266407.html Еліна Світоліна закінчила співпрацю з Габріелем Урпі]</ref>.
+
+На [[Відкритий чемпіонат Франції з тенісу 2017, жінки, одиночний розряд|Відкритому чемпіонаті Франції]] Еліна Світоліна (п'ятий номер посіву) вдруге в кар'єрі пробилася до чвертьфіналу, де поступилася Сімоні Халеп (перша сіяна) у трьох сетах (6:3, 6:7, 0:6), причому в другому сеті українка вела 6:3, 5:1 і мала матч-пойнт, проте Халеп змогла сенсаційно відігратися<ref>[http://www.wtatennis.com/news/halep-returns-roland-garros-semifinals-after-epic-comeback Halep returns to Roland Garros semifinals after epic comeback]</ref>. Після цього результату Світоліна піднялася на п'яту сходинку світового рейтингу.
+
+[[Файл:Svitolina WM17 (25) (36050661441).jpg|міні|праворуч|225пкс|На [[Вімблдонський турнір 2017, жінки, одиночний розряд|Вімблдоні 2017]]]]
+
+На [[Вімблдонський турнір 2017, жінки, одиночний розряд|Вімблдонському турнірі]] Світоліна добралася до четвертого кола, далі, ніж будь-яка українська тенісистка в історії. На своєму шляху вона здолала австралійку [[Ешлі Барті]], італійку [[Франческа Ск'явоне|Франческу Ск'явоне]] та німкеню [[Каріна Віттгефт|Каріну Віттгефт]]. У четвертому колі Еліна поступилася [[Олена Остапенко|Олені Остапенко]] з Латвії.
+
+Свій дев'ятий титул WTA Світоліна здобула на [[Rogers Cup 2017, жінки, одиночний розряд|Rogers Cup]] в канадському Торонто. Вона послідовно перемогла [[Касаткіна Дарія Сергіївна|Дарію Касаткіну]], [[Вінус Вільямс]], Гарбінє Мугурусу, Сімону Халеп та [[Каролін Возняцкі]], останні чотири з яких, на той момент, входили до найкращих 10 рейтингу WTA. Це третій поспіль виграш Еліни на турнірі цієї категорії, що стало абсолютним рекордом на турнірах серії Premier 5 ([[Dubai Tennis Championships]], [[Мастерс Рим|Italian Open]] і [[Мастерс Канада|Canadian Open]], усі [[2017]] року)&nbsp;— до цього жодна тенісистка не вигравала три такі титули одного сезону навіть у довільній послідовності<ref>{{Cite news|url=https://www.rbc.ua/ukr/news/svitolina-ustanovila-istoricheskiy-rekord-1502688052.html|title=Світоліна встановила історичний рекорд в WTA|last=Rbc.ua|language=uk|work=РБК-Украина|accessdate=2017-08-17}}</ref>.
+
+Зокрема, в ході цих трьох турнірів Еліна Світоліна обіграла майже всіх тенісисток, що протягом 2017 року очолювали верхівку рейтингу WTA: [[Симона Халеп|Сімону Халеп]] (двічі), [[Гарбінє Мугуруса|Гарбінє Мугурусу]] (двічі), [[Каролін Возняцкі]] (двічі), [[Кароліна Плішкова|Кароліну Плішкову]], [[Анджелік Кербер]] й [[Вінус Вільямс]].
+
+На [[Відкритий чемпіонат США з тенісу 2017, жінки, одиночний розряд|Відкритому чемпіонаті США]] Світоліна добралася до четвертого кола, де поступилася в трьох сетах [[Медісон Кіз]], і втратила нагоду поборотися за звання першої ракетки світу. Попри це після турніру вона піднялася на один щабель у світовому рейтингу до третього місця.
+
+25 вересня офіційно кваліфікувалась на підсумковий [[Чемпіонат WTA]] у [[Сінгапур|Сингапурі]]. Еліна Світоліна вперше в кар'єрі та в усій історії українського жіночого тенісу потрапила до вісімки найсильніших тенісисток за підсумками сезону<ref>{{Cite web|url=http://www.tennisnews.com.ua/2017/09/wta-finals-svitolina-qual.html|title=Элина Свитолина квалифицировалась на Итоговый Турнир WTA в Сингапуре.|website=www.tennisnews.com.ua|accessdate=2017-09-26|archive-date=2017-09-26|archive-url=https://web.archive.org/web/20170926190849/http://www.tennisnews.com.ua/2017/09/wta-finals-svitolina-qual.html}} {{Webarchive|url=https://web.archive.org/web/20170926190849/http://www.tennisnews.com.ua/2017/09/wta-finals-svitolina-qual.html |date=2017-09-26 }}</ref>.
+
+На [[China Open (теніс) 2017, жінки, одиночний розряд|China Open]] у жовтні Еліна Світоліна знову мала шанси зайняти першу сходинку рейтингу WTA, в разі здобуття титулу, проте програла у чвертьфіналі у запеклій боротьбі [[Каролін Гарсія|Каролін Гарсії]] (7:6<sup>(7:5)</sup>, 5:7, 6:7<sup>(6:8)</sup>, матч тривав 3 години 21 хвилину)<ref>{{Cite web|url=http://www.wtatennis.com/news/garcia-survives-svitolina-keep-singapore-hopes-alive-beijing|title=Garcia survives Svitolina|website=www.wtatennis.com|accessdate=2017-10-08}}</ref>, що згодом виграла цей турнір обігравши у фіналі [[Симона Халеп|Сімону Халеп]], яка, своєю чергою, стала першою ракеткою світу після цього змагання.
+
+На підсумковому турнірі сезону Чемпіонаті WTA в Сінгапурі, Світоліна здобула свою чергову перемогу над першою ракеткою світу (цього разу над Сімоною Халеп), але програла два інші матчі й припинила боротьбу на етапі колового турніру, закінчивши рік на шостій позиції рейтингу WTA.
+
+=== 2018: чемпіонка WTA ===
+Сезон 2018 року Світоліна розпочала вигравши турнір [[Brisbane International]] ([[Брисбен]], [[Австралія]]). У чвертьфіналі та півфіналі цього змагання Еліна обіграла двох суперниць із найкращих 10 рейтингу WTA&nbsp;— [[Джоанна Конта|Джоанну Конту]] (1:6, 7:6<sup>(8:6)</sup>, 3:2<sup>ret</sup>) і [[Кароліна Плішкова|Кароліну Плішкову]] (7:5, 7:5), а у фіналі легко здолала білоруску [[Саснович Олександра Олександрівна|Олександру Саснович]] (6:2, 6:1). Ця перемога стала її 10-м титулом WTA.<ref>{{Cite web|url=https://sport.unian.ua/othersports/2333557-svitolina-vigrala-sviy-10-y-titul-v-kareri-zdobuvshi-peremogu-v-brisbeni.html|title=Світоліна виграла свій 10-й титул в кар'єрі, здобувши перемогу в Брисбені|website=sport.unian.ua|accessdate=2018-01-08}}</ref>
+
+На [[Відкритий чемпіонат Австралії з тенісу 2018, жінки, одиночний розряд|Відкритому чемпіонаті Австралії]] пройшла до чвертьфіналу, де поступилася [[Елісе Мертенс]] (4:6, 0:6)<ref>{{Cite news|url=https://btu.org.ua/ua/golovne/12991-australian-open-svtolna-zupinyayetsya-u-chvertfnal.html|title=Australian Open. Світоліна зупиняється у чвертьфіналі|work=Великий Теніс України|accessdate=2018-02-25}}</ref>. Після цього результату Світоліна знову посіла третє місце рейтингу WTA.
+
+У лютому захистила титул, вдруге поспіль вигравши [[Dubai Tennis Championships 2018, жінки, одиночний розряд|Dubai Tennis Championships]] ([[Дубай (місто)|Дубай]], [[Об'єднані Арабські Емірати|ОАЕ]]), хоча цього року змагання мало на одну ланку нижчий рівень ніж попереднього (Premier, а не Premier 5). У півфіналі вп'яте поспіль обіграла колишню першу і нинішню дев'яту ракетку світу [[Анджелік Кербер]] (6:3, 6:3). У фінальному матчі легко здолала росіянку [[Касаткіна Дарія Сергіївна|Дарію Касаткіну]] (6:4, 6:0)<ref>{{Cite web|url=http://www.wtatennis.com/news/svitolina-sweeps-past-kasatkina-defend-dubai|title=Svitolina sweeps past Kasatkina to defend Dubai|accessdate=2018-02-24}}</ref>.
+
+5 березня виграла швидкий неофіційний турнір {{не перекладено|Tie Break Tens|Tie Break Tens|en|Tie Break Tens}} у форматі [[Тай-брейк|тайбрейку]] до 10 очок, розгромивши усіх суперниць&nbsp;— [[Вінус Вільямс]] (10:3), [[Коко Вандевей]] (10:0) і [[Чжан Шуай]] у фіналі (10:3), яка перед цим у півфіналі обіграла [[Серена Вільямс|Серену Вільямс]]. Призові Еліни за перемогу на цьому змаганні складали 250&nbsp;000&nbsp;доларів США.
+
+У травні захистила титул вдруге поспіль вигравши [[Мастерс Рим|Italian Open]], у фіналі обіграла першу ракетку світу [[Сімона Халеп|Сімону Халеп]] (6:0, 6:4). Це шостий поспіль виграш у першої ракетки світу (Вільямс, тричі Кербер, двічі Халеп). Співвідношення виграшів-програшів у фіналах стало 12:2. На Відкритому чемпіонаті Франції 2018 Світоліна перемогла [[Айла Том'янович|Айлу Том'янович]] та [[Вікторія Кужмова|Вікторію Кужмову]], але в третьому колі поступилася [[Міхаела Бузернеску|Міхаелі Бузернеску]] (3:6, 5:7)<ref>{{cite web| title=Buzarnescu blows by Svitolina in stunning Paris upset | url=http://www.wtatennis.com/news/buzarnescu-blows-svitolina-stunning-paris-upset | date = 1 June 2018 | accessdate = 2 June 2018}}</ref>. Уже в Римі було помітно, що вона сильно схудла.
+
+Трав'яну частину сезону Світоліна почала з чвертьфіналу турніру в [[Birmingham Classic 2018, одиночний розряд|Бірмінгемі]], де знову програла Бузернеску (3:6, 2:6)<ref>{{cite web| title=Buzarnescu bounces Svitolina from Birmingham | url=http://www.wtatennis.com/news/buzarnescu-bounces-svitolina-birmingham | date = 22 June 2018 | accessdate = 23 June 2018}}</ref>. На [[Вімблдонський турнір 2018, жінки, одиночний розряд|Вімблдоні]] Еліна несподівано програла вже в першому колі [[Татьяна Марія|Тетьяні Марії]] (6:7<sup>(3:7)</sup>, 6:4, 1:6)<ref>{{Cite news|url=http://www.wtatennis.com/news/maria-stuns-svitolina-sun-sets-wimbledon|title=Maria stuns Svitolina as sun sets on Wimbledon|last=Kane|first=David|date=2018-07-02|language=en|work=WTA Tennis|accessdate=2018-11-03}}</ref>.
+
+В американській хардовій частині сезону вона мала помірковані успіхи. На [[Rogers Cup 2018, жінки, одиночний розряд|Rogers Cup]] у Монреалі не зуміла захистити титул, але пробилася до півфіналу, на [[Western & Southern Open 2018, жінки, одиночний розряд|Western & Southern Open]] у Цинциннаті програла у чвертьфіналі майбутній чемпіонці [[Кікі Бертенс]] (4:6, 3:6)<ref>{{Cite news|url=http://www.wtatennis.com/news/bertens-bests-svitolina-enter-cincinnati-semifinals|title=Bertens bests Svitolina to enter Cincinnati semifinals|last=Juzwiak|first=Jason|date=2018-08-17|language=en|work=WTA Tennis|accessdate=2018-11-03}}</ref>. На [[Відкритий чемпіонат США з тенісу 2018, жінки, одиночний розряд|Відкритому чемпіонаті США]] Еліна Світоліна добралася до четвертого кола, де програла [[Анастасія Севастова|Анастасії Севастовій]] (3:6, 6:1, 0:6)<ref>{{Cite news|url=http://www.wtatennis.com/news/sevastova-detiene-svitolina-para-regresar-los-cuartos-de-final-del-us-open|title=Sevastova detiene a Svitolina para regresar a los cuartos de final del US Open|last=Martin|first=Raquel|date=2018-09-03|language=en|work=WTA Tennis|accessdate=2018-11-03}}</ref>.
+
+Восени відносно невдало виступила на турнірах у Китаї та кваліфікувалася на підсумковий турнір року лише за кілька днів до його початку за результатами інших тенісисток.
+
+У кінці сезону виграла підсумковий [[Чемпіонат WTA 2018, одиночний розряд|Чемпіонат WTA 2018 року]] у Сингапурі з загальним призовим фондом 7 мільйонів [[долар США|доларів]], здобувши найбільший титул у своїй кар'єрі. Розпочала турнір перемогою над 5-ю ракеткою світу [[Петра Квітова|Петрою Квітовою]] (6:3, 6:3), якій програвала до цього 7 разів поспіль. Також на груповому етапі виграла у восьмої ракетки [[Кароліна Плішкова|Кароліни Плішкової]] (6:3, 2:6, 6:3) та у минулорічної чемпіонки цього змагання, третьої ракетки світу [[Каролін Возняцкі]] (5:7, 7:5, 6:3). У півфіналі обіграла [[Кікі Бертенс]] (7:5, 6:7<sup>(5:7)</sup>, 6:4) і вийшла у фінал, де здобула перемогу над шостою ракеткою світу [[Слоун Стівенс]] (3:6, 6:2, 6:2). Еліна Світоліна першою з українок виграла Чемпіонат WTA, що є п'ятим за престижністю турніром після турнірів Великого шолома. Завдяки цій перемозі Світоліна завершила сезон четвертою в рейтингу WTA та перемогла в номінації «гравець місяця» (жовтень) за підсумками голосування на офіційному сайті [[Жіноча тенісна асоціація|жіночої тенісної асоціації]]<ref>{{Cite news|url=http://www.wtatennis.com/news/october-2018-player-month-elina-svitolina|title=October 2018 Player of the Month: Elina Svitolina|last=Chiesa|first=Victoria|date=2018-11-09|language=en|work=WTA Tennis|accessdate=2018-11-10}}</ref><ref>{{Cite news|url=https://www.rbc.ua/ukr/news/svitolina-stala-pobeditelnitsey-itogovogo-1540727554.html|title=Світоліна стала переможницею підсумкового турніру WTA|last=Rbc.ua|language=uk-UA|work=РБК-Украина|accessdate=2018-11-15}}</ref>.
+
+=== 2019: два півфінали на турнірах Великого слему ===
+[[Файл:Elina Svitolina (49745355512).jpg|міні||300пкс|Еліна Світоліна на Вімблдоні 2019 року, де пройшла у півфінал]]
+2019 рік Еліна Світоліна розпочала з невдалого захисту титулу на турнірі в [[Брисбен]]і, де українка вже у першому раунді програла торішній фіналістці, [[Саснович Олександра Олександрівна|Олександрі Саснович]] із Білорусі (4:6, 6:0, 3:6)<ref>{{Cite web|title=Брисбен. Світоліна програє Саснович у трьох сетах|url=https://btu.org.ua/ua/news/ukrainskiy-tennis/17932-brisben-svitolina-proigryvaet-sasnovich-v-treh-setah.html|website=Великий Теніс України|accessdate=2020-09-27}}</ref>.
+
+На [[Відкритий чемпіонат Австралії з тенісу 2019|Відкритому чемпіонаті Австралії]] у січні, де українка була сіяна шостою, вона вдруге поспіль дісталася чвертьфіналу цього турніру, здолавши у своїй сітці [[Вікторія Голубич|Вікторію Голубич]], [[Вікторія Кужмова|Вікторію Кужмову]], [[Чжан Шуай]] та 17-му сіяну тенісистку, американку [[Медісон Кіз]]. На жаль, у чвертьфінальному матчі проти 4-ї ракетки світу та майбутнього тріумфатора змагання, японки [[Осака Наомі|Наомі Осаки]], Світоліній завадила травма шиї та плеча, через що українка програла поєдинок (4:6, 1:6)<ref>{{Cite web|title=Australian Open. Світоліна зупиняється у чвертьфіналі|url=https://btu.org.ua/ua/news/ukrainskiy-tennis/18380-australian-open-svitolina-ostanavlivaetsja-v-chetvertfinale.html|website=Великий Теніс України|accessdate=2020-09-27}}</ref>. Згодом Еліна досягла півфіналів турнірів у [[Доха|Досі]], [[Катар]], де програла 3-й ракетці світу, румунці [[Сімона Халеп|Сімоні Халеп]], та втратила титул чинної дворазової чемпіонки на змаганнях у [[Dubai Tennis Championships|Дубаї]] у матчі проти майбутнього переможця, швейцарки [[Белінда Бенчич|Белінди Бенчич]].
+
+Еліна Світоліна досягла третього поспіль півфіналу 2019 року на турнірі в [[Мастерс Індіан-Веллс|Індіан-Веллс]], де за підсумками трьох сетів віддала перемогу 18-річній канадці [[Б'янка Андреєску|Б'янці Андреєску]], яка наприкінці стала також і чемпіонкою турніру. Наступного тижня Світоліна несподівано вилетіла з [[Мастерс Маямі|Miami Open]] у своєму ж першому матчі проти китаянки [[Ван Яфань]]<ref>{{Cite web|title=Світоліна залишає турнір в Маямі|url=https://sport.ua/uk/news/434210-svitolina-pokidaet-turnir-v-mayami|website=Спорт.ua|accessdate=2020-09-27|language=uk}}</ref>. Українка опісля визнала, що протягом декількох тижнів страждала від болю в колінах та оголосила про коротку кар'єрну паузу з метою лікування<ref>{{Cite web|title=Світоліна повернеться на корт через місяць|url=https://sport.ua/uk/news/434637-svitolina-vernetsya-na-kort-cherez-mesyats|website=Спорт.ua|accessdate=2020-09-27|language=uk}}</ref>.
+
+Сезон на глині для Еліни Світоліної розпочався з поразок у матчах відкриттях на [[Мастерс Мадрид|Madrid Open]] та [[Мастерс Рим|Italian Open]], де в останньому українка виступала також і як дворазова чинна чемпіонка. На [[Відкритий чемпіонат Франції з тенісу 2019, жінки, одиночний розряд|Відкритому чемпіонаті Франції]] Світоліна, здолавши [[Вінус Вільямс|Вінус Уільямс]] та [[Козлова Катерина Ігорівна|Катерину Козлову]], дісталася третього раунду, де вилетіла від чемпіонки 2016 року, іспанки [[Гарбінє Мугуруса|Гарбінє Мугуруси]] (3:6, 3:6)<ref>{{Cite web|title=Світоліна залишає Ролан Гаррос, поступившись Мугурусі|url=https://sport.ua/uk/news/444820-svitolina-pokidaet-rolan-garros-ustupiv-muguruse|website=Спорт.ua|accessdate=2020-09-27|language=uk}}</ref>.
+
+У липні 2019 року Світоліна вперше у своїй кар'єрі вийшла до чвертьфіналу [[Вімблдонський турнір 2019, жінки, одиночний розряд|Вімблдону]]<ref>{{Cite web|title=Світоліна вийшла в чвертьфінал Вімблдону і встановила черговий рекорд|url=http://www.pravda.com.ua/news/2019/07/8/7220335/|website=Українська правда|accessdate=2020-09-27|language=uk}}</ref>, а згодом і до півфіналу турніру<ref>{{Cite web|title=Світоліна в блискучому стилі вийшла у півфінал Вімблдону - Спорт 24|url=https://sport.24tv.ua/svitolina_v_bliskuchomu_stili_viyshla_u_pivfinal_vimbldonu_n1177151|website=24 Канал|accessdate=2020-09-27|language=uk}}</ref>, встановивши тим сам національний рекорд серед жінок в одиночному розряді на турнірах [[Великий шлем|«Гран слему»]] та рекорд серед дорослих тенісистів будь-якої статі для [[Вімблдонський турнір|Вімблдону]].
+
+=== 2020: два титули WTA ===
+Протягом року перемогла в двох турнірах WTA&nbsp;— [[Monterrey Open 2020, одиночний розряд|Monterrey Open]] у березні та [[Internationaux de Strasbourg 2020, одиночний розряд|Internationaux de Strasbourg]] у вересні.
+
+У жовтні пройшла у чвертьфінал [[Відкритий чемпіонат Франції з тенісу 2020, жінки, одиночний розряд|Відкритого чемпіонату Франції]].
+
+Більшу частину року провела на 5-й позиції рейтингу WTA і закінчила рік на ній.
+
+=== 2021: бронзова медаль на Олімпійських іграх ===
+[[Файл:Ukraine at the 2020 Summer Olympics016.jpg|міні||300пкс|Еліна Світоліна з медаллю на Олімпійських іграх (2021)]]
+5 лютого 2021 року Світоліна зазнала поразки у чвертьфіналі турніру в Мельбурні (Австралія). Призовий фонд турніру перевищує $ 440 тис. Світоліна поступилася бельгійці Елісе Мертенс. Матч закінчився з рахунком 3:6, 7:5, 6:10<ref>{{Citeweb|title=Камбек не вдався. Світоліна вдруге програла Мертенс у Мельбурні|url=https://sport.ua/uk/news/523299-kambek-ne-udalsya-svitolina-vo-vtoroy-raz-proigrala-mertens-v-melburne|website= Спорт України |accessdate=2021-02-05|language=uk}}</ref>.
+
+2 квітня 2021 року Світоліна, після того як вийшла у півфінал турніру WTA-1000, вийшла на корт із першою ракеткою світу&nbsp;— Ешлі Барті, але зазнала поразки<ref>{{Cite web|title=Атланти й Атени нашого століття: спортивні досягнення Одеси - iodessit.com|url=https://iodessit.com/uk/article-4560-atlanti-y-ateni-nashogo-stolittya-sportivni-dosyagnennya-odesi|website=iodessit.com|accessdate=2021-04-04|language=uk}}</ref>.
+
+У червні 2021 року Світоліну було кваліфіковано для участі в [[Літні Олімпійські ігри 2020|Олімпійських іграх]] у складі національної команди України з тенісу. Разом із нею в команду було включено [[Ястремська Даяна Олександрівна|Даяну Ястремську]], [[Кіченок Надія Вікторівна|Надію Кіченок]], [[Кіченок Людмила Вікторівна|Людмилу Кіченок]], [[Костюк Марта Олегівна|Марту Костюк]]<ref>{{Cite web|title=На Олімпіаду в Токіо кваліфікувалися п'ять українських тенісисток|url=https://www.rbc.ua/ukr/news/olimpiadu-tokio-kvalifitsirovalis-pyat-ukrainskih-1624969779.html|website=РБК-Украина|accessdate=2021-06-29|language=ru}}</ref><ref>{{Cite web|title=Log into Facebook|url=https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2FUkrainianTennisFederation%2Fposts%2F3880069565435964|website=Facebook|accessdate=2021-06-29|language=en}}</ref>.
+
+На [[Літні Олімпійські ігри 2020|Олімпійських іграх у Токіо]] завоювала бронзову медаль, перемігши тенісистку з Казахстану [[Рибакіна Олена Андріївна|Олену Рибакіну]] з рахунком 1:6, 7:6, 6:4<ref>{{Cite web|title=Світоліна у важкому матчі взяла "бронзу" Олімпіади в Токіо|url=https://www.rbc.ua/ukr/news/svitolina-tyazheleyshem-matche-vzyala-bronzu-1627731609.html|website=РБК-Украина|accessdate=2021-08-01|language=ru}}</ref><ref>{{Cite web|title=Світоліна принесла п'яту "бронзу" Україні та інші події дня на Олімпіаді|url=https://www.rbc.ua/ukr/news/svitolina-prinesla-pyatuyu-bronzu-ukraine-1627752207.html|website=РБК-Украина|accessdate=2021-08-01|language=ru}}</ref>.
+
+Після Олімпійських ігор взяла участь у турнірі серії WTA-1000 у [[Мастерс Цинциннаті|Цинциннаті]], де в другому колі поступилася [[Анджелік Кербер]]<ref>{{Cite web|url=https://www.ukrinform.ua/rubric-sports/3300166-svitolina-postupilasa-kerber-na-turniri-wta-1000-u-cincinnati.html|title=Світоліна поступилася Кербер на турнірі WTA 1000 у Цинциннаті|website=Ukrinform|accessdate=2021-09-07|language=uk}}</ref>. Після цього отримала [[вайлд-кард]] для участі в турніру у Чикаго (серія WTA-250). 28 серпня у фінальному матчі Світоліна перемогла француженку [[Алізе Корне]] з рахунком 7:5, 6:4<ref>{{Cite web|url=https://www.wtatennis.com/tournament/2047/chicago-250/2021/scores/LS001|title=Chicago Women's Open Final|website=wtatennis.com|language=en|accessdate=2021-09-07}}</ref><ref>{{Cite web|url=https://btu.org.ua/ua/golovne/34470-chikago-elna-svtolna-vigrala-svj-pershij-titul-u-sezon.html|title=Чикаго. Еліна Світоліна виграла свій перший титул у сезоні|website=btu.org.ua|accessdate=2021-09-07|language=uk}}</ref>.
+
+=== 2022: перерва в кар'єрі у зв'язку з вагітністю ===
+4 січня Світоліна програла в першому колі [[Adelaide International]] 130-й ракетці світу Анастасії Гасановій<ref>{{Cite web|title=Світоліна програла перший матч сезону 130-й ракетці світу|url=https://bykvu.com/ua/bukvy/svitolina-prohrala-pershyi-match-sezonu-130-i-rakettsi-svitu/|website=Новини України - #Букви|date=2022-01-04|accessdate=2022-01-05}}</ref>.
+
+10 січня, у першому колі турніру що знову відбувся у [[Аделаїда|Аделаїді]], поступилася у двох сетах американці [[Медісон Кіз]] (2:6, 4:6)<ref>{{Cite web|title=Світоліна програла американці Кіз на турнірі WTA 250 в Аделаїді|url=https://www.ukrinform.ua/rubric-sports/3382441-svitolina-prograla-amerikanci-kiz-na-turniri-wta-250-v-adelaidi.html|website=Укрінформ|date=2022-01-10|accessdate=2022-01-17}}</ref>.
+
+17 січня Світоліна здобула перемогу на старті [[Відкритий чемпіонат Австралії з тенісу|Australian Open]] у французької тенісистки Фіони Ферро<ref>{{Cite web|title=Світоліна здобула перемогу на старті Australian Open у француженки Ферро|url=https://www.rbc.ua/ukr/news/svitolina-oderzhala-pobedu-starte-australian-1642390094.html|website=РБК-Украина|accessdate=2022-01-17|language=ru}}</ref><ref>{{Cite web|title=Australian Open. Світоліна святкує першу перемогу в сезоні|url=https://btu.org.ua/ua/golovne/37373-australian-open-svtolna-svjatkuye-pershu-peremogu-v-sezon.html|website=Великий Теніс України|accessdate=2022-01-17}}</ref>.
+
+У сезоні 2022 року відіграла тільки першу чверть, на хардовому покритті, включаючи [[Indian Wells Open]] і [[Miami Open]] у березні, але не досягла суттєвих результатів. Після Miami Open призупинила кар'єру через вагітність, у жовтні народила доньку.
+
+=== 2023: повернення, чвертьфінал Ролан Гаррос, півфінал Вімблдону ===
+Повернулася до змагань пропустивши рівно один рік, розпочала повернення з початком турнірів на ґрунтовому покритті, з [[Volvo Car Open|Charleston Open]] на початку квітня.
+
+27 травня Еліна Світоліна виграла турнір WTA250 в Страсбурзі, у фіналі впевнено обіграла росіянку [[Блинкова Анна Володимирівна|Анну Блинкову]] в двох сетах&nbsp;— 6:2, 6:3.<ref>{{Cite web|url=https://suspilne.media/489097-elina-svitolina-vigrala-turnir-wta250-v-strasburzi-u-finali-vpevneno-obigrala-rosianku/|назва=Еліна Світоліна виграла фінал у росіянки й перемогла на турнірі WTA: результат|видавець=[[Національна суспільна телерадіокомпанія України|Суспільне]]|дата=27 травня 2023|ім'я=Олексій|прізвище=Мандзій|url-архіву=https://web.archive.org/web/20230619221843/https://suspilne.media/489097-elina-svitolina-vigrala-turnir-wta250-v-strasburzi-u-finali-vpevneno-obigrala-rosianku/|дата-архіву=2023-06-19|мертвий-url=dead|дата-доступу=18 січня 2025}}</ref><ref>{{Cite web|title=Світоліна перемогла у фіналі росіянку й виграла перший турнір WTA після повернення|url=https://www.pravda.com.ua/news/2023/05/27/7404162/|website=Українська правда|accessdate=2023-06-19|language=uk}}</ref>
+
+На початку червня пройшла в чвертьфінал [[Відкритий чемпіонат Франції з тенісу 2023, жінки, одиночний розряд|French Open]].
+
+9 липня Еліна Світоліна виграла 3-сетовий трилер проти [[Азаренко Вікторія Федорівна|Вікторії Азарєнка]] та вийшла у чвертьфінал [[Вімблдонський турнір 2023, жінки, одиночний розряд|Вімблдону-2023]]. Гра Світоліна&nbsp;— Азарєнка в четвертому раунді Вімблдону тривала майже три години. Першу перемогу, з шести очних матчів, Еліна вирвала на тайбрейку у вирішальній партії 2-6, 6-4, 7-6<sup>(11-9)</sup>.<ref>{{Cite web|url=https://suspilne.media/525227-elina-svitolina-vigrala-3-setovij-triler-proti-viktorii-azarenka-ta-vijsla-u-cvertfinal-vimbldonu-2023/|назва=Еліна Світоліна здобула надскладну перемогу і вийшла в 1/4 Вімблдону: результат|видавець=[[Національна суспільна телерадіокомпанія України|Суспільне]]|дата=9 липня 2023|ім'я=Олексій|прізвище=Мандзій|url-архіву=https://web.archive.org/web/20230710002154/https://suspilne.media/525227-elina-svitolina-vigrala-3-setovij-triler-proti-viktorii-azarenka-ta-vijsla-u-cvertfinal-vimbldonu-2023/|дата-архіву=10 липня 2023|мертвий-url=no|дата-доступу=18 січня 2025}}</ref><ref>{{cite tweet|user=Wimbledon|number=1678128048829243394|title=https://twitter.com/Wimbledon/status/1678128048829243394 |website=Twitter |accessdate=2023-07-10 |language=uk |date=2023-07-09}}</ref>
+
+11 липня Світоліна переграла першу ракетку світу [[Іга Свьонтек|Ігу Швьонтек]] та вийшла в 1/2 фіналу Вімблдону. Так, українська тенісистка перемогла польську у трьох сетах&nbsp;— 7:5, 6:7<sup>(5:7)</sup>, 6:2<ref>{{Cite web|title=Світоліна сенсаційно перемогла першу ракетку світу та вийшла до півфіналу Вімблдону|url=https://sport.24tv.ua/vimbldon-2023-rezultat-chvertfinalu-elina-svitolina-iga-shvontek_n2351241|website=24 Канал|date=2023-07-11|accessdate=2023-07-11|language=uk}}</ref>
+
+12 липня відбувся півфінальний матч [[Вімблдонський турнір 2023, жінки, одиночний розряд|Вімблдону-2023]] між Еліною Світоліною (Україна, WTA 76) та [[Маркета Вондроушова|Маркетою Вондроушовою]] (Чехія, WTA 42). Гра завершилася з рахунком 6:3, 6:3 на користь представниці Чехії.<ref>{{Cite web|title=ВІДЕО. Боротьба до кінця! Як Світоліна програла чешці у півфіналі Вімблдона|url=https://sport.ua/uk/news/633743-video-borotba-do-kintsya-yak-svitolina-prograla-cheshtsi-u-pivfinali-vimbldona|website=Спорт.ua|accessdate=2023-07-13|language=uk}}</ref>
+
+На Відкритому чемпіонаті США Еліна дійшла до третього раунду, де поступилася третій ракетці світу [[Джессіка Пегула|Джессіці Пегулі]] в трьох сетах 4:6, 6:4, 2:6.<ref>{{Cite web|title=Світоліна вилетіла з US Open 2023, поступившись 3-й ракетці в трьох сетах|url=https://sport.ua/uk/news/640614-svitolina-viletila-z-us-open-2023-postupivshis-3-y-rakettsi-v-tryoh-setah|website=Спорт.ua|accessdate=2023-09-03|language=uk}}</ref>
+
+=== 2024 рік ===
+[[Файл:Svitolina Strasbourg 2024 (2).png|thumb|Світоліна на турнірі в Страсбурзі 2024 рік]]
+Розпочала сезон з турніру [[Auckland Classic]] в Новій Зеландії, де в першому турі 2 січня виграла у колишньої першої ракетки [[Каролін Возняцкі]] і в другому турі 4 січня обіграла чемпіонку [[Відкритий чемпіонат США з тенісу 2021, жінки, одиночний розряд|US Open 2021]] [[Емма Радукану|Емму Радукану]].<ref>{{Cite web|title=Світоліна з трилером пройшла Радукану в Окленді|url=https://ua.korrespondent.net/sport/tenis/4652938-svitolina-z-trylerom-proishla-radukanu-v-oklendi|website=ua.korrespondent.net|accessdate=2024-01-04|language=ru}}</ref><ref>{{Citation|title=Emma Raducanu vs. Elina Svitolina {{!}} 2024 Auckland Round of 16 {{!}} WTA Match Highlights|url=https://www.youtube.com/watch?v=zDEI-JMM400|accessdate=2024-01-04|language=uk-UA}}</ref>. В 1/4 фіналу вона обіграла [[Маріє Боузкова]], в 1/2 фіналу [[Ван Сіньюй]]. В фіналі 07 січня в напруженій боротьбі програла [[Корі Гофф]] (на цей день WTA 3) 7:6, 3:6, 3:6.
+
+8 липня в четвертому раунді трав'яного мейджора українка впевнено обіграла китаянку [[Ван Сіньюй]] (№&nbsp;42 WTA). Матч тривав 56 хвилин і завершився з рахунком 6:2, 6:1 на користь Еліни. Таким чином Еліна вийшла в 1/4 фіналу [[Wimbledon]] 2024 року.<ref>{{Cite web|url=https://tsn.ua/prosport/grala-match-z-chornoyu-strichkoyu-svitolina-viyshla-do-chvertfinalu-wimbledon-2024-2616669.html|title=Грала матч з чорною стрічкою: Світоліна вийшла до чвертьфіналу Wimbledon-2024|date=2024-07-08|website=ТСН.ua|language=uk|access-date=2024-08-24}}</ref>. 19 липня 2024 року Світоліна оголосила, припинила співпрацю зі тренером [[Рамон Слюйтер|Рамоном Слюйтером]]<ref>{{cite web|url=https://www.wtatennis.com/news/4062771/svitolina-announces-split-with-coach-raemon-sluiter|title=Svitolina announces split with coach Raemon Sluiter|publisher=WTA|accessdate=22 липня 2024}}</ref>
+
+Вона достроково завершила сезон наприкінці вересня після того, як відмовилася від участі в [[China Open]] через операцію.<ref>{{cite web|url=https://www.sportskeeda.com/tennis/8-wta-players-will-miss-china-open-2024-ft-iga-swiatek-danielle-collins|title=8 WTA players who will miss China Open 2024 ft. Iga Swiatek, Danielle Collins|date=21 вересня 2024}}</ref>
+
+=== 2025 рік ===
+Світоліна повернулася в тур на [[Відкритий чемпіонат Австралії з тенісу 2025|Відкритий чемпіонат Австралії з тенісу]] у січні де дійшла до чвертьфіналу. Обігравши румунку [[Сорана Кирстя|Сорану Кирстю]]<ref>{{Cite web|url=https://suspilne.media/sport/923495-elina-svitolina-peremogla-na-starti-australian-open-i-prodovzila-seriu-vihodiv-u-druge-kolo/|title=Еліна Світоліна виграла стартовий матч на Australian Open-2025: результат|last=Мороз|first=Євген|date=2025-01-13|website=Суспільне {{!}} Новини|language=uk|access-date=2025-01-14}}</ref> Перемігши у другому раунді [[Керолайн Долегайд]], Світоліна стала першим українським гравцем у відкритій ері, який здобув 100 перемог в основній сітці турнірів Великого шолому. Пізніше здобула перемоги над четвертою світу [[Жасмін Паоліні]] та нейтральною [[Кудерметова Вероніка Едуардівна|Веронікою Кудерметовою]] поступившись в трьох сетах [[Медісон Кіз]].<ref>{{Cite web|url=https://suspilne.media/sport/927993-elina-svitolina-u-volovomu-stili-peremogla-cetvertu-raketku-svitu-j-vijsla-u-cetverte-kolo-australian-open-2025/|title=Світоліна здолала 4-ту ракетку світу й вийшла у четверте коло Australian Open|last=Гудзенко|first=Максим|date=2025-01-18|website=Суспільне {{!}} Новини|language=uk|access-date=2025-01-18}}</ref><ref>{{Cite web|url=https://www.ukrinform.ua/rubric-sports/3949973-svitolina-obigrala-cetvertu-raketku-svitu-na-australian-open.html|title=Світоліна обіграла четверту «ракетку» світу на Australian Open|date=2025-01-18|website=www.ukrinform.ua|language=uk|access-date=2025-01-18}}</ref><ref>{{Cite web|url=https://suspilne.media/sport/928799-elina-svitolina-obigrala-nejtralnu-tenisistku-i-vtrete-v-kareri-vijsla-u-cvertfinal-australian-open/|title=Еліна Світоліна втретє в кар'єрі вийшла у чвертьфінал Australian Open|last=Мороз|first=Євген|date=2025-01-20|website=Суспільне {{!}} Новини|language=uk|access-date=2025-01-20}}</ref>.
+
+На турнірах [[Qatar Ladies Open]] та [[Dubai Tennis Championships]] дійшла до третього кола поступившись [[Джессіка Пегула|Джессіці Пегулі]] та [[Клара Таусон|Кларі Таусон]] На [[Indian Wells Open]] дійшла до свого першого чвертьфіналу з 2021 року перегравши [[Ешлін Крюгер]], [[Даніель Коллінз]] та четверту ракетку світу [[Джессіка Пегула|Джессіку Пегулу]] чвертьфіналі поступилась нейтральній [[Андрєєва Мірра Олександрівна|Міррі Андрєєвій]]. На [[Miami Open 2025, жінки, одиночний розряд|Miami Open]] дійшла до четвертого кола здобувши перемоги над [[Белінда Бенчич|Беліндою Бенчич]] та [[Кароліна Мухова|Кароліною Муховою]].
+
+У рамках протистояннь України з Польщею та Швейцарію на [[Кубок Біллі Джин Кінг|Кубку Біллі Джин Кінг]] перемогла польку Маю Хвалінську та щвейцарку [[Джил Тайхманн]]<ref>{{Cite web |url=https://suspilne.media/sport/993499-ukraina-vperse-v-istorii-vijsla-u-final-kubka-billi-dzin-king/ |title=Україна вперше в історії вийшла у фінал Кубка Біллі Джин Кінг з тенісу |last=Мороз |first=Євген |date=2025-04-12 |website=Суспільне {{!}} Новини |language=uk |access-date=2025-04-13}}</ref>. Чим вивела жіночу збірну України з тенісу вперше в історії вийшла в фінал найбільшого міжнародного турніру для національних команд – {{Не перекладено|Кубок Біллі Джин Кінг 2025|Кубка Біллі Джин Кінг|en|2025 Billie Jean King Cup}}.<ref>{{Cite web |url=https://sport.nv.ua/ukr/tennis/svitolina-obigrala-tayhman-i-vivela-ukrajinu-u-finalniy-raund-kubka-billi-dzhin-king-video-50505806.html |title=Вперше в історії: Світоліна вивела збірну України у фінал Кубка Біллі Джин Кінг — відео |website=New Voice |language=uk |access-date=2025-04-13}}</ref><ref>{{Cite web |url=https://sport.unian.ua/othersports/kubok-billi-dzhin-king-ukrajina-vpershe-v-istoriji-viyshla-v-final-prestizhnogo-turniru-12975300.html |title=Україна вперше в історії вийшла в фінал Кубка Біллі Джин Кінг |date=2025-04-13 |website=sport.unian.ua |language=uk |access-date=2025-04-13}}</ref>
+
+На турнірі [[Турніри WTA 250|WTA 250]] в [[Руан|Руані]] Світоліна здобула перемоги над [[Джил Тайхманн]], [[Калініна Ангеліна Сергіївна|Ангеліною Калініною]], Джессікою Бузас Манейро, [[Елена-Габрієла Русе|Еленою-Гарбієлою Русе]] у фіналі виграла у [[Ольга Данилович|Ольги Данилович]] з рахунком 6–4, 7–6^(10–8), та виграла 18-й титул WTA у кар’єрі <ref>{{Cite web |url=https://glavcom.ua/sport/news/svitolina-pidnjalasja-na-odnu-pozitsiju-v-rejtinhu-wta-1055125.html |title=Світоліна піднялася на одну позицію в рейтингу WTA |date=2025-04-21 |website=ГЛАВКОМ |language=uk |access-date=2025-04-23}}</ref><ref>{{Cite web |url=https://champion.com.ua/ukr/tennis/tenis-ruan-svitolina-zdobula-titul-na-turniri-seriji-wta-250-1033572/ |title=Перший трофей за два роки: Світоліна стала чемпіонкою турніру в Руані |website=Champion.com.ua |language=uk |access-date=2025-04-23}}</ref>.
+
+В [[Mutua Madrid Open 2025, жінки, одиночний розряд|Мадриді]] дійшла до півфіналу перегравши: [[Соней Картал]], [[Рибакіна Олена Андріївна|Олену Рибакіну]], [[Марія Саккарі|Марію Саккарі]] та Моюку Учіджіму поступившись першій ракетці світу [[Соболенко Аріна Сергіївна|Аріні Соболенко]]
+
+В [[Italian Open 2025, жінки, одиночний розряд|Римі]] дійшла до чвертьфінал де поступилась [[Пейтон Стернс]].
+
+На [[Відкритий чемпіонат Франції з тенісу 2025, жінки, одиночний розряд|Відкритому чемпіонаті Франції]] здолала: [[Зейнеп Сьонмез]], [[Анна Бондар|Анна Бондар]], [[Бернарда Пера|Бернарду Перу]] з рахунком 7:6(5), 7:6(5) в 1/16 і вийшла в 1/8 фіналу Ролан Гаррос-2025.<ref>{{Cite web |url=https://ua.korrespondent.net/sport/tenis/4786411-svitolina-peremahaie-v-tretomu-koli-rolan-harros |title=Світоліна перемагає в третьому колі Ролан Гаррос |website=ua.korrespondent.net |language=ru |access-date=2025-06-01}}</ref><ref>{{Cite web |url=https://sport.ua/news/766408-elina-svitolina-bernarda-pera-dva-vyigrannyh-tay-breyka-videoobzor |title=Элина Свитолина – Бернарда Пера. Два выигранных тай-брейка. Видеообзор |last=Агарков |first=Даниил |website=СПОРТ.UA |language=ru |access-date=2025-06-01}}</ref> в четвертому раунді обіграла 4 ракетку світу [[Жасмін Паоліні]] з Італії з рахунком 4:6, 7:6(6), 6:1 та вийшла в чвертьфінал де поступилась з рахунком 1–6, 5–7 [[Іга Свьонтек|Ізі Свьонтек]]<ref>{{Cite web |url=https://champion.com.ua/ukr/tennis/tenis-rolan-garros-svitolina-obigrala-paolini-u-chetvertomu-koli-turniru-y-viyshla-u-chvertfinal-1038317/ |title=Шалений камбек: Світоліна здолала 4 ракетку світу на шляху до чвертьфіналу Ролан Гаррос |website=Champion.com.ua |language=uk |access-date=2025-06-01}}</ref>
+
+=== 2026: Півфінал Відкритого чемпіонату Австралії, повернення до топ-10 ===
+
+Світоліна розпочала свій сезон із завоювання дев'ятнадцятого титулу в [[ASB Classic 2026|Окленді]], перемігши у фіналі [[Ван Сіньюй]].<ref>{{Cite web |url=https://suspilne.media/sport/1210646-elina-svitolina-cempionka-turniru-wta-v-oklendi-ce-ii-19-j-titul-u-kareri/ |title=Еліна Світоліна — чемпіонка турніру WTA в Окленді. Це її 19-й титул у кар'єрі |last=Мороз |first=Євген |date=2026-01-11 |website=Суспільне {{!}} Новини |language=uk |access-date=2026-01-11}}</ref><ref>{{Cite web |url=https://suspilne.media/sport/1210646-elina-svitolina-cempionka-turniru-wta-v-oklendi-ce-ii-19-j-titul-u-kareri/ |title=Еліна Світоліна — чемпіонка турніру WTA в Окленді. Це її 19-й титул у кар'єрі |last=Мороз |first=Євген |date=2026-01-11 |website=Суспільне {{!}} Новини |language=uk |access-date=2026-01-12}}</ref> Вона дійшла до чвертьфіналу [[Відкритий чемпіонат Австралії з тенісу 2026|Відкритого чемпіонату Австралії]], перемігши [[Крістіна Букша|Крістіну Букшу]], Лінду Клімовичову, [[Шнайдер Діана Максимівна|Діану Шнайдер]], і [[Андрєєва Мірра Олександрівна|Мірру Андрєєву]]<ref>{{Cite web |url=https://champion.com.ua/ukr/tennis/tenis-australian-open-svitolina-peremogla-rosiyanku-i-viyshla-v-1-8-finalu-1061928/ |title=Світоліна розібралася з росіянкою і вийшла в 1/8 фіналу Australian Open |website=Champion.com.ua |language=uk |access-date=2026-01-23}}</ref><ref>{{Cite web |url=https://suspilne.media/sport/1221624-svitolina-otrimala-supernicu-z-top-10-u-matci-za-povtorenna-osobistogo-rekordu-na-australian-open-z-kim-i-koli-zigrae/ |title=Світоліна отримала суперницю з топ-10 у матчі за повторення рекорду на AO-2026 |last=Башкатова |first=Марія |date=2026-01-23 |website=Суспільне {{!}} Новини |language=uk |access-date=2026-01-23}}</ref> потрапивши в заголовки газет за те, що намалювала хрестики на об'єктивах камер після перемоги над росіянами.<ref>{{cite web |last1=White |first1=Robert |title=‘War sign’ on camera lens sparks Australian Open storm as Svitolina marches on |url=https://www.news.com.au/sport/tennis/australian-open/war-sign-on-camera-lens-sparks-australian-open-storm-as-svitolina-marches-on/news-story/ccf52b1551ba293ba9e999dac58b8460 |website=news.com.au |access-date=27 січня 2026}}</ref> У чвертьфіналі перемогла [[Коко Гофф]], вийшовши у свій перший півфінал Відкритого чемпіонату Австралії і повернувшись до топ-10 вперше з жовтня 2021 року.<ref>{{cite web |last1=Lofthouse |first1=Amy |title=Svitolina seizes day to 'bring light' to Ukraine |url=https://www.bbc.com/sport/tennis/articles/c99kln3r8eno |website=BBC |access-date=27 січня 2026}}</ref>
+
+29 січня Світоліна поступилася першій ракетці світу — білорусці [[Соболенко Аріна Сергіївна|Аріні Соболенко]] у півфіналі Australian Open-2026. Світоліна програла Сабалєнці у двох сетах - 2:6, 3:6. У першій партії після рахунку 1:1 українська тенісистка програла п'ять з шести наступних геймів. У другому сеті Світоліна спочатку вела в рахунку 2:0, проте не змогла втримати перевагу і програла – 3:6.<ref>{{Cite web |url=https://sport.unian.ua/othersports/elina-svitolina-ukrajinska-tenisistka-prograla-u-pivfinali-australian-open-13270008.html |title=Світоліна поступилася першій ракетці світу в півфіналі Australian Open |date=2026-01-29 |website=sport.unian.ua |language=uk |access-date=2026-01-29}}</ref><ref>{{Cite web |url=https://glavcom.ua/sport/news/svitolina-postupilasja-prikhilnitsi-lukashenka-na-australian-open-1100296.html |title=Без рукостискання. Світоліна поступилася прихильниці Лукашенка на Australian Open |date=2026-01-29 |website=ГЛАВКОМ |language=uk |access-date=2026-01-29}}</ref><ref>{{Cite web |url=https://suspilne.media/sport/1226227-elina-svitolina-prograla-nejtralnij-sabalenci-ta-z-rekordom-zaversila-vistupi-na-australian-open/ |title=Світоліна програла першій ракетці світу та з рекордом завершила Australian Open |last=Мороз |first=Євген |date=2026-01-29 |website=Суспільне {{!}} Новини |language=uk |access-date=2026-01-29}}</ref>
+
+Під час ґрунтового сезону Світоліна вийшла у фінал [[Italian Open 2026, жінки, одиночний розряд|Відкритого чемпіонату Італії]] в Римі — її перший фінал на цьому турнірі з [[Internazionali BNL d'Italia 2018, жінки, одиночний розряд|2018 року]]. У чвертьфіналі вона перемогла другу ракетку світу [[Рибакіна Олена Андріївна|Олену Рибакіну]] з рахунком 2:6, 6:4, 6:4, здобувши свою 24-ту перемогу в Римі за кар'єру і повторивши результат [[Вільямс Серена|Серени Вільямс]] — третій показник в історії турніру.<ref>{{cite web |last1=Toomer |first1=Jessica |title=Elina Svitolina Upsets Elena Rybakina, Ties Serena Williams's Italian Open Record |url=https://justwomenssports.com/reads/elina-svitolina-italian-open-upset-rybakina-rome-2026-serena-williams-record/ |website=Just Women's Sports |date=14 травня 2026 |access-date=14 травня 2026}}</ref> У півфіналі вона здолала першу сіяну [[Швйонтек Іга|Ігу Швйонтек]] з рахунком 6:4, 2:6, 6:2.
+
+== Стиль гри ==
+[[Файл:Elina Svitolina (17969398094).jpg|міні||300пкс|На [[Mutua Madrid Open]] 2015]]
+Світоліна&nbsp;— агресивний гравець задньої лінії. Однією з головних переваг є велика рухливість, що дає їй змогу добре грати в захисті. Має сильний і точний удар на бігу. Їй не вистачає потужності, однак удари з обох сторін зазвичай дуже глибокі&nbsp;— під задню лінію супротивниці. Недоліком її гри була слабка подача, особливо друга, проте в сезоні 2017 року вона значно покращила цей елемент гри. На сітці грає відносно мало і менш результативно, ніж на задній лінії, але з 2018 року гра з льоту значно покращилася. Завдяки великій швидкості пересування, укорочені підсічки проти неї зазвичай не працюють, Еліна здатна брати такі м'ячі. Сама Світоліна теж вміє використовувати укорочені удари, хоча робить це нечасто.
+
+== Тренери, спонсори і спорядження ==
+У юності Еліна навчалася в академії колишньої першої ракетки світу, переможниці семи фіналів [[турніри Великого шолома|Гранд Слем]] та олімпійської чемпіонки [[Жустін Енен]]. В академії Світоліна познайомилося з Ієном Х'юзом, який пізніше, 2014 року, став її тренером. Він помітив, що за своєю зарядженістю і змагальністю Еліна дуже схожа на [[Енді Маррей|Енді Маррея]]. Вона є дуже емоційною на корті та спокійною поза грою. Спільно вони взяли в Маррея багато тренувальних та ігрових елементів. На початку 2016 року, за пів року до початку Олімпіади в Ріо-де-Жанейро, [[Жустін Енен]] особисто стала головним тренером Світоліної, додатково працюючи над технікою та психологією Еліни<ref>{{cite news
+ | назва            =Британський тренер Світоліної: "Багато елементів взяли у Маррея
+ | url              =http://sport-ukr.segodnya.ua/tennis/britanskiy-trener-svitolinoy-mnogie-elementy-vzyali-u-marreya-624146.html
+ | газета           =[[Сегодня (газета, Україна)|Сегодня]]
+ | дата             =16 червня 2015
+ | дата-доступу     =12 серпня 2016
+}}</ref><ref>{{cite news
+ | назва            =Легендарна тенісистка офіційно стала тренером першої ракетки України
+ | url              =http://nv.ua/ukr/sport/legendarna-tenisistka-ofitsijno-stala-trenerom-pershoji-raketki-ukrajini-96633.html
+ | газета           =[[Новое Время]]
+ | дата             =10 лютого 2016
+ | дата-доступу     =12 серпня 2016
+}}</ref><ref>{{cite news
+ | назва            =Світоліна: Роль Жюстін Енен дуже висока
+ | url              =http://ua.korrespondent.net/sport/tenis/3690526-svitolina-rol-zhuistin-enen-duzhe-vysoka
+ | газета           =[[Корреспондент]]
+ | дата             =31 травня 2016
+ | дата-доступу     =12 серпня 2016
+}}</ref><ref>{{cite news
+ | назва            =Еліна Світоліна: головне - це гра, а не рейтинг
+ | ім'я             =Анастасія
+ | прізвище         =Успенська
+ | url              =http://www.bbc.com/ukrainian/sport/2016/07/160701_svitolina_tennis_dk
+ | газета           =[[Українська служба BBC]]
+ | дата             =1 липня 2016
+ | дата-доступу     =12 серпня 2016
+}}</ref>.
+
+Наприкінці 2016 року Світоліна, попри успішний сезон, змінила тренерську команду<ref>http://www.excellesports.com/news/elina-svitolina-new-coaching-team-gabriel-urpi/ {{Webarchive|url=https://web.archive.org/web/20170915161307/http://www.excellesports.com/news/elina-svitolina-new-coaching-team-gabriel-urpi/ |date=15 вересня 2017 }} Elina Svitolina announces new coaching team</ref>. У першій половині 2017 року тренером її був іспанець [[Габріель Урпі]], а роль консультанта виконував француз [[Тьєррі Асьйон]], однак уже в травні Еліна припинила співпрацю з Урпі, а Асьйон став головним тренером<ref>{{Cite web |url=http://www.champion.com.ua/tennis/2017/05/24/686973/ |title=Світоліна припинила співпрацю з одним зі своїх тренерів |archive-date=2017-09-14 |access-date=2017-09-13 |archive-url=https://web.archive.org/web/20170914035647/http://www.champion.com.ua/tennis/2017/05/24/686973/ |url-status=dead }}</ref>. Роль тренувального партнера з січня виконує англієць [[Ендрю Беттлс]]. Його ж вона викликає для консультації в перервах між геймами (на турнірах WTA, але не Великого шолома, тренерські консультації дозволено). Роль фізіо у команді Світоліної виконує італієць Алессіо Чеккареллі.
+
+Після [[Відкритий чемпіонат США з тенісу 2018, жінки, одиночний розряд|US open 2018]] закінчила співпрацю з Тьєррі Асьйоном, до тренерського штабу приєднався [[Нік Савіано]]. Проте вже в жовтні Світоліна тимчасово зупинила співпрацю і з ним, до кінця сезону 2018 року як тренер залишився лише тренувальний партнер Ендрю Беттлс, пошуки нового головного тренера відклали на міжсезоння<ref>[https://btu.org.ua/news/ukrainskiy-tennis/16949-svitolina-bolshe-ne-rabotaet-s-trenerom-saviano.html Свитолина больше не работает с тренером Савиано]</ref>.
+
+Світоліна грає ракеткою [[Wilson Sporting Goods|Wilson]]. Її спонсором є фірма [[Adidas]], раніше спонсорами були [[Ellesse]], [[Lacoste]] та [[Nike]].
+
+== Державні нагороди та звання ==
+
+=== Нагороди ===
+* [[Орден княгині Ольги]] III&nbsp;ст. ([[16 серпня]] [[2021]])&nbsp;— ''За досягнення високих спортивних результатів на ХХХІІ літніх Олімпійських іграх у місті Токіо (Японія), виявлені самовідданість та волю до перемоги, утвердження міжнародного авторитету України''<ref>[https://www.president.gov.ua/documents/3612021-39693 Указ Президента України №&nbsp;361/2021 від 16 серпня 2021 року «Про відзначення державними нагородами України спортсменів&nbsp;— учасників літніх Олімпійських ігор та їх тренерів»]</ref>.
+* [[Орден «За заслуги» (Україна)|Орден «За заслуги»]] II&nbsp;ст. ([[21 серпня]] [[2020]])&nbsp;— ''За значний особистий внесок у державне будівництво, соціально-економічний, науково-технічний, культурно-освітній розвиток України, вагомі трудові здобутки та високий професіоналізм''<ref>[https://www.president.gov.ua/documents/3352020-34805 Указ Президента України №&nbsp;335/2020 від 21 серпня 2020 року «Про відзначення державними нагородами України з нагоди Дня Незалежності України»]</ref>.
+* [[Орден «За заслуги» (Україна)|Орден «За заслуги»]] III&nbsp;ст. ([[28 червня]] [[2017]])&nbsp;— ''За значний особистий внесок у державне будівництво, соціально-економічний, науково-технічний, культурно-освітній розвиток України, вагомі трудові здобутки та високий професіоналізм''<ref>[https://www.president.gov.ua/documents/3352020-34805 Указ Президента України №&nbsp;168/2017 від 28 червня 2017 року "Про відзначення державними нагородами України з нагоди Дня Конституції України "]</ref>.
+
+=== Визнання ===
+
+* Указом уряду України від 2 листопада 2018 року Еліна Світоліна отримала звання [[заслужений майстер спорту України]]<ref>[https://gordonua.com/ukr/news/sport/-svitolina-stala-zasluzhenim-majstrom-sportu-ukrajini-484737.html Світоліна стала заслуженим майстром спорту України]</ref>.
+
+== Рекорди ==
+У січні 2017 року піднялася на 13-ту сходинку в рейтингу WTA&nbsp;— вперше в історії українського тенісу<ref name=":0"/><ref name=":1"/>. Після перемоги у травні в [[Мастерс Рим 2017, жінки, одиночний розряд|Римі]] стала шостою ракеткою світу<ref>[http://www.bbc.com/ukrainian/sport-39996441?ocid=socialflow_facebook Українка Світоліна стала шостою ракеткою світу]</ref>. У серпні 2017 року Еліна Світоліна повторила досягнення [[Медведєв Андрій Олегович|Андрія Медведєва]] серед українських тенісистів та оновила рекорд для жінок&nbsp;— посіла четверте місце у світовому рейтингу<ref>{{Cite news|url=http://btu.org.ua/main/10902-ukrainka-elina-svitolina-chetvertaya-raketka-mira-v-reytinge-wta.html|title=Украинка Элина Свитолина - четвертая ракетка мира в рейтинге WTA|work=Большой Теннис Украины|accessdate=2017-08-17}}</ref>, а вже у вересні перевищила досягнення всіх українських тенісистів, зайнявши третє місце рейтингу WTA. У 2019 році вперше у своїй кар'єрі вийшла до чвертьфіналу [[Вімблдонський турнір 2019, жінки, одиночний розряд|Вімблдону]], оновивши національний рекорд<ref>{{cite web |title=Світоліна вийшла в чвертьфінал Вімблдону і встановила черговий рекорд |url=https://www.pravda.com.ua/news/2019/07/8/7220335/ |website=Українська правда}}</ref>.
+
+== Особисте життя ==
+В 2021 році Еліна вийшла заміж за французького тенісиста [[Гаель Монфіс|Гаеля Монфіса]].<ref>{{Cite web|url=https://www.rbc.ua/ukr/styler/ukraintsy-germanii-rasskazali-navodnenii-1626456525.html|title=Українці в Німеччині розповіли про повені: "з-під води стирчать тільки верхівки дзвіниць"|website=РБК-Украина|language=ru|access-date=2024-10-13}}</ref><ref>{{Cite web|url=https://tsn.ua/prosport/u-merezhi-z-yavilosya-video-z-pishnogo-vesillya-svitolinoyi-ta-monfisa-chi-zminila-tenisistka-prizvische-1826935.html|title=У Мережі з’явилося відео з пишного весілля Світоліної та Монфіса: чи змінила тенісистка прізвище|date=2021-07-17|website=ТСН.ua|language=uk|access-date=2024-10-13}}</ref> Через рік, в жовтні 2022 року в пари народилася донька, яку батьки назвали незвичним ім'ям Скай. Наразі вся їх родина мешкає у Франції, проте зірка тенісу часто приїжджає в гості в Україну.<ref>{{Cite web|url=https://suspilne.media/odesa/295704-tenisistka-z-odesi-elina-svitolina-narodila-donku/|title=Тенісистка з Одеси Еліна Світоліна народила доньку|last=Пономаренко|first=Олександра|date=15 жовтня 2022}}</ref><ref>{{Cite web|url=https://www.rbc.ua/rus/styler/svitolina-zamiluvala-foto-malenkoyu-donkoyu-1697480483.html|title=Світоліна замилувала фото з маленькою донькою в її перший день народження|website=РБК-Украина|language=uk|access-date=2024-10-13}}</ref>
+
+== Цікаві факти ==
+* За даними американського журналу «[[Форбс (журнал)|Форбс]]», Світоліна посіла 9 місце серед спортсменок, які заробили більше за всіх у період з 1 червня 2018 по 1 червня 2019 року, з сумою в $6,1 млн (реклама&nbsp;— 1,5 млн)<ref>[https://www.ua-football.com/ua/sport/tennis/1565109502-svitolina-uviyshla-v-top-10-naybilsh-visokooplachuvanih-sportsmenok-za-versiyeyu-forbes.html Світоліна увійшла в топ-10 найбільш високооплачуваних спортсменок за версією Forbes]</ref>.
+* За підсумками 2019 року Світоліна потрапила в найкращі 5 за заробленими призовим, отримавши понад $6 млн<ref>[https://www.ua-football.com/ua/sport/tennis/1573072158-u-2019-mu-roci-svitolina-zarobila-ponad-6-milyoniv-dolariv.html У 2019 році Світоліна заробила понад 6 мільйонів доларів]</ref>.
+* У березні 2019 року Еліна оголосила про початок роботи свого фонду&nbsp;— Elina Svitolina Foundation<ref>{{Cite web|title=Еліна СВІТОЛІНА: «Фонд Elina Svitolina Foundation розпочав роботу»|url=https://sport.ua/uk/news/433689-elina-svitolina-fond-elina-svitolina-foundation-nachal-rabotu|website=Спорт.ua|accessdate=2020-09-27|language=uk}}</ref>.
+* Станом на лютий 2021 року із сумою в 20,1&nbsp;млн доларів посіла 19 місце у рейтингу тенісисток, які під час кар'єри заробили найбільшу кількість призових<ref>[https://suspilne.media/107340-movnij-incident-na-matci-lviv-kolos-pavelko-otrimav-lista-vid-upovnovazenogo-po-zahistu-movi/ Світоліна подолала позначку у $20&nbsp;млн призових. Рейтинг тенісисток]</ref>.
+* 7 червня 2022 року Еліна Світоліна стала амбасадором [[United24|UNITED24]].<ref>{{Cite web|url=https://www.president.gov.ua/news/vidoma-ukrayinska-tenisistka-elina-svitolina-stala-ambasador-75685|title=Відома українська тенісистка Еліна Світоліна стала амбасадоркою UNITED24|date=7 червня 2022|language=uk}}</ref><ref>{{Cite web|url=https://u24.gov.ua/uk/ambassador/esvitolyna|title=Еліна Світоліна|website=u24.gov.ua|language=en|access-date=2024-05-03}}</ref> У рамках Всесвітнього економічного форуму українська тенісистка Еліна Світоліна та футболіст [[Шевченко Андрій Миколайович|Андрій Шевченко]] презентували програму Ukraine House, яка визнала залучити кошти ззовні, щоб відбудувати зруйновані РФ дороги, мости, об'єкти критичної інфраструктури та будинки.<ref>{{Cite web|url=https://likein.ua/elina-svitolina-ta-andrij-shevchenko-vzyali-uchast-u-poshuku-koshtiv-na-vidnovlennya-ukrayini/|title=Еліна Світоліна та Андрій Шевченко взяли участь у пошуку коштів на відновлення України|website=likein.ua|language=ru-RU|access-date=2024-05-03}}</ref>
+* Підтримує [[Добровольчий підрозділ "Хартія"|добровольчий підрозділ «Хартія»]].<ref>{{cite web|url=https://novynarnia.com/2023/11/10/tenisystka-svitolina-z-pysmennykom-zhadanom-pryvezla-drony-dlya-brygady-ngu-hartiya/|title=Тенісистка Світоліна з письменником Жаданом привезла дрони для бригади НГУ “Хартія”|publisher=[[Новинарня]]}}</ref><ref>{{Cite web|url=https://www.facebook.com/photo?fbid=1111702637624712&set=pcb.1111704077624568&locale=uk_UA|title=Facebook|website=www.facebook.com|access-date=2024-12-10}}</ref>
+
+== Виступи і загальна статистика в одиночному розряді ==
+[[Файл:Elina Svitolina (25170599953).jpg|міні||225пкс|На [[Мастерс Індіан-Веллс]] 2015]]
+[[Файл:Svitolina RG15 (2) (19118955970).jpg|міні||225пкс|На [[Відкритий чемпіонат Франції з тенісу 2015, жінки, одиночний розряд|Ролан Гаррос 2015]]]]
+{|class=wikitable style=text-align:center;
+|-
+!Турнір!!2011!!2012!!2013!!2014!!2015!!2016!!2017!!2018!!2019!!2020!!2021!!2022!!2023!!2024!!2025!!СП!!В–П
+|-
+|colspan=18 align=center|'''[[Турніри Великого шлема|Турніри Великого слему]]'''
+|-
+|align=left|[[Відкритий чемпіонат Австралії з тенісу|Australian Open]]
+|align="center"|Н
+|align="center"|Н
+|bgcolor=afeeee|[[Відкритий чемпіонат Австралії з тенісу 2013, жінки, одиночний розряд|1Р]]
+|bgcolor=afeeee|[[Відкритий чемпіонат Австралії з тенісу 2014, жінки, одиночний розряд|3Р]]
+|bgcolor=afeeee|[[Відкритий чемпіонат Австралії з тенісу 2015, жінки, одиночний розряд|3Р]]
+|bgcolor=afeeee|[[Відкритий чемпіонат Австралії з тенісу 2016, жінки, одиночний розряд|2Р]]
+|bgcolor=afeeee|[[Відкритий чемпіонат Австралії з тенісу 2017, жінки, одиночний розряд|3Р]]
+|bgcolor=ffebcd|[[Відкритий чемпіонат Австралії з тенісу 2018, жінки, одиночний розряд|ЧФ]]
+|bgcolor=ffebcd|[[Відкритий чемпіонат Австралії з тенісу 2019, жінки, одиночний розряд|ЧФ]]
+|bgcolor=afeeee|[[Відкритий чемпіонат Австралії з тенісу 2020, жінки, одиночний розряд|3Р]]
+|bgcolor=afeeee|[[Відкритий чемпіонат Австралії з тенісу 2021, жінки, одиночний розряд|4Р]]
+|bgcolor=afeeee|[[Відкритий чемпіонат Австралії з тенісу 2022, жінки, одиночний розряд|3Р]]
+|align="center"|Н
+|bgcolor=afeeee|[[Відкритий чемпіонат Австралії з тенісу 2024, жінки, одиночний розряд|4Р]]
+|bgcolor=ffebcd|[[Відкритий чемпіонат Австралії з тенісу 2025, жінки, одиночний розряд|ЧФ]]
+|0–12
+|29–12
+|-
+|align=left|[[Відкритий чемпіонат Франції з тенісу|French Open]]
+|bgcolor=ecf2ff|К1Р
+|bgcolor=ecf2ff|К2Р
+|bgcolor=afeeee|[[Відкритий чемпіонат Франції з тенісу 2013, жінки, одиночний розряд|2Р]]
+|bgcolor=afeeee|[[Відкритий чемпіонат Франції з тенісу 2014, жінки, одиночний розряд|2Р]]
+|bgcolor=ffebcd|[[Відкритий чемпіонат Франції з тенісу 2015, жінки, одиночний розряд|ЧФ]]
+|bgcolor=afeeee|[[Відкритий чемпіонат Франції з тенісу 2016, жінки, одиночний розряд|4Р]]
+|bgcolor=ffebcd|[[Відкритий чемпіонат Франції з тенісу 2017, жінки, одиночний розряд|ЧФ]]
+|bgcolor=afeeee|[[Відкритий чемпіонат Франції з тенісу 2018, жінки, одиночний розряд|3Р]]
+|bgcolor=afeeee|[[Відкритий чемпіонат Франції з тенісу 2019, жінки, одиночний розряд|3Р]]
+|bgcolor=ffebcd|[[Відкритий чемпіонат Франції з тенісу 2020, жінки, одиночний розряд|ЧФ]]
+|bgcolor=afeeee|[[Відкритий чемпіонат Франції з тенісу 2021, жінки, одиночний розряд|3Р]]
+|align="center"|Н
+|bgcolor=ffebcd|[[Відкритий чемпіонат Франції з тенісу 2023, жінки, одиночний розряд|ЧФ]]
+|bgcolor=afeeee|[[Відкритий чемпіонат Франції з тенісу 2024, жінки, одиночний розряд|4Р]]
+|bgcolor=ffebcd|[[Відкритий чемпіонат Франції з тенісу 2025, жінки, одиночний розряд|ЧФ]]
+|0–12
+|33–12
+|-
+|align=left|[[Вімблдонський турнір|Wimbledon]]
+|align="center"|Н
+|bgcolor=ecf2ff|К1Р
+|bgcolor=afeeee|[[Вімблдонський турнір 2013, жінки, одиночний розряд|1Р]]
+|bgcolor=afeeee|[[Вімблдонський турнір 2014, жінки, одиночний розряд|1Р]]
+|bgcolor=afeeee|[[Вімблдонський турнір 2015, жінки, одиночний розряд|2Р]]
+|bgcolor=afeeee|[[Вімблдонський турнір 2016, жінки, одиночний розряд|2Р]]
+|bgcolor=afeeee|[[Вімблдонський турнір 2017, жінки, одиночний розряд|4Р]]
+|bgcolor=afeeee|[[Вімблдонський турнір 2018, жінки, одиночний розряд|1Р]]
+|bgcolor=yellow|[[Вімблдонський турнір 2019, жінки, одиночний розряд|ПФ]]
+|style="color:#ccc;" |ТН
+|bgcolor=afeeee|[[Вімблдонський турнір 2021, жінки, одиночний розряд|2Р]]
+|align="center"|Н
+|bgcolor=yellow|[[Вімблдонський турнір 2023, жінки, одиночний розряд|ПФ]]
+|bgcolor=ffebcd|[[Вімблдонський турнір 2024, жінки, одиночний розряд|ЧФ]]
+|bgcolor=afeeee|[[Вімблдонський турнір 2025, жінки, одиночний розряд|3Р]]
+|0–10
+|20–10
+|-
+|align=left|[[Відкритий чемпіонат США з тенісу|US Open]]
+|align="center"|Н
+|bgcolor=afeeee|[[Відкритий чемпіонат США з тенісу 2012, жінки, одиночний розряд|1Р]]
+|bgcolor=afeeee|[[Відкритий чемпіонат США з тенісу 2013, жінки, одиночний розряд|2Р]]
+|bgcolor=afeeee|[[Відкритий чемпіонат США з тенісу 2014, жінки, одиночний розряд|1Р]]
+|bgcolor=afeeee|[[Відкритий чемпіонат США з тенісу 2015, жінки, одиночний розряд|3Р]]
+|bgcolor=afeeee|[[Відкритий чемпіонат США з тенісу 2016, жінки, одиночний розряд|3Р]]
+|bgcolor=afeeee|[[Відкритий чемпіонат США з тенісу 2017, жінки, одиночний розряд|4Р]]
+|bgcolor=afeeee|[[Відкритий чемпіонат США з тенісу 2018, жінки, одиночний розряд|4Р]]
+|bgcolor=yellow|[[Відкритий чемпіонат США з тенісу 2019, жінки, одиночний розряд|ПФ]]
+|align="center"|Н
+|bgcolor=ffebcd|[[Відкритий чемпіонат США з тенісу 2021, жінки, одиночний розряд|ЧФ]]
+|align="center"|Н
+|bgcolor=afeeee|[[Відкритий чемпіонат США з тенісу 2023, жінки, одиночний розряд|3Р]]
+|bgcolor=afeeee|[[Відкритий чемпіонат США з тенісу 2024, жінки, одиночний розряд|3Р]]
+|bgcolor=afeeee|[[Відкритий чемпіонат США з тенісу 2025, жінки, одиночний розряд|1Р]]
+|0–11
+|24–11
+|-
+!style=text-align: left|В–П
+!
+!0–1
+!2–4
+!3–4
+!9–4
+!7–4
+!12–4
+!9–4
+!15–4
+!6–2
+!10–4
+!2–1
+!11–3
+!12–4
+!8–2
+!0–44
+!106–45
+|-
+|colspan=18 style=text-align: left|'''Національне представництво'''
+|-
+|align=left|[[Теніс на літніх Олімпійських іграх|Олімпійські ігри]]
+|style="color:#ccc;" |ТН
+|Н
+|colspan=3 style="color:#ccc;" |ТН
+|bgcolor=ffebcd|[[Теніс на літніх Олімпійських іграх 2016 — жіночий одиночний турнір|ЧФ]]
+|colspan=4 style="color:#ccc;" |ТН
+|style=background:#E5B47D|[[Теніс на літніх Олімпійських іграх 2020 — жіночий одиночний турнір|ПФ-Б]]
+|colspan=2 style="color:#ccc;" |ТН
+|style=background:#afeeee|[[Теніс на літніх Олімпійських іграх 2024 — жіночий одиночний турнір|3Р]]
+|style="color:#ccc;" |ТН
+|0 / 2
+|8–2
+|-
+|colspan=18 style=text-align: left|'''Турніри кінця року'''
+|-
+|align=left|[[Чемпіонат WTA]]
+|colspan=6 |Н
+|bgcolor=afeeee|ГР
+|bgcolor=lime|'''Ч'''
+|style="background: thistle;"|Ф
+|style="color:#ccc;" |ТН
+|colspan=4 |Н
+|
+|1 / 3
+|10–3
+|-
+|align=left|[[WTA Elite Trophy]]
+|colspan=2|Н
+|bgcolor=afeeee|ГР
+|Н
+|bgcolor=yellow|ПФ
+|style="background: thistle;"|Ф
+|colspan=3 |Н
+|colspan=3 style="color:#ccc;" |ТН
+|Н
+|colspan=2 style="color:#ccc;" |ТН
+|0 / 3
+|5–4
+|-
+|colspan=18 style=text-align: left|'''[[Турніри WTA 1000]]'''
+|-
+|align=left|[[Qatar Total Open|Qatar Open]]
+|Н
+|Н
+|bgcolor=afeeee|[[Qatar Total Open 2014, одиночний розряд|1Р]]
+|style="color:#ccc;" |ТН
+|bgcolor=afeeee|[[Qatar Total Open 2016, одиночний розряд|1Р]]
+|style="color:#ccc;" |ТН
+|bgcolor=afeeee|[[Qatar Total Open 2016, одиночний розряд|1Р]]
+|bgcolor=afeeee|[[Qatar Total Open 2018, одиночний розряд|3Р]]
+|style="color:#ccc;" |ТН
+|bgcolor=afeeee|[[Qatar Total Open 2020, одиночний розряд|2Р]]
+|style="color:#ccc;" |ТН
+|bgcolor=afeeee|[[Qatar Total Open 2022, одиночний розряд|2Р]]
+|А
+|А
+|bgcolor=afeeee|[[Qatar Total Open 2025, одиночний розряд|2Р]]
+|0–5
+|1–5
+|-
+|align=left|[[Dubai Tennis Championships|Dubai Open]]
+|А
+|colspan=3 style="color:#ccc;" |ТН
+|bgcolor=afeeee|[[Dubai Tennis Championships 2015, жінки, одиночний розряд|2Р]]
+|style="color:#ccc;" |ТН
+|bgcolor=lime|[[Dubai Tennis Championships 2017, жінки, одиночний розряд|'''Ч''']]
+|style="color:#ccc;" |ТН
+|bgcolor=yellow|[[Dubai Tennis Championships 2019, жінки, одиночний розряд|ПФ]]
+|style="color:#ccc;" |ТН
+|bgcolor=afeeee|[[Dubai Tennis Championships 2021, жінки, одиночний розряд|2Р]]
+|style="color:#ccc;" |ТН
+|Н
+|bgcolor=afeeee|[[Dubai Tennis Championships 2024, жінки, одиночний розряд|2Р]]
+|bgcolor=afeeee|[[Dubai Tennis Championships 2025, жінки, одиночний розряд|2Р]]
+|1–5
+|11–4
+|-
+|align=left|[[Indian Wells Masters|Indian Wells Open]]
+|Н
+|Н
+|bgcolor=afeeee|[[BNP Paribas Open 2013, жінки, одиночний розряд|1Р]]
+|bgcolor=afeeee|[[BNP Paribas Open 2014, жінки, одиночний розряд|2Р]]
+|bgcolor=afeeee|[[BNP Paribas Open 2015, жінки, одиночний розряд|4Р]]
+|bgcolor=afeeee|[[BNP Paribas Open 2016, жінки, одиночний розряд|3Р]]
+|bgcolor=afeeee|[[BNP Paribas Open 2017, жінки, одиночний розряд|4Р]]
+|bgcolor=afeeee|[[BNP Paribas Open 2018, жінки, одиночний розряд|3Р]]
+|bgcolor=yellow|[[BNP Paribas Open 2019, жінки, одиночний розряд|ПФ]]
+|style="color:#ccc;" |ТН
+|bgcolor=afeeee|[[BNP Paribas Open 2021, жінки, одиночний розряд|4Р]]
+|bgcolor=afeeee|[[BNP Paribas Open 2022, жінки, одиночний розряд|2Р]]
+|align="center"|Н
+|bgcolor=afeeee|[[BNP Paribas Open 2024, жінки, одиночний розряд|3Р]]
+|bgcolor=ffebcd|[[BNP Paribas Open 2025, жінки, одиночний розряд|ЧФ]]
+|0 / 10
+|14–10
+|-
+|align=left|[[Мастерс Маямі|Miami Open]]
+|Н
+|Н
+|bgcolor=ecf2ff|[[Sony Open Tennis 2013, жінки, одиночний розряд|К2р]]
+|bgcolor=afeeee|[[Sony Open Tennis 2014, жінки, одиночний розряд|4Р]]
+|bgcolor=afeeee|[[Miami Open 2015, жінки, одиночний розряд|3Р]]
+|bgcolor=afeeee|[[Miami Open 2016, жінки, одиночний розряд|4Р]]
+|bgcolor=afeeee|[[Miami Open 2017, жінки, одиночний розряд|2Р]]
+|bgcolor=ffebcd|[[Miami Open 2018, жінки, одиночний розряд|ЧФ]]
+|bgcolor=afeeee|[[Miami Open 2019, жінки, одиночний розряд|2Р]]
+|style="color:#ccc;" |ТН
+|bgcolor=yellow|[[Miami Open 2021, жінки, одиночний розряд|ПФ]]
+|bgcolor=afeeee|[[Miami Open 2022, жінки, одиночний розряд|2Р]]
+|align="center"|Н
+|bgcolor=afeeee|[[Miami Open 2024, жінки, одиночний розряд|2Р]]
+|bgcolor=afeeee|[[Miami Open 2025, жінки, одиночний розряд|4Р]]
+|0 / 9
+|14–9
+|-
+|align=left|[[Madrid Open]]
+|Н
+|Н
+|Н
+|bgcolor=afeeee|[[Mutua Madrid Open 2014, жінки, одиночний розряд|1Р]]
+|bgcolor=afeeee|[[Mutua Madrid Open 2015, жінки, одиночний розряд|2Р]]
+|bgcolor=afeeee|[[Mutua Madrid Open 2016, жінки, одиночний розряд|2Р]]
+|bgcolor=afeeee|[[Mutua Madrid Open 2017, жінки, одиночний розряд|1Р]]
+|bgcolor=afeeee|[[Mutua Madrid Open 2018, жінки, одиночний розряд|2Р]]
+|bgcolor=afeeee|[[Mutua Madrid Open 2019, жінки, одиночний розряд|1Р]]
+|style="color:#ccc;" |ТН
+|bgcolor=afeeee|[[Mutua Madrid Open 2021, жінки, одиночний розряд|1Р]]
+|align="center"|Н
+|bgcolor=afeeee|[[Mutua Madrid Open 2023, жінки, одиночний розряд|1Р]]
+|bgcolor=afeeee|[[Mutua Madrid Open 2024, жінки, одиночний розряд|2Р]]
+|bgcolor=yellow|[[Mutua Madrid Open 2025, жінки, одиночний розряд|ПФ]]
+|0 / 10
+|8–10
+|-
+|align=left|[[Internazionali BNL d'Italia|Italian Open]]
+|Н
+|Н
+|Н
+|bgcolor=afeeee|[[Internazionali BNL d'Italia 2014, жінки, одиночний розряд|1Р]]
+|bgcolor=afeeee|[[Internazionali BNL d'Italia 2015, жінки, одиночний розряд|2Р]]
+|bgcolor=afeeee|[[Internazionali BNL d'Italia 2016, жінки, одиночний розряд|1Р]]
+|bgcolor=lime|[[Internazionali BNL d'Italia 2017, жінки, одиночний розряд|'''Ч''']]
+|bgcolor=lime|[[Internazionali BNL d'Italia 2018, жінки, одиночний розряд|'''Ч''']]
+|bgcolor=afeeee|[[Italian Open 2019, жінки, одиночний розряд|2Р]]
+|bgcolor=ffebcd|[[Italian Open 2020, жінки, одиночний розряд|ЧФ]]
+|bgcolor=ffebcd|[[Italian Open 2021, жінки, одиночний розряд|ЧФ]]
+|align="center"|Н
+|bgcolor=afeeee|[[Italian Open 2023, жінки, одиночний розряд|1Р]]
+|bgcolor=afeeee|[[Italian Open 2024, жінки, одиночний розряд|4Р]]
+|bgcolor=ffebcd|[[Italian Open 2025, жінки, одиночний розряд|ЧФ]]
+|2/11
+|20–9
+|-
+|align=left|[[Мастерс Канада|Canadian Open]]
+|Н
+|Н
+|Н
+|Н
+|bgcolor=afeeee|[[Rogers Cup 2015, жінки, одиночний розряд|1Р]]
+|bgcolor=afeeee|[[Rogers Cup 2016, жінки, одиночний розряд|3Р]]
+|bgcolor=lime|[[Rogers Cup 2017, жінки, одиночний розряд|'''Ч''']]
+|bgcolor=yellow|[[Rogers Cup 2018, жінки, одиночний розряд|ПФ]]
+|bgcolor=ffebcd|[[Rogers Cup 2019, жінки, одиночний розряд|ЧФ]]
+|style="color:#ccc;" |ТН
+|bgcolor=afeeee|[[National Bank Open 2021, жінки, одиночний розряд|2Р]]
+|Н
+|bgcolor=afeeee|[[National Bank Open 2023, жінки, одиночний розряд|1Р]]
+|bgcolor=afeeee|[[National Bank Open 2024, жінки, одиночний розряд|2Р]]
+|
+|1/8
+|13-7
+|-
+|align=left|[[Мастерс Цинциннаті|Cincinnati Open]]
+|Н
+|Н
+|Н
+|bgcolor=ffebcd|[[Western & Southern Open 2014, жінки, одиночний розряд|ЧФ]]
+|bgcolor=yellow|[[Western & Southern Open 2015, жінки, одиночний розряд|ПФ]]
+|bgcolor=afeeee|[[Western & Southern Open 2016, жінки, одиночний розряд|2Р]]
+|bgcolor=afeeee|[[Western & Southern Open 2017, жінки, одиночний розряд|3Р]]
+|bgcolor=ffebcd|[[Western & Southern Open 2018, жінки, одиночний розряд|ЧФ]]
+|bgcolor=afeeee|[[Western & Southern Open 2019, жінки, одиночний розряд|3Р]]
+|Н
+|bgcolor=afeeee|[[Western & Southern Open 2021, жінки, одиночний розряд|2Р]]
+|Н
+|Н
+|bgcolor=afeeee|[[Cincinnati Open 2024, жінки, одиночний розряд|3Р]]
+|
+|0 / 8
+|11–8
+|-
+|align=left|[[China Open]]
+|Н
+|Н
+|bgcolor=afeeee|[[China Open (теніс) 2013, жінки, одиночний розряд|1Р]]
+|bgcolor=afeeee|[[China Open (теніс) 2014, жінки, одиночний розряд|2Р]]
+|bgcolor=afeeee|[[China Open (теніс) 2015, жінки, одиночний розряд|2Р]]
+|bgcolor=yellow|[[China Open (теніс) 2016, жінки, одиночний розряд|ПФ]]
+|bgcolor=ffebcd|[[China Open (теніс) 2017, жінки, одиночний розряд|ЧФ]]
+|bgcolor=afeeee|[[China Open 2018, жінки, одиночний розряд|1Р]]
+|bgcolor=ffebcd|[[China Open 2019, жінки, одиночний розряд|ЧФ]]
+|colspan=3 style="color:#ccc;" |ТН
+|А
+|А
+|
+|0 / 7
+|11–7
+|-
+|align=left|[[Wuhan Open]]
+|Н
+|Н
+|bgcolor=afeeee|[[Toray Pan Pacific Open 2013, одиночний розряд|1Р]]
+|bgcolor=yellow|[[Wuhan Open 2014, одиночний розряд|ПФ]]
+|bgcolor=afeeee|[[Wuhan Open 2015, одиночний розряд|3Р]]
+|bgcolor=afeeee|[[Wuhan Open 2016, одиночний розряд|2Р]]
+|Н
+|bgcolor=afeeee|[[Wuhan Open 2018, одиночний розряд|2Р]]
+|bgcolor=ffebcd|[[Wuhan Open 2019, одиночний розряд|ЧФ]]
+|colspan=4 style="color:#ccc;" |ТН
+|А
+|
+|0/6
+|10/6
+|-
+|colspan=18 style=text-align: left|'''Загальна статистика'''
+|-
+|style=text-align: left|Зіграно турнірів
+|0
+|3
+|19
+|25
+|25
+|23
+|19
+|19
+|22
+|10
+|21
+|8
+|7
+|18
+|
+|colspan=3|218
+|-
+!style=text-align: left|'''Титули WTA
+!0
+!0
+!1
+!1
+!1
+!1
+!5
+!4
+!0
+!2
+!1
+!0
+!1
+!0
+!
+!colspan=2|17
+|-
+!style=text-align: left|'''Фінали WTA
+!0
+!0
+!1
+!1
+!1
+!3
+!5
+!4
+!1
+!2
+!1
+!0
+!1
+!1
+!
+!colspan=2|21
+|-
+|style=text-align: left|В-П на твердій поверхні
+|0–0
+|0–3
+|9–12
+|26–15
+|25–18
+|36–16
+|34–9
+|33–10
+|33–16
+|9–6
+|31–13
+|5–8
+|4–3
+|16–9
+|4-1
+|colspan=2|238–123
+|-
+|style=text-align: left|В-П на ґрунті
+|0–0
+|0–2
+|4–6
+|7–7
+|14–4
+|4–4
+|15–3
+|9–3
+|1–3
+|10–2
+|8–4
+|0–0
+|8–4
+|10–6
+|
+|colspan=2|72–38
+|-
+|style=text-align: left|В-П на траві
+|0–0
+|0–0
+|0–2
+|2–2
+|1–2
+|1–2
+|4–2
+|2–2
+|5–3
+|0–0
+|2–3
+|0-0
+|5–2
+|4–2
+|
+|colspan=2|17–18
+|-
+!style=text-align: left|'''Загальне В-П
+!0–0
+!0–5
+!13–20
+!35–24
+!40–24
+!41–22
+!53–14
+!44–15
+!39–22
+!19–8
+!41–20
+!5–8
+!17–9
+!30–17
+!18–6
+!colspan=3|374–208
+|-
+!style=text-align: left|'''Відсоток перемог
+!0&nbsp;%
+!0&nbsp;%
+!39&nbsp;%
+!59&nbsp;%
+!63&nbsp;%
+!65&nbsp;%
+!79&nbsp;%
+!75&nbsp;%
+!64&nbsp;%
+!70&nbsp;%
+!67&nbsp;%
+!40&nbsp;%
+!65&nbsp;%
+!64&nbsp;%
+!75&nbsp;%
+!colspan=2|65&nbsp;%
+|-
+!align=left|Рейтинг WTA в кінці року
+!269
+!156
+!40
+!29
+!19
+!14
+!6
+!4
+!6
+!5
+!15
+!236
+!25
+!23
+!
+!colspan=2|
+|}
+{{Умовне позначення виступів тенісиста}}
+
+== Історія виступів у турнірах Великого шлему: парний розряд ==
+
+{|class=wikitable style=text-align:center
+|-
+!Турнир!![[2013 WTA Tour|2013]]!![[2014 WTA Tour|2014]]!![[2015 WTA Tour|2015]]!![[2016 WTA Tour|2016]]!![[2017 WTA Tour|2017]]!![[2018 WTA Tour|2018]]!![[2019 WTA Tour|2019]]
+![[2020 WTA Tour|2020]]!!В–П
+|-
+|align=left|[[Australian Open]]
+| A
+| bgcolor=afeeee|[[Відкритий чемпіонат Австралії з тенісу 2014, жінки, парний розряд|1Р]]
+| A
+| bgcolor=afeeee|[[Відкритий чемпіонат Австралії з тенісу 2016, жінки, парний розряд|1Р]]
+| A
+| A
+| A
+| A
+| 0–2
+|-
+|align=left|[[French Open]]
+| A
+| bgcolor=afeeee|[[Відкритий чемпіонат Франції з тенісу 2014, жінки, парний розряд|2Р]]
+| A
+| bgcolor=afeeee|[[Відкритий чемпіонат Франції з тенісу 2016, жінки, парний розряд|1Р]]
+| A
+| A
+| A
+|
+| 1–2
+|-
+|align=left|[[Wimbledon]]
+| A
+| bgcolor=afeeee|[[Вімблдонський турнір 2014, жінки, одиночний розряд|1Р]]
+| A
+| bgcolor=afeeee|[[Вімблдонський турнір 2016, жінки, одиночний розряд|2Р]]
+| A
+| A
+| A
+|
+| 1–2
+|-
+|align=left|[[US Open]]
+| bgcolor=afeeee|[[Відкритий чемпіонат США з тенісу 2013, жінки, парний розряд|1Р]]
+| bgcolor=afeeee|[[Відкритий чемпіонат США з тенісу 2014, жінки, парний розряд|2Р]]
+| A
+| bgcolor=afeeee|[[Відкритий чемпіонат США з тенісу 2016, жінки, парний розряд|1Р]]
+| A
+| bgcolor=afeeee|[[Відкритий чемпіонат США з тенісу 2018, жінки, парний розряд|1Р]]
+| A
+|
+| 1–4
+|- style="font-weight:bold; background:#efefef;"
+|style=text-align: left|Виг–Пор
+| 0–1
+| 2–4
+| 0–0
+| 1–4
+| 0–0
+| 0–1
+| 0–0
+|0–0
+| 3–10
+|}
+
+== Фінали турнірів WTA ==
+
+=== Одиночний розряд: 24 (19 перемог, 5 поразок) ===
+{|
+|- valign=top
+|
+{| class=wikitable style=font-size:90%
+|-
+!Легенда
+|-
+|bgcolor=f3e6d7|Grand Slam
+|-
+|bgcolor=ffffcc|WTA Tour Championships (1–1)
+|-
+|bgcolor=E2FAF|WTA Elite Trophy (0–1)
+|-
+|style="background:#e9e9e9;"|Premier M & Premier 5 / WTA 1000 (4–1)
+|-
+|style="background:#d4f1c5;"|Premier / WTA 500 (2–1)
+|-
+|International / WTA 250 (12–1)
+|}
+
+{|class="sortable wikitable"
+|-
+!Результат
+!№
+!Дата
+!Турнір
+!Покриття
+!Опонентка
+!class=unsortable|Рахунок
+|-
+| bgcolor=98FB98|Перемога
+|1.
+| 28 липня 2013
+| [[Baku Cup]], [[Баку]], [[Азербайджан]]
+| Тверде
+| {{flagicon|ISR}} [[Шахар Пеєр]]
+| 6:4, 6:4
+|-
+| bgcolor=98FB98|Перемога
+|2.
+| 27 липня 2014
+| [[Baku Cup]], [[Баку]], [[Азербайджан]] <small>(2)</small>
+| Тверде
+| {{flagicon|SRB}} [[Бояна Йовановські]]
+|| 6:1, 7:6<sup>(7:2)</sup>
+|-
+| bgcolor=98FB98|Перемога
+|3.
+| 2 травня 2015
+| [[Marrakech Grand Prix|Morocco Open]], [[Марракеш]], [[Марокко]]
+| Ґрунт
+| {{flagicon|HUN}} [[Тімеа Бабош]]
+|| 7:5, 7:6<sup>(7:3)</sup>
+|-
+| bgcolor=98FB98|Перемога
+|4.
+| 6 травня 2016
+| [[Malaysian Open (tennis)|Malaysian Open]], [[Куала-Лумпур]], [[Малайзія]]
+| Тверде
+| {{flagicon|CAN}} [[Ежені Бушар]]
+| 6:7<sup>(5:7)</sup>, 6:4, 7:5
+|- style="background:#d4f1c5;"
+| bgcolor=FFA07A|Поразка
+|1.
+| 27 серпня 2016
+| [[Connecticut Open (tennis)|Connecticut Open]], [[Нью-Гейвен (Коннектикут)|Нью-Гейвен]], [[США]]
+| Тверде
+| {{flagicon|POL}} [[Агнешка Радванська]]
+| 1:6, 6:7<sup>(3:7)</sup>
+|-style="background:#e2faf7;"
+| bgcolor=FFA07A|Поразка
+|2.
+| 6 листопада 2016
+| |[[WTA Elite Trophy]], [[Чжухай]], [[Китай]]
+| Тверде
+| {{flagicon|CZE}} [[Петра Квітова]]
+| 4:6, 2:6
+|-
+| bgcolor=98FB98|Перемога
+|5.
+| 5 лютого 2017
+| [[WTA Taiwan Open|Taiwan Open]], [[Тайбей]], [[Тайвань]]
+| Тверде
+| {{flagicon|CHN}} [[Пен Шуай]]
+| 6:3, 6:2
+|- style="background:#e9e9e9;"
+| bgcolor=98FB98|Перемога
+|6.
+| 26 лютого 2017
+| [[Dubai Tennis Championships]], [[Дубай]], [[ОАЕ]]
+| Тверде
+| {{flagicon|DEN}} [[Каролін Возняцкі]]
+| 6:4, 6:2
+|-
+| bgcolor=98FB98|Перемога
+|7.
+| 30 квітня 2017
+| [[Istanbul Cup]], [[Стамбул]], [[Туреччина]]
+| Ґрунт
+| {{flagicon|BEL}} [[Елісе Мертенс]]
+| 6:2, 6:4
+|-bgcolor=e9e9e9
+| bgcolor=98FB98|Перемога
+| 8.
+| 21 травня 2017
+| [[Мастерс Рим|Italian Open]], [[Рим]], [[Італія]]
+| Ґрунт
+| {{flagicon|ROU}} [[Сімона Халеп]]
+| 4:6, 7:5, 6:1
+|-bgcolor=e9e9e9
+| bgcolor=98FB98|Перемога
+| 9.
+| 13 серпня 2017
+| [[Мастерс Канада|Canadian Open]], [[Торонто]], [[Канада]]
+| Тверде
+| {{flagicon|DEN}} [[Каролін Возняцкі]]
+| 6:4, 6:0
+|- style="background:#d4f1c5;"
+| bgcolor=98FB98|Перемога
+| 10.
+| 6 січня 2018
+| [[Brisbane International]], [[Австралія]]
+| Тверде
+| {{flagicon|BLR}} [[Саснович Олександра Олександрівна|Олександра Саснович]]
+| 6:2, 6:1
+|- style="background:#d4f1c5;"
+| bgcolor=98FB98|Перемога
+| 11.
+| 24 лютого 2018
+| [[Dubai Tennis Championships 2018, жінки, одиночний розряд|Dubai Tennis Championships]], [[Дубай]], [[ОАЕ]] <small>(2)</small>
+| Тверде
+| {{flagicon|RUS}} [[Касаткіна Дарія Сергіївна|Дарія Касаткіна]]
+| 6:4, 6:0
+|-
+|-bgcolor=e9e9e9
+| bgcolor=98FB98|Перемога
+| 12.
+| 20 травня 2018
+| [[Internazionali BNL d'Italia 2018, жінки, одиночний розряд|Italian Open]], [[Рим]], [[Італія]] <small>(2)</small>
+| Ґрунт
+|{{flagicon|ROU}} [[Сімона Халеп]]
+| 6:0, 6:4
+|-
+|-bgcolor=ffffcc
+| bgcolor=98FB98|Перемога
+| 13.
+| 28 жовтня 2018
+| [[WTA фінал 2018, одиночний розряд|WTA Finals]], [[Сінгапур]]
+| Тверде
+| {{flagicon|USA}} [[Слоун Стівенс]]
+| 3:6, 6:2, 6:2
+|-bgcolor=ffffcc
+| bgcolor="ffa07a"|Поразка
+| 3.
+| 3 листопада 2019
+| [[WTA фінал 2019, одиночний розряд|WTA Finals]], [[Шеньчжень]], [[Китайська Народна Республіка|КНР]]
+| Тверде
+| {{flagicon|AUS}} [[Ешлі Барті]]
+| 4:6, 3:6
+|-
+| bgcolor="98fb98"|Перемога
+| 14.
+| 8 березня 2020
+| [[Monterrey Open]], [[Монтеррей]], [[Мексика]]
+| Тверде
+| {{flagicon|CZE}} [[Маріє Боузкова]]
+| 7:5, 4:6, 6:4
+|-
+| bgcolor="98fb98"|Перемога
+| 15.
+| 26 вересня 2020
+| [[Internationaux de Strasbourg]], [[Страсбург]], [[Франція]]
+| Ґрунт
+| {{flagicon|KAZ}} [[Рибакіна Олена Андріївна|Олена Рибакіна]]
+| 6:4, 1:6, 6:2
+|-
+|bgcolor="98fb98"|Перемога
+|16
+|28 серпня 2021
+|WTA Chicago Women's Open, [[Чикаго]], [[Сполучені Штати Америки|США]]
+|Тверде
+|{{Прапорець|FRA}} [[Алізе Корне]]
+|7:5, 6:4<ref>{{Cite web|url=https://www.kyiv24.org.ua/svitolina-zystrila-na-vimbldoni-legendy-fytboly/|title=Відома українська тенісистка опублікувала фото з колишнім гравцем збірної Англії Девідом Бекхемом.|date=7 серпня 2024|website=|language=|accessdate=|archive-date=2024-08-08|archive-url=https://web.archive.org/web/20240808171755/https://www.kyiv24.org.ua/svitolina-zystrila-na-vimbldoni-legendy-fytboly/|url-status=dead}}</ref>
+|-
+|bgcolor="98fb98"|Перемога
+|17
+|27 травня 2023
+| [[Internationaux de Strasbourg]], [[Страсбург]], [[Франція]] (2)
+|Ґрунт
+|{{noflag}} [[Блинкова Анна Володимирівна|Анна Блинкова]]
+|6:2, 6:3
+|-
+| bgcolor=FFA07A|Поразка
+| 4.
+| 7 січня 2024
+| [[WTA Auckland Open|Auckland Open]], Нова Зеландія
+| Тверде
+| {{flagicon|USA}} [[Коко Гофф]]
+|7:6, 3:6, 3:6
+|-
+| bgcolor=98FB98|Перемога
+| 18
+| [[Open de Rouen 2025, одиночний розряд|Кві 2025]]
+| [[Open de Rouen]]
+| Ґрунт (i)
+| {{flagicon|SRB}} [[Ольга Данилович]]
+| 6:4, 7:6<sup>(10:8)</sup>
+|-
+| bgcolor=98FB98|Перемога
+| 19
+| [[ASB Classic 2026, жінки, одиночний розряд|11 січня 2026]]
+| [[WTA Auckland Open|Auckland Open]], Нова Зеландія
+| Тверде
+| {{flagicon|CHN}} [[Ван Сіньюй]]
+| 6:3, 7:6<sup>(8:6)</sup>
+|-
+| bgcolor=ffa07a|Поразка
+| <small> 5 </small>
+| [[Dubai Tennis Championships 2026, жінки, одиночний розряд|Лют 2026]]
+| style="background:#e9e9e9;"| [[Dubai Tennis Championships]], UAE
+| Тверде
+| {{flagicon|USA}} [[Джессіка Пегула]]
+| 6–2, 6–4
+|}
+
+=== Парний розряд: 2 (2 перемоги) ===
+
+{|class="sortable wikitable"
+!Результат
+!width=125|Дата
+!width=200|Турнір
+!Покриття
+!width=200|Партнерка
+!width=200|Опонентки
+!width=150|Рахунок
+|-
+| bgcolor=98FB98|Перемога
+| 20 липня 2014
+| [[İstanbul Cup]], [[Стамбул]], [[Туреччина]]
+| Тверде
+| {{flagicon|JPN}} [[Дой Місакі]]
+| {{flagicon|GEO}} [[Оксана Калашнікова]] <br/> {{flagicon|POL}} [[Паула Каня]]
+| 6:4, 6:0
+|-
+| bgcolor=98FB98|Перемога
+| 26 липня 2015
+| [[İstanbul Cup]], [[Стамбул]], [[Туреччина]]
+| Тверде
+| {{flagicon|RUS}} [[Гаврилова Дар'я Олексіївна|Дар'я Гаврилова]]
+| {{flagicon|TUR}} [[Чагла Бююкакчай]]<br/> {{flagicon|SRB}} [[Єлена Янкович]]
+| 5:7, 6:1, [10:4]
+|}
+
+== Юніорські фінали турнірів Великого шлема ==
+
+=== Одиночні фінали: 2 (1:1) ===
+{|class="sortable wikitable" style=font-size:97%
+!Результат
+!Рік
+!width=200|Турнір
+!Покриття
+!width=200|Опонент
+!width=150|Рахунок
+|-bgcolor=EBC2AF
+|bgcolor=98FB98|Перемога
+|[[Відкритий чемпіонат Франції з тенісу 2010|2010]]
+|[[Відкритий чемпіонат Франції з тенісу|French Open]]
+|Ґрунт
+|{{flagicon|TUN}} [[Унс Джабір]]
+|6:2, 7:5
+|-bgcolor=CCFFCC
+|bgcolor=FFA07A|Поразка
+|[[Вімблдонський турнір 2012|2012]]
+|[[Вімблдонський турнір|Wimbledon]]
+|Трава
+|{{flagicon|CAN}} [[Ежені Бушар]]
+|2:6, 2:6
+|}
+
+=== Парні фінали: 1 (0:1) ===
+{|class="sortable wikitable" style=font-size:97%
+!Результат
+!Рік
+!Турнір
+!Покриття
+!Партнер
+!Опонент
+!Рахунок
+|-bgcolor=CCFFCC
+|bgcolor=FFA07A|Поразка
+|[[Вімблдонський турнір 2010|2010]]
+|[[Вімблдонський турнір|Wimbledon]]
+|Трава
+|{{flagicon|RUS}} [[Ірина Хромачова]]
+|{{flagicon|HUN}} [[Тімеа Бабош]]<br/>{{flagicon|USA}} [[Слоун Стівенс]]
+|7:6<sup>(9:7)</sup>, 2:6, 2:6
+|}
+
+<!---
+
+== Перемоги над топ-10 тенісистками ==
+{|class="sortable wikitable"
+|-
+!style="width:15px"|№
+!style="width:200px"|Тенісистка
+!style="width:30px"|Рейтинг
+!style="width:275px"|Турнір
+!style="width:50px"|Покриття
+!style="width:60px"|Стадія
+!style="width:150px" class="unsortable"|Рахунок
+|-
+|colspan=8 style=text-align: center|'''[[Тур WTA 2014]]
+|-
+|1.
+|{{прапорець|CZE}} [[Петра Квітова]]
+|bgcolor=EEE8AA|Номер 3
+|bgcolor=e9e9e9|{{не перекладено|Western & Southern Open 2014|Цинциннаті|en|2014 Western & Southern Open}}, США
+|bgcolor=CCCCFF|Хард
+|bgcolor=afeeee|3-й раунд
+|6–2, 7–6<sup>(7–2)</sup>
+|-
+|2.
+|{{прапорець|GER}} [[Анджелік Кербер]]
+|bgcolor=EEE8AA|Номер 8
+|bgcolor=e9e9e9|{{не перекладено|Wuhan Open 2014|Ухань|en|2014 Wuhan Open}}, КНР
+|bgcolor=CCCCFF|Хард
+|bgcolor=ffebcd|Чвертьфінал
+|6–4, 7–6<sup>(7–3)</sup>
+|-
+|colspan=8 style=text-align: center|'''[[Тур WTA 2015]]
+|-
+|3.
+|{{прапорець|GER}} [[Анджелік Кербер]]
+|bgcolor=EEE8AA|Номер 9
+|bgcolor=d4f1c5|{{не перекладено|Brisbane International 2015|Брисбен|en|2015 Brisbane International}}, Австралія
+|bgcolor=CCCCFF|Хард
+|bgcolor=ffebcd|Чвертьфінал
+|4–6, 7–5, 6–3
+|-
+|4.
+|{{прапорець|CZE}} [[Люціє Шафарова]]
+|bgcolor=EEE8AA|Номер 7
+|bgcolor=e9e9e9|{{не перекладено|Western & Southern Open 2015|Цинциннаті|en|2015 Western & Southern Open}}, США
+|bgcolor=CCCCFF|Хард
+|bgcolor=ffebcd|Чвертьфінал
+|6–4, 2–6, 6–0
+|-
+|colspan=8 style=text-align: center|'''[[Тур WTA 2016]]
+|-
+|5.
+|{{прапорець|SPA}} [[Гарбінє Мугуруса]]
+|bgcolor=EEE8AA|Номер 5
+|bgcolor=d4f1c5|{{не перекладено|Dubai Tennis Championships 2016|Дубай|en|2016 Dubai Tennis Championships}}, ОАЕ
+|bgcolor=CCCCFF|Хард
+|bgcolor=afeeee|2-й раунд
+|7-6<sup>(7-3)</sup>, 6–3
+|-
+|6.
+|{{прапорець|USA}} [[Серена Вільямс]]
+|bgcolor=lime|Номер 1
+|bgcolor=f5da81|[[Теніс на літніх Олімпійських іграх 2016|Олімпійські ігри]], Ріо-де-Жанейро
+|bgcolor=CCCCff|Хард
+|bgcolor=afeeee|3-й раунд
+|6–4, 6–3
+|-
+| 7.
+| {{flagicon|SPA}} [[Гарбінє Мугуруса]]
+| bgcolor=99ccff|Номер 3
+| bgcolor=d4f1c5|{{не перекладено|Toray Pan Pacific Open 2016|Токіо|en|2016 Toray Pan Pacific Open}}, Японія
+| bgcolor=CCCCff|Хард
+| bgcolor=ffebcd|Чвертьфінал
+| 6–2, 4–6, 6–3
+|-
+| 8.
+| {{flagicon|GER}} [[Анджелік Кербер]]
+| bgcolor=lime|Номер 1
+| bgcolor=d8cef6|{{не перекладено|China Open (теніс) 2016|Пекін|en|2016 China Open (tennis)}}, КНР
+| bgcolor=CCCCFF|Хард
+| bgcolor=afeeee|3-й раунд
+| 6–3, 7–5
+|-
+| 9.
+| {{flagicon|GBR}} [[Джоанна Конта]]
+| bgcolor=EEE8AA|Номер 10
+| bgcolor=E2FAF|[[WTA Elite Trophy]], КНР
+| bgcolor=CCCCFF|Хард
+| bgcolor=yellow|Півфінал
+| 2–6, 6–1, 6–4
+|-
+|colspan=8 style=text-align: center|'''[[Тур WTA 2017]]
+|-
+| 10.
+| {{flagicon|GER}} [[Анджелік Кербер]]
+| bgcolor=lime|Номер 1
+| bgcolor=d4f1c5|{{не перекладено|Brisbane International 2017|Брисбен|en|2017 Brisbane International}}, Австралія
+| bgcolor=CCCCFF|Хард
+| bgcolor=ffebcd|Чвертьфінал
+| 6–4, 3–6, 6–3
+|-
+| 11.
+| {{flagicon|GER}} [[Анджелік Кербер]]
+| bgcolor=thistle|Номер 2
+| bgcolor=e9e9e9|{{не перекладено|Dubai Tennis Championships 2017|Дубай|en|2017 Dubai Tennis Championships}}, ОАЕ
+| bgcolor=CCCCFF|Хард
+| bgcolor=yellow|Півфінал
+| 6–3, 7–6<sup>(7-3)</sup>
+|-
+| 12.
+| {{flagicon|GER}} [[Анджелік Кербер]]
+| bgcolor=lime|Номер 1
+| bgcolor=eff2cf| [[Кубок Федерації 2017|Кубок Федерації]], Штутгарт, Німеччина
+| bgcolor=EBC2AF|Грунт
+| bgcolor=AFEEEE|Плей-офф
+| 6–4, 6–2
+|-
+| 13.
+| {{flagicon|CZE}} [[Кароліна Плішкова]]
+| bgcolor=99ccff|Номер 3
+| bgcolor=e9e9e9|{{не перекладено|Internazionali BNL d'Italia 2017|Рим|en|2017 Internazionali BNL d'Italia}}, Італія
+| bgcolor=EBC2AF|Грунт
+| bgcolor=ffebcd|Чвертьфінал
+| 6–2, 7–6<sup>(11–9)</sup>
+|-
+| 14.
+| {{flagicon|ESP}} [[Гарбінє Мугуруса]]
+| bgcolor=eee8aa|Номер 7
+| bgcolor=e9e9e9|{{не перекладено|Internazionali BNL d'Italia 2017|Рим|en|2017 Internazionali BNL d'Italia}}, Італія
+| bgcolor=EBC2AF|Грунт
+| bgcolor=yellow|Півфінал
+| 4–1, відмова
+|}
+-->
+
+== Перемоги проти тенісисток із топ-10 WTA ==
+{|class="wikitable sortable"
+|+
+|-
+!№
+!Опонентка
+! width="30" |Ранг
+!Турнір
+!Покриття
+!Етап
+!Рахунок
+! width="30" |{{Tooltip|РЕС|Ранг Еліни Світоліної}}
+|-
+| colspan="8" style="text-align:" center |'''2014'''
+|-
+| 1.
+| {{flagicon|CZE}} [[Петра Квітова]]
+| bgcolor="EEE8AA" |№&nbsp;4
+| bgcolor="e9e9e9" |[[Western & Southern Open|Cincinnati Open]], [[США]]
+| bgcolor="CCCCFF" |Тверде
+| bgcolor="afeeee" |3-й раунд
+| 6:2, 7:6<sup>(7:2)</sup>
+|№&nbsp;39
+|-
+| 2.
+| {{flagicon|GER}} [[Анджелік Кербер]]
+| bgcolor="EEE8AA" |№&nbsp;8
+| bgcolor="e9e9e9" |[[Wuhan Open]], [[Китай]]
+| bgcolor="CCCCFF" |Тверде
+| bgcolor="ffebcd" |Чвертьфінал
+| 6:4, 7:6<sup>(7:3)</sup>
+|№&nbsp;34
+|-
+| colspan="8" style="text-align:" center |'''2015'''
+|-
+| 3.
+| {{flagicon|GER}} [[Анджелік Кербер]]
+| bgcolor="EEE8AA" |№&nbsp;9
+| bgcolor="d4f1c5" |[[Brisbane International]], [[Австралія]]
+| bgcolor="CCCCFF" |Тверде
+| bgcolor="ffebcd" |Чвертьфінал
+| 4:6, 7:5, 6:3
+|№&nbsp;28
+|-
+| 4.
+| {{flagicon|CZE}} [[Луціє Шафарова]]
+| bgcolor="EEE8AA" |№&nbsp;7
+| bgcolor="e9e9e9" |[[Western & Southern Open|Cincinnati Open]], [[США]]
+| bgcolor="CCCCFF" |Тверде
+| bgcolor="ffebcd" |Чвертьфінал
+| 6:4, 2:6, 6:0
+|№&nbsp;20
+|-
+| colspan="8" style="text-align:" center |'''2016'''
+|-
+| 5.
+| {{flagicon|SPA}} [[Гарбінє Мугуруса]]
+| bgcolor="EEE8AA" |№&nbsp;5
+| bgcolor="d4f1c5" |[[Dubai Tennis Championships]], [[Дубаї]], [[ОАЕ]]
+| bgcolor="CCCCFF" |Тверде
+| bgcolor="afeeee" |2-й раунд
+| 7:6<sup>(7:3)</sup>, 6:3
+|№&nbsp;21
+|-
+| 6.
+| {{flagicon|USA}} [[Серена Вільямс]]
+| bgcolor="lime" |№&nbsp;1
+| bgcolor="f5da81" |[[Теніс на літніх Олімпійських іграх 2016 — жіночий одиночний турнір|Олімпійські ігри]], [[Ріо-де-Жанейро]], [[Бразилія]]
+| bgcolor="CCCCff" |Тверде
+| bgcolor="afeeee" |3-й раунд
+| 6:4, 6:3
+|№&nbsp;20
+|-
+| 7.
+| {{flagicon|SPA}} [[Гарбінє Мугуруса]]
+| bgcolor="99ccff" |№&nbsp;3
+| bgcolor="d4f1c5" |[[Toray Pan Pacific Open]], [[Японія]]
+| bgcolor="CCCCff" |Тверде
+| bgcolor="ffebcd" |Чвертьфінал
+| 6:2, 4:6, 6:3
+|№&nbsp;20
+|-
+| 8.
+| {{flagicon|GER}} [[Анджелік Кербер]]
+| bgcolor="lime" |№&nbsp;1
+| bgcolor="e9e9e9" |[[China Open]], [[Китай]]
+| bgcolor="CCCCFF" |Тверде
+| bgcolor="afeeee" |3-й раунд
+| 6:3, 7:5
+|№&nbsp;19
+|-
+| 9.
+| {{flagicon|GBR}} [[Джоанна Конта]]
+| bgcolor="EEE8AA" |№&nbsp;10
+| bgcolor="E2FAF" |[[WTA Elite Trophy]], [[Китай]]
+| bgcolor="CCCCFF" |Тверде
+| bgcolor="yellow" |Півфінал
+| 2:6, 6:1, 6:4
+|№&nbsp;14
+|-
+| colspan="8" style="text-align:" center |'''2017'''
+|-
+| 10.
+| {{flagicon|GER}} [[Анджелік Кербер]]
+| bgcolor="lime" |№&nbsp;1
+| bgcolor="d4f1c5" |[[Brisbane International]], [[Австралія]]
+| bgcolor="CCCCFF" |Тверде
+| bgcolor="ffebcd" |Чвертьфінал
+| 6:4, 3:6, 6:3
+|№&nbsp;14
+|-
+| 11.
+| {{flagicon|GER}} [[Анджелік Кербер]]
+| bgcolor="thistle" |№&nbsp;2
+| bgcolor="e9e9e9" |[[Dubai Tennis Championships]], [[Дубаї]], [[ОАЕ]]
+| bgcolor="CCCCFF" |Тверде
+| bgcolor="yellow" |Півфінал
+| 6:3, 7:6<sup>(7:3)</sup>
+|№&nbsp;13
+|-
+| 12.
+| {{flagicon|GER}} [[Анджелік Кербер]]
+| bgcolor="lime" |№&nbsp;1
+| bgcolor="eff2cf" |[[Кубок Федерації|Fed Cup]], [[Німеччина]]
+| bgcolor="EBC2AF" |Ґрунт
+| bgcolor="DEEEEE" |WG PO
+| 6:4, 6:2
+|№&nbsp;13
+|-
+| 13.
+| {{flagicon|CZE}} [[Кароліна Плішкова]]
+| bgcolor="99ccff" |№&nbsp;3
+| bgcolor="e9e9e9" |[[Internazionali BNL d'Italia|Italian Open]], [[Рим]], [[Італія]]
+| bgcolor="EBC2AF" |Ґрунт
+| bgcolor="ffebcd" |Чвертьфінал
+| 6:2, 7:6<sup>(11:9)</sup>
+|№&nbsp;11
+|-
+| 14.
+| {{flagicon|ESP}} [[Гарбінє Мугуруса]]
+| bgcolor="eee8aa" |№&nbsp;7
+| bgcolor="e9e9e9" |[[Internazionali BNL d'Italia|Italian Open]], [[Рим]], [[Італія]]
+| bgcolor="EBC2AF" |Ґрунт
+| bgcolor="yellow" |Півфінал
+| 4:1 ret.
+|№&nbsp;11
+|-
+| 15.
+|{{flagicon|ROU}} [[Сімона Халеп]]
+| bgcolor="eee8aa" |№&nbsp;4
+| bgcolor="e9e9e9" |[[Internazionali BNL d'Italia|Italian Open]], [[Рим]], [[Італія]]
+| bgcolor="EBC2AF" |Ґрунт
+| bgcolor="lime" |Фінал
+| 4:6, 7:5, 6:1
+|№&nbsp;11
+|-
+| 16.
+| {{flagicon|USA}} [[Вінус Вільямс]]
+| bgcolor="eee8aa" |№&nbsp;9
+| bgcolor="e9e9e9" |[[Rogers Cup|Canadian Open]], [[Канада]]
+| bgcolor="CCCCFF" |Тверде
+| bgcolor="AFEEEE" |3-й раунд
+| 6:2, 6:1
+| bgcolor="EEE8AA" |№&nbsp;5
+|-
+| 17.
+| {{flagicon|ESP}} [[Гарбінє Мугуруса]]
+| bgcolor="eee8aa" |№&nbsp;4
+| bgcolor="e9e9e9" |[[Rogers Cup|Canadian Open]], [[Канада]]
+| bgcolor="CCCCFF" |Тверде
+| bgcolor="ffebcd" |Чвертьфінал
+| 4:6, 6:4, 6:3
+| bgcolor="EEE8AA" |№&nbsp;5
+|-
+| 18.
+|{{flagicon|ROU}} [[Сімона Халеп]]
+| bgcolor="thistle" |№&nbsp;2
+| bgcolor="e9e9e9" |[[Rogers Cup|Canadian Open]], [[Канада]]
+| bgcolor="CCCCFF" |Тверде
+| bgcolor="yellow" |Півфінал
+| 6:1, 6:1
+| bgcolor="EEE8AA" |№&nbsp;5
+|-
+| 19.
+| {{flagicon|DEN}} [[Каролін Возняцкі]]
+| bgcolor="EEE8AA" |№&nbsp;6
+| bgcolor="e9e9e9" |[[Rogers Cup|Canadian Open]], [[Канада]]
+| bgcolor="CCCCFF" |Тверде
+| bgcolor="lime" |Фінал
+| 6:4, 6:0
+| bgcolor="EEE8AA" |№&nbsp;5
+|-
+| 20.
+|{{flagicon|ROU}} [[Сімона Халеп]]
+| bgcolor="lime" |№&nbsp;1
+| bgcolor="ffffcc" |[[Чемпіонат WTA|WTA Finals]], [[Сингапур]]
+| bgcolor="CCCCFF" |Тверде
+| bgcolor="afeeee" |Коловий етап
+| 6:3, 6:4
+| bgcolor="EEE8AA" |№&nbsp;4
+|-
+| colspan="8" style="text-align:" center |'''2018'''
+|-
+| 21.
+| {{flagicon|GBR}} [[Джоанна Конта]]
+| bgcolor="EEE8AA" |№&nbsp;9
+| bgcolor="d4f1c5" |[[Brisbane International]], [[Австралія]]
+| bgcolor="CCCCFF" |Тверде
+| bgcolor="ffebcd" |Чвертьфінал
+| 1:6, 7:6<sup>(8:6)</sup>, 3:2<sup>ret</sup>
+| bgcolor="EEE8AA" |№&nbsp;6
+|-
+| 22.
+| {{flagicon|CZE}} [[Кароліна Плішкова]]
+| bgcolor="EEE8AA" |№&nbsp;4
+| bgcolor="d4f1c5" |[[Brisbane International]], [[Австралія]]
+| bgcolor="CCCCFF" |Тверде
+| bgcolor="yellow" |Півфінал
+| 7:5, 7:5
+| bgcolor="EEE8AA" |№&nbsp;6
+|-
+| 23.
+| {{flagicon|GER}} [[Анджелік Кербер]]
+| bgcolor="EEE8AA" |№&nbsp;9
+| bgcolor="d4f1c5" |[[Dubai Tennis Championships]], [[Дубаї]], [[ОАЕ]]
+| bgcolor="CCCCFF" |Тверде
+| bgcolor="yellow" |Півфінал
+| 6:3, 6:3
+| bgcolor="EEE8AA" |№&nbsp;4
+|-
+| 24.
+|{{flagicon|ROU}} [[Сімона Халеп]]
+| bgcolor="lime" |№&nbsp;1
+| bgcolor="e9e9e9" |[[Internazionali BNL d'Italia|Italian Open]], [[Рим]], [[Італія]]
+| bgcolor="EBC2AF" |Ґрунт
+| bgcolor="lime" |Фінал
+| 6:0, 6:4
+| bgcolor="EEE8AA" |№&nbsp;4
+|-
+| 25.
+| {{flagicon|CZE}} [[Петра Квітова]]
+| bgcolor="EEE8AA" |№&nbsp;5
+| bgcolor="ffffcc" |[[Чемпіонат WTA|WTA Finals]], [[Сингапур]]
+| bgcolor="CCCCFF" |Тверде
+| bgcolor="afeeee" |Коловий етап
+| 6:3, 6:3
+| bgcolor="EEE8AA" |№&nbsp;7
+|-
+| 26.
+| {{flagicon|CZE}} [[Кароліна Плішкова]]
+| bgcolor="EEE8AA" |№&nbsp;8
+| bgcolor="ffffcc" |[[Чемпіонат WTA|WTA Finals]], [[Сингапур]]
+| bgcolor="CCCCFF" |Тверде
+| bgcolor="afeeee" |Коловий етап
+| 6:3, 2:6, 6:3
+| bgcolor="EEE8AA" |№&nbsp;7
+|-
+| 27.
+| {{flagicon|DEN}} [[Каролін Возняцкі]]
+| bgcolor="99ccff" |№&nbsp;3
+| bgcolor="ffffcc" |[[Чемпіонат WTA|WTA Finals]], [[Сингапур]]
+| bgcolor="CCCCFF" |Тверде
+| bgcolor="afeeee" |Коловий етап
+| 5:7, 7:5, 6:3
+| bgcolor="EEE8AA" |№&nbsp;7
+|-
+| 28.
+| {{flagicon|NED}} [[Кікі Бертенс]]
+| bgcolor="EEE8AA" |№&nbsp;9
+| bgcolor="ffffcc" |[[Чемпіонат WTA|WTA Finals]], [[Сингапур]]
+| bgcolor="CCCCFF" |Тверде
+| bgcolor="yellow" |Півфінал
+| 7:5, 6:7<sup>(5:7)</sup>, 6:4
+| bgcolor="EEE8AA" |№&nbsp;7
+|-
+| 29.
+| {{flagicon|USA}} [[Слоун Стівенс]]
+| bgcolor="EEE8AA" |№&nbsp;6
+| bgcolor="ffffcc" |[[Чемпіонат WTA|WTA Finals]], [[Сингапур]]
+| bgcolor="CCCCFF" |Тверде
+| bgcolor="lime" |Фінал
+| 3:6, 6:2, 6:2
+| bgcolor="EEE8AA" |№&nbsp;7
+|-
+| colspan="8" style="text-align:" center |'''2019'''
+|-
+| 30.
+| {{flagicon|USA}} [[Медісон Кіз]]
+| bgcolor="EEE8AA" |№&nbsp;9
+| bgcolor="f3e6d7" |[[US Open]], [[Нью-Йорк]]
+| bgcolor="CCCCFF" |Тверде
+| bgcolor="afeeee" |4-й раунд
+| 7:5, 6:4
+| bgcolor="EEE8AA" |№&nbsp;5
+|-
+| 31.
+| {{flagicon|CZE}} [[Кароліна Плішкова]]
+| bgcolor="thistle" |№&nbsp;2
+| bgcolor="ffffcc" |[[Чемпіонат WTA|WTA Finals]], [[Шеньчжень]], [[Китайська Народна Республіка|КНР]]
+| bgcolor="ccccff" |Тверде
+| bgcolor="afeeee" |Коловий етап
+| 7:6<sup>(14:12)</sup>, 6:4
+| bgcolor="eee8aa" |№&nbsp;8
+|-
+| 32.
+| {{flagicon|ROU}} [[Сімона Халеп]]
+| bgcolor="eee8aa" |№&nbsp;5
+| bgcolor="ffffcc" |[[Чемпіонат WTA|WTA Finals]], [[Шеньчжень]], [[Китайська Народна Республіка|КНР]]
+| bgcolor="ccccff" |Тверде
+| bgcolor="afeeee" |Коловий етап
+| 7:5, 6:3
+| bgcolor="eee8aa" |№&nbsp;8
+|-
+| 33.
+| {{flagicon|SUI}} [[Белінда Бенчич]]
+| bgcolor="eee8aa" |№&nbsp;7
+| bgcolor="ffffcc" |[[Чемпіонат WTA|WTA Finals]], [[Шеньчжень]], [[Китайська Народна Республіка|КНР]]
+| bgcolor="ccccff" |Тверде
+| bgcolor="yellow" |Півфінал
+| 5:7, 6:3, 4:1 ret.
+| bgcolor="eee8aa" |№&nbsp;8
+|-
+| colspan="8" style="text-align:" center |'''2021'''
+|-
+| 34.
+| {{flagicon|CZE}} [[Петра Квітова]]
+| bgcolor="EEE8AA" |№&nbsp;10
+| bgcolor="e9e9e9" |[[Відкритий чемпіонат Маямі з тенісу|Miami Open]], [[США]]
+| bgcolor="CCCCFF" |Тверде
+| bgcolor="afeeee" |4-й раунд
+| 2:6, 7:5, 7:5
+| bgcolor="EEE8AA" |№&nbsp;5
+|-
+| 35.
+| {{flagicon|CZE}} [[Петра Квітова]]
+| bgcolor="EEE8AA" |№&nbsp;10
+| bgcolor="e9e9e9" |[[Porsche Tennis Grand Prix|Stuttgart Open]], [[Німеччина]]
+| bgcolor="EBC2AF" |Ґрунт
+| bgcolor="ffebcd" |Чвертьфінал
+| 6:7<sup>(4:7)</sup>, 7:5, 6:2
+| bgcolor="EEE8AA" |№&nbsp;5
+|-
+| colspan="8" style="text-align:" center |'''2023'''
+|-
+| 36.
+| {{flagicon|}} [[Касаткіна Дарія Сергіївна|Дарія Касаткіна]]
+| bgcolor="eee8aa" |№&nbsp;9
+| bgcolor="f3e6d7" |[[Відкритий чемпіонат Франції з тенісу 2023|Ролан Гаррос]], [[Франція]]
+| bgcolor="ebc2af" |Ґрунт
+| bgcolor="afeeee" |4-й раунд
+| 6–4, 7–6<sup>(7:5)</sup>
+| №&nbsp;192
+|-
+| 37.
+|{{flagicon|POL}} [[Іга Свьонтек]]
+| bgcolor="lime" |№&nbsp;1
+| bgcolor="f3e6d7" |[[Вімблдонський турнір 2023|Вімблдонський турнір]], [[Велика Британія]]
+| bgcolor="ccffcc" |Трава
+| bgcolor="ffebcd" |Чвертьфінал
+| 7:5, 6:7<sup>(5:7)</sup>, 6:2
+| №&nbsp;76
+|-
+| colspan="8" style="text-align:" center |'''2024'''
+|-
+| 38.
+|{{flagicon|TUN}} [[Унс Джабір]]
+| bgcolor="EEE8AA" |№&nbsp;10
+| bgcolor="f3e6d7" |[[Вімблдонський турнір 2024|Вімблдонський турнір]], [[Велика Британія]]
+| bgcolor="ccffcc" |Трава
+| bgcolor="ffebcd" |3 коло
+| 6:1, 7:6<sup>(7:4)</sup>
+| №&nbsp;21
+|-
+| colspan="8" |'''2025'''
+|-
+|39.
+|{{flagicon|ITA}} [[Жасмін Паоліні]]
+|bgcolor="eee8aa" |№&nbsp;4
+| bgcolor="f3e6d7" |[[Відкритий чемпіонат Австралії 2025|Відкритий чемпіонат Австралії]], [[Австралія]]
+|bgcolor="CCCCFF" |Тверде
+|bgcolor="ffebcd" |3 коло
+| 6:2, 4:6, 0:6
+|№&nbsp;28
+|-
+|}
+
+== Галерея ==
+<gallery class="center" widths="200px" heights="200px" perrow="6">
+File:Elina Svitolina (7105792783).jpg|У 2012
+File:Elina Svitolina (6959719576).jpg|У 2012
+File:Svitolina WMQ13-002.jpg|Кваліфікація на [[Вімблдонський турнір 2013|Вімблдон 2013]]
+File:Elina Svitolina (15152339008).jpg|У 2014
+File:Elina Svitolina (18845271920).jpg|У 2015
+File:Elina Svitolina & Olga Savchuk (16295909519).jpg|Разом з [[Савчук Ольга Миколаївна|Ольгою Савчук]] на [[Кубок Федерації|Кубку Федерації]] 2015
+File:Elina Svitolina (16812666486).jpg|На [[BNP Paribas Open]] 2015
+File:Elina Svitolina (19146815453).jpg|На [[Відкритий чемпіонат Франції з тенісу 2015, жінки, одиночний розряд|Ролан Гаррос 2015]]
+File:Elina_Svitolina_(19319357939).jpg|На [[Вімблдонський турнір 2016|Вімблдон 2015]]
+File:Svitolina BM16 (8) (27672426272).jpg|На [[Відкритий чемпіонат Франції з тенісу 2016, жінки, одиночний розряд|Ролан Гаррос 2016]]
+File:Svitolina US16 (34) (29235409644).jpg|На [[Відкритий чемпіонат США з тенісу 2016, жінки, одиночний розряд|US Open 2016]]
+File:Elina Svitolina (33063538520).jpg|На [[BNP Paribas Open|Indian Wells Open]] 2017
+</gallery>
+
+== Див. також ==
+
+* [[Калініна Ангеліна Сергіївна|Ангеліна Калініна]]
+* [[Марта Костюк]]
+* [[Даяна Ястремська]]
+
+== Примітки ==
+{{примітки|2}}
+
+== Посилання ==
+{{Вікіпосилання
+|Тема               = Еліна Світоліна
+|Портал             = Біографії
+|Портал1            = Теніс
+|Вікідані           = Q270249
+|Вікіцитати         = Світоліна Еліна Михайлівна
+|Вікісховище        = Category:Elina Svitolina
+|Родовід            = 
+}}
+* {{official|svitolina.com}} {{ref-ru}} {{ref-en}}
+* [http://www.wtatennis.com/players/player/316738/title/elina-svitolina-0 Досьє на сайті WTA] {{ref-en}}
+* [http://sapronov-tennis.org/?p=players&id=145 Досьє на sapronov-tennis.org] {{ref-ru}}
+* [http://www.itftennis.com/procircuit/players/player/profile.aspx?playerid=100131002 Досьє на сайті ITF] {{ref-en}}
+* [http://ftu.org.ua/?mid=4&action=player_info&player_id=1113 Досьє на сайті ФТУ]
+* [https://www.youtube.com/watch?v=bQprCFFILWM Інтерв'ю Світоліної YouTube каналу ОТДУШИВДУШУ, 16 серпня 2018]
+
+{{Переможниці Відкритого чемпіонату Франції з тенісу серед дівчат в одиночному розряді}}
+{{бібліоінформація}}
+{{добра стаття}}
+
+[[Категорія:Уродженці Одеси]]
+[[Категорія:Спортсмени Одеси]]
+[[Категорія:Спортсмени Харкова]]
+[[Категорія:Українські тенісистки]]
+[[Категорія:Українські бронзові олімпійські медалісти]]
+[[Категорія:Бронзові призери літніх Олімпійських ігор 2020]]
+[[Категорія:Тенісисти XXI століття]]
+[[Категорія:Українські учасники літніх Олімпійських ігор 2016]]
+[[Категорія:Українські учасники літніх Олімпійських ігор 2020]]
+[[Категорія:Українські учасники літніх Олімпійських ігор 2024]]
+[[Категорія:Тенісисти та тенісистки на літніх Олімпійських іграх 2016]]
+[[Категорія:Тенісисти та тенісистки на літніх Олімпійських іграх 2020]]
+[[Категорія:Тенісисти та тенісистки на літніх Олімпійських іграх 2024]]
+[[Категорія:Заслужені майстри спорту України]]
+[[Категорія:Переможці юніорського Відкритого чемпіонату Франції з тенісу]]
+[[Категорія:Учасники літніх юнацьких Олімпійських ігор 2010]]
+[[Категорія:Олімпійські медалісти з тенісу]]
+[[Категорія:Площа зірок (Київ)]]
+[[Категорія:Тенісисти та тенісистки на Кубку Гопмана]]
+[[Категорія:Українські олімпійські тенісисти та тенісистки]]
+[[Категорія:Список лідерів України УП-100]]
+[[Категорія:Почесні громадяни Харкова]]
+|}

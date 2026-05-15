@@ -1,0 +1,64 @@
+
+{{Short description|Vaccine against hantavirus infections}}
+
+[[File:Sin_Nombre_hanta_virus_TEM_PHIL_1136_lores.jpg|thumb|Transmission electron micrograph of Hantavirus by the [[Centers for Disease Control and Prevention]].]]
+
+A '''hantavirus vaccine''' is a vaccine intended to protect against infection by viruses of the genus ''[[Orthohantavirus]]'', which can cause [[hemorrhagic fever with renal syndrome]] (HFRS) or [[hantavirus pulmonary syndrome]] (HPS). Vaccine development has included inactivated vaccines, DNA vaccine candidates, viral-vector and recombinant approaches, and early [[mRNA vaccine]] research.
+
+The best-known licensed or locally used vaccine is '''Hantavax''', an inactivated vaccine used in South Korea against HFRS caused mainly by [[Hantaan orthohantavirus|Hantaan virus]]. Hantavirus vaccine development is considered important because hantavirus infections cause substantial morbidity and mortality worldwide. It has been estimated that about 1.5 million cases and 46,000 deaths occurred in China from 1950 to 2007. The number of cases was estimated at 32,000 in Finland from 2005 to 2010 and 90,000 in Russia from 1996 to 2006.<ref name="Schmaljohn2012">{{cite journal |last=Schmaljohn |first=Connie S. |title=Vaccines for hantaviruses: progress and issues |journal=Expert Review of Vaccines |volume=11 |number=5 |pages=511–513 |year=2012 |doi=10.1586/ERV.12.15 |pmid=22827236 |s2cid=27574264 |url=https://apps.dtic.mil/sti/pdfs/ADA560724.pdf |access-date=11 May 2026}}</ref>
+
+As of 2026, no hantavirus vaccine had been approved for use in the United States, Europe or Latin America, and vaccine candidates for New World hantaviruses associated with HPS remained investigational.<ref name="WiredModernaHantavirus2026">{{cite news |last=Carbajal |first=Javier |title=A New Hantavirus Vaccine Is in the Works |work=Wired |date=11 May 2026 |url=https://www.wired.com/story/a-new-hantavirus-vaccine-is-in-the-works/ |access-date=11 May 2026}}</ref>
+
+== Inactivated vaccines ==
+
+The first hantavirus vaccine was developed in 1990, initially for use against [[Hantaan orthohantavirus|Hantaan virus]], which causes one of the more severe forms of hemorrhagic fever with renal syndrome.<ref name="Lee1990">{{cite journal |last1=Lee |first1=Ho Wang |last2=Ahn |first2=C. N. |last3=Song |first3=J. W. |last4=Baek |first4=L. J. |last5=Seo |first5=T. J. |last6=Park |first6=S. C. |title=Field trial of an inactivated vaccine against hemorrhagic fever with renal syndrome in humans |journal=Archives of Virology |series=Supplementum |volume=1 |pages=35–47 |year=1990 |pmid=1977743}}</ref> Hantavax, a rodent-brain-derived inactivated vaccine, has been used in South Korea. In China, rodent-brain-derived and cell-culture-derived inactivated vaccines have also been used, and it has been estimated that about two million doses of such vaccines were administered annually. The wide use of these vaccines may have contributed to the decline of HFRS cases in China to fewer than 20,000 by 2007.<ref name="Schmaljohn2012" />
+
+Other hantaviruses for which inactivated vaccines have been used or studied include [[Seoul orthohantavirus|Seoul virus]]. However, available inactivated vaccines are not considered effective against all hantaviruses. Existing Hantaan-virus-based vaccines are thought to have limited activity against European hantaviruses such as [[Puumala orthohantavirus|Puumala virus]] and [[Dobrava-Belgrade orthohantavirus|Dobrava-Belgrade virus]], and do not address New World hantaviruses such as [[Andes orthohantavirus|Andes virus]].<ref name="Schmaljohn2012" /><ref name="WiredModernaHantavirus2026" />
+
+== DNA vaccine candidates ==
+
+Several experimental hantavirus vaccines have used plasmid [[DNA vaccine|DNA vaccine]] platforms. These candidates generally encode hantavirus envelope glycoproteins, such as Gn and Gc, with the aim of inducing neutralizing antibody responses.
+
+A phase 2a clinical study has evaluated a Hantaan/Puumala virus DNA vaccine for prevention of hemorrhagic fever with renal syndrome.<ref name="ClinicalTrialsHTNVPuuv">{{cite web |title=Phase 2a Immunogenicity Study of Hantaan/Puumala Virus DNA Vaccine for Prevention of Hemorrhagic Fever |website=ClinicalTrials.gov |id=NCT02456870 |url=https://clinicaltrials.gov/study/NCT02456870 |access-date=11 May 2026}}</ref> Earlier phase 1 studies of Hantaan and Puumala DNA vaccines induced neutralizing antibodies in a proportion of recipients, but development has not led to a generally licensed vaccine in the United States or Europe.<ref name="Schmaljohn2012" />
+
+A first-in-human phase 1 trial of an Andes virus DNA vaccine evaluated safety, [[reactogenicity]] and [[immunogenicity]] in healthy adults. The vaccine encoded the Andes virus Gn and Gc envelope glycoproteins and was administered by needle-free jet injection.<ref name="ClinicalTrialsANDV">{{cite web |title=Andes Virus DNA Vaccine for the Prevention of Hantavirus Pulmonary Syndrome Using the PharmaJet Stratis Needle-Free Injection System in Healthy Adults |website=ClinicalTrials.gov |id=NCT03682107 |url=https://clinicaltrials.gov/study/NCT03682107 |access-date=11 May 2026}}</ref> Published results reported that the candidate vaccine was safe and induced a durable immune response in the trial population.<ref name="PaulsenANDVDNA2024">{{cite journal |last1=Paulsen |first1=G. C. |title=Safety and Immunogenicity of an Andes Virus DNA Vaccine by Needle-Free Injection: A Randomized, Controlled Phase 1 Study |journal=The Journal of Infectious Diseases |year=2024 |pmid=37380156 |url=https://pubmed.ncbi.nlm.nih.gov/37380156/ |access-date=11 May 2026}}</ref>
+
+== mRNA vaccine research ==
+
+Research on [[mRNA vaccine]]s for hantaviruses has accelerated after the development of mRNA vaccines for COVID-19. In 2024, researchers at the [[University of Texas Medical Branch]] reported that mRNA vaccine candidates against Andes virus protected animals in a lethal challenge model. The university described Andes virus as a South American hantavirus with human fatality rates up to 30 percent and noted that no approved vaccine existed for the virus.<ref name="UTMBAndesMRNA2024">{{cite web |title=UTMB study shows success with new vaccines to prevent Andes virus |website=Galveston National Laboratory |publisher=University of Texas Medical Branch |date=31 July 2024 |url=https://www.utmb.edu/gnl/news/2024/07/31/utmb-study-shows-success-with-new-vaccines-to-prevent-andes-virus |access-date=11 May 2026}}</ref>
+
+In 2026, [[Moderna]] confirmed that it was researching mRNA vaccines against hantaviruses in collaboration with the Vaccine Innovation Center of Korea University College of Medicine. Reporting on the program stated that the collaboration began in 2023, before the 2026 MV Hondius outbreak, and that the work remained preclinical, with no finished vaccine expected in the near term.<ref name="WiredModernaHantavirus2026" /> Moderna's mRNA Access program states that it offers researchers use of Moderna's mRNA technology to target priority pathogens identified by organizations such as the [[World Health Organization]], the [[Coalition for Epidemic Preparedness Innovations]] and the [[National Institute of Allergy and Infectious Diseases]].<ref name="ModernaMRNAAccess">{{cite web |title=Global Public Health Portfolio |website=Moderna mRNA Access |publisher=Moderna |url=https://mrna-access.modernatx.com/global-health-priorities |access-date=11 May 2026}}</ref>
+
+The Moderna–Korea University work has been described as an effort to develop broader mRNA-based protection against multiple hantavirus strains. According to reporting, the Korean team provides hantavirus antigen sequence information and Moderna supplies corresponding mRNA material for preclinical antigen-expression studies.<ref name="WiredModernaHantavirus2026" /> Because hantaviruses are diverse and regionally variable, a broadly protective vaccine remains a technical challenge.<ref name="WiredModernaHantavirus2026" />
+
+== Other vaccine approaches ==
+
+Other vaccine candidates have included recombinant, viral-vector and virus-derived approaches. Three additional candidates had entered phase I or phase II clinical trials by the early 2010s, including a recombinant vaccine and vaccines derived from Hantaan and Puumala viruses, but their prospects remained unclear.<ref name="Schmaljohn2012" />
+
+== Public-health status ==
+
+No hantavirus vaccine is approved for routine use in the United States or Europe. Public-health guidance therefore continues to emphasize prevention of rodent exposure, safe cleanup of rodent-contaminated areas, early recognition of illness and supportive medical care.<ref name="CDCCurrentSituation2026">{{cite web |title=Hantavirus: Current Situation |website=Centers for Disease Control and Prevention |date=8 May 2026 |url=https://www.cdc.gov/hantavirus/situation-summary/index.html |access-date=11 May 2026}}</ref>
+
+The vaccine-development landscape differs by hantavirus species and clinical syndrome. Old World hantaviruses such as Hantaan and Puumala viruses are associated mainly with hemorrhagic fever with renal syndrome, while New World hantaviruses such as Andes virus and Sin Nombre virus are associated with hantavirus pulmonary syndrome. A vaccine effective against one hantavirus may not provide broad protection against all medically important hantaviruses.<ref name="Schmaljohn2012" /><ref name="WiredModernaHantavirus2026" />
+
+== See also ==
+
+* [[Gou virus]]
+* [[List of vaccine topics]]
+* [[Seoul virus]]
+* [[Vaccine-naive]]
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+
+* [https://www.cdc.gov/hantavirus/index.html CDC Hantavirus]
+* [https://viralzone.expasy.org/251 ViralZone: Hantavirus]
+* [https://clinicaltrials.gov/search?cond=Hantavirus%20Infections ClinicalTrials.gov studies for hantavirus infections]
+
+{{Vaccines}}
+
+[[Category:Vaccines]]
+[[Category:Hantavirus infections]]

@@ -1,0 +1,24 @@
+<!-- ============================================================
+  NOT a new article. "EYP-1901" / "DURAVYU" should NOT be created
+  as a standalone page — the active ingredient already has one at
+  https://en.wikipedia.org/wiki/Vorolanib (a ~4 KB stub).
+
+  This is a SECTION to ADD to the existing Vorolanib article.
+  Place it after the lead, before "== References ==".
+
+  Note: the Vorolanib lead already contains a one-sentence mention
+  of "being evaluated for neovascular age-related macular
+  degeneration" (cited to the Walia 2025 review). When you paste
+  this in, consider trimming that sentence from the lead so the
+  detail lives in this section instead.
+  ============================================================ -->
+
+== Ophthalmic use ==
+Vorolanib is being developed as a sustained-release ophthalmic treatment for retinal disease by [[EyePoint Pharmaceuticals]] under the development code '''EYP-1901''' (proposed brand name '''Duravyu'''). EYP-1901 is an [[intravitreal]] insert that combines vorolanib with EyePoint's bioerodible Durasert E drug-delivery technology, releasing the drug into the eye over a period of months. As a small-molecule [[tyrosine kinase inhibitor]], vorolanib acts intracellularly to inhibit [[VEGF receptor]]s and [[platelet-derived growth factor receptor]]s, a mechanism distinct from the injected anti-VEGF antibodies and fusion proteins that are the existing standard of care for these conditions.<ref name="Sayed2024">{{cite journal |vauthors=Sayed A, Ravichandran P, Canizela C, Hussain RM |title=Role of EYP-1901 in neovascular age-related macular degeneration and diabetic eye diseases: review of Phase I/II trials |journal=Therapeutic Delivery |volume=15 |issue=11 |pages=829–843 |year=2024 |pmid=39360955 |pmc=11497975 |doi=10.1080/20415990.2024.2406226}}</ref>
+
+EYP-1901 has been evaluated in phase 1 and phase 2 trials in [[neovascular]] (wet) [[age-related macular degeneration]], [[diabetic macular edema]] and non-proliferative [[diabetic retinopathy]], where the insert was generally well tolerated and showed the potential to reduce the frequency of treatment compared with standard anti-VEGF injections.<ref name="Sayed2024" />
+
+As of 2026, EYP-1901 is in phase 3 development. Two global phase 3 trials in wet AMD, LUGANO and LUCIA, are comparing the insert with the anti-VEGF drug [[aflibercept]], with topline data expected in mid-2026.<ref name="OT-LUGANO">{{cite news |title=EyePoint Pharmaceuticals announces first patient dosed in global Phase 3 LUGANO clinical trial of Duravyu for wet AMD |work=Ophthalmology Times |url=https://www.ophthalmologytimes.com/view/eyepoint-pharmaceuticals-announces-first-patient-dosed-in-global-phase-3-lugano-clinical-trial-of-duravyu-for-wet-amd |access-date=14 May 2026}}</ref><ref name="OT-LUCIA">{{cite news |title=EyePoint doses first patient in second global Phase 3 LUCIA clinical trial of Duravyu for the treatment of wet AMD |work=Ophthalmology Times |url=https://www.ophthalmologytimes.com/view/eyepoint-doses-first-patient-in-second-global-phase-3-lucia-clinical-trial-of-duravyu-for-wet-amd |access-date=14 May 2026}}</ref> A separate phase 3 program in diabetic macular edema was initiated in October 2025.<ref name="GNW-DME">{{cite press release |title=EyePoint Announces Pivotal Phase 3 Program Initiation for DURAVYU in Diabetic Macular Edema |publisher=EyePoint Pharmaceuticals |date=14 October 2025 |url=https://www.globenewswire.com/news-release/2025/10/14/3166631/0/en/EyePoint-Announces-Pivotal-Phase-3-Program-Initiation-for-DURAVYU-in-Diabetic-Macular-Edema.html |access-date=14 May 2026}}</ref> In 2026, an independent data safety monitoring committee reviewed the wet AMD program and recommended that both trials continue without modification.<ref name="BS-DSMC">{{cite news |title=EyePoint Announces Third Consecutive Positive DSMC Recommendation for Phase 3 Wet AMD Trials for DURAVYU |work=BioSpace |date=2026 |url=https://www.biospace.com/press-releases/eyepoint-announces-third-consecutive-positive-dsmc-recommendation-for-phase-3-wet-amd-trials-for-duravyu-building-confidence-ahead-of-mid-2026-topline-data |access-date=14 May 2026}}</ref>
+
+<!-- These reference definitions are already used inline above; if your
+     target article uses {{reflist}} they will render automatically. -->

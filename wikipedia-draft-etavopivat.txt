@@ -1,0 +1,44 @@
+{{Short description|Investigational drug for sickle cell disease}}
+{{Use dmy dates|date=May 2026}}
+{{Infobox drug
+| type = small molecule
+| drug_name = Etavopivat
+| INN = etavopivat
+| class = [[Pyruvate kinase]] activator
+| routes_of_administration = [[Oral administration|By mouth]]
+| ATC_prefix = none
+| legal_status = Investigational
+| CAS_number = 2245053-57-8
+| PubChem =
+| DrugBank =
+| ChemSpiderID =
+| UNII =
+| KEGG =
+}}
+
+'''Etavopivat''' (development code '''FT-4202''') is an investigational, orally administered, once-daily small-molecule [[activator (genetics)|activator]] of the red blood cell isoform of [[pyruvate kinase]] (PKR) being developed by [[Novo Nordisk]] for the treatment of [[sickle cell disease]].<ref name="globenewswire2026">{{cite press release |title=Etavopivat is the first in a new class of drugs to meet both co-primary endpoints in the phase 3 HIBISCUS trial, substantially reducing vaso-occlusive crisis events and improving haemoglobin response in sickle cell disease |publisher=Novo Nordisk |date=20 April 2026 |url=https://www.globenewswire.com/news-release/2026/04/20/3276770/0/en/Novo-Nordisk-Etavopivat-is-the-first-in-a-new-class-of-drugs-to-meet-both-co-primary-endpoints-in-the-phase-3-HIBISCUS-trial-substantially-reducing-vaso-occlusive-crisis-events-and.html |access-date=14 May 2026}}</ref>
+
+== Mechanism of action ==
+Etavopivat is a selective small-molecule activator of erythrocyte pyruvate kinase (PKR), the enzyme that catalyses the final step of [[glycolysis]] in [[red blood cell]]s. By activating PKR, etavopivat increases the production of [[adenosine triphosphate]] (ATP) and lowers the concentration of [[2,3-bisphosphoglycerate|2,3-diphosphoglycerate]] (2,3-DPG). The reduction in 2,3-DPG increases the oxygen affinity of [[haemoglobin]], which is intended to reduce the polymerisation of sickle haemoglobin and the resulting deformation ("sickling") of red blood cells.<ref name="globenewswire2026" /><ref name="bloodadv2024">{{cite journal |vauthors=Saraf SL, Hagar R, Idowu M, Osunkwo I, Cruz K, Kuypers FA |title=Multicenter, phase 1 study of etavopivat (FT-4202) treatment for up to 12 weeks in patients with sickle cell disease |journal=Blood Advances |volume=8 |issue=16 |pages=4459–4475 |date=27 August 2024 |pmid=38640200 |pmc=11445223 |doi=10.1182/bloodadvances.2023012467 |display-authors=etal}}</ref>
+
+== Clinical trials ==
+=== Phase 1 ===
+In a multicenter [[Phase 1 clinical trial|phase 1]] study, etavopivat 400&nbsp;mg once daily given for up to 12 weeks in patients with sickle cell disease was well tolerated and produced rapid and sustained increases in haemoglobin, improvements in red blood cell physiology, and reductions in markers of [[haemolysis]].<ref name="bloodadv2024" />
+
+=== Phase 3 (HIBISCUS) ===
+HIBISCUS was a randomised, double-blind, [[placebo-controlled]] [[Phase 3 clinical trial|phase 3]] trial that enrolled 385 people aged 12 years and older with sickle cell disease. Participants received etavopivat 400&nbsp;mg once daily or placebo on top of standard of care.<ref name="globenewswire2026" /><ref name="ctarena2026">{{cite news |title=Novo Nordisk to seek oral sickle cell therapy approval after Phase III victory |work=Clinical Trials Arena |date=21 April 2026 |url=https://www.clinicaltrialsarena.com/news/novo-nordisk-to-seek-oral-sickle-cell-therapy-approval-after-phase-iii-victory/ |access-date=14 May 2026}}</ref>
+
+In April 2026, Novo Nordisk reported that the trial met both of its co-primary endpoints. Etavopivat reduced [[vaso-occlusive crisis]] events by 27% compared with placebo and delayed the time to the first vaso-occlusive crisis by about four months. A haemoglobin response—defined as an increase of more than 1&nbsp;g/dL at 24 weeks—was achieved by 48.7% of participants treated with etavopivat compared with 7.2% of those receiving placebo.<ref name="globenewswire2026" /><ref name="hcplive2026">{{cite news |title=Phase 3 HIBISCUS: Etavopivat Cuts VOC Events, Improves Hemoglobin in SCD |work=HCPLive |date=April 2026 |url=https://www.hcplive.com/view/phase-3-hibiscus-etavopivat-cuts-voc-events-improves-hemoglobin-in-scd |access-date=14 May 2026}}</ref>
+
+== History ==
+Etavopivat was originally developed by [[Forma Therapeutics]] under the code name FT-4202.<ref name="bloodadv2024" /> In September 2022, Novo Nordisk agreed to acquire Forma Therapeutics for US$20 per share, valuing the company at approximately US$1.1&nbsp;billion; the acquisition was completed in October 2022 and gave Novo Nordisk control of etavopivat and Forma's other rare blood disorder programmes.<ref name="goodwin2022">{{cite news |title=Novo Nordisk Completes Forma Therapeutics Acquisition |publisher=Goodwin |date=14 October 2022 |url=https://www.goodwinlaw.com/en/news-and-events/news/2022/10/10_14-novo-nordisk-completes-forma-therapeutics |access-date=14 May 2026}}</ref>
+
+The [[Food and Drug Administration|US Food and Drug Administration]] has granted etavopivat [[Fast track (FDA)|Fast Track]], Rare Pediatric Disease, and [[Orphan drug|Orphan Drug]] designations, and the [[European Commission]] has granted it orphan drug designation.<ref name="globenewswire2026" /><ref name="pharmaphorum2026">{{cite news |title=Novo Nordisk preps filings for sickle cell drug etavopivat |work=Pharmaphorum |date=April 2026 |url=https://pharmaphorum.com/news/novo-nordisk-preps-filings-sickle-cell-drug-etavopivat |access-date=14 May 2026}}</ref> Following the HIBISCUS results, Novo Nordisk stated that it planned to submit etavopivat for its first regulatory approval in the second half of 2026.<ref name="globenewswire2026" /><ref name="ctarena2026" />
+
+== References ==
+{{reflist}}
+
+{{DEFAULTSORT:Etavopivat}}
+[[Category:Experimental drugs]]
+[[Category:Sickle cell disease]]
+[[Category:Novo Nordisk]]

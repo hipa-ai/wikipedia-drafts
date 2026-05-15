@@ -1,0 +1,22 @@
+<!-- ============================================================
+  NOT a new article. "RGN-259" should NOT be created as a
+  standalone page — it is an ophthalmic formulation of the
+  endogenous peptide thymosin beta-4 (INN: timbetasin), which
+  already has an article:
+  https://en.wikipedia.org/wiki/Thymosin_beta-4
+
+  This is a SUBSECTION to ADD to that article, under the existing
+  "== Clinical significance ==" section. The Clinical significance
+  section currently has a single sentence about dry eye and
+  neurotrophic keratopathy (cited to Sosne & Kleinman 2015) —
+  this subsection expands on the drug-development history behind
+  that sentence. Place it immediately after that sentence.
+
+  Tone note: RGN-259 has had MIXED-TO-NEGATIVE pivotal results.
+  The text below reflects that honestly — do not soften it.
+  ============================================================ -->
+
+=== Ophthalmic drug development (RGN-259) ===
+A preservative-free [[eye drop]] formulation of thymosin β<sub>4</sub>, designated '''RGN-259''', has been developed by RegeneRx Biopharmaceuticals as an investigational treatment for [[dry eye syndrome|dry eye disease]] and [[neurotrophic keratitis|neurotrophic keratopathy]], conditions in which the peptide's wound-healing and anti-inflammatory properties are intended to promote repair of the corneal surface.<ref name="Sosne2022">{{cite journal |vauthors=Sosne G, Kleinman HK, Springs C, Gross RH, Sung J, Kang S |title=0.1% RGN-259 (Thymosin β4) Ophthalmic Solution Promotes Healing and Improves Comfort in Neurotrophic Keratopathy Patients in a Randomized, Placebo-Controlled, Double-Masked Phase III Clinical Trial |journal=International Journal of Molecular Sciences |volume=24 |issue=1 |pages=554 |date=December 2022 |pmid=36613994 |pmc=9820614 |doi=10.3390/ijms24010554 |doi-access=free}}</ref>
+
+In [[Phase 3 clinical trial|phase 3]] testing for dry eye disease (the ARISE program), RGN-259 did not meet its pre-specified co-primary endpoints, although statistically significant improvements in some signs and symptoms were reported in subgroups of patients.<ref name="Sosne2022" /> In neurotrophic keratopathy, a randomized, placebo-controlled phase 3 study found that complete healing of persistent corneal epithelial defects occurred more often with 0.1% RGN-259 than with placebo.<ref name="Sosne2022" /><ref name="HCPLive-RGN">{{cite news |title=RGN-259 Demonstrates Rapid Healing of Epithelial Defects in Neurotrophic Keratopathy |work=HCPLive |url=https://www.hcplive.com/view/rgn-259-rapid-healing-epithelial-defects-neurotrophic-keratopathy |access-date=14 May 2026}}</ref> A later European phase 3 trial in neurotrophic keratitis, SEER-3, failed to meet its primary endpoint; the developers attributed the result in part to a higher-than-expected response in the placebo group.<ref name="OT-SEER3">{{cite news |title=HLB Therapeutics misses primary endpoint in phase 3 SEER-3 trial of RGN-259 |work=Ophthalmology Times |url=https://www.ophthalmologytimes.com/view/hlb-therapeutics-misses-primary-endpoint-in-phase-3-seer-3-trial-of-rgn-259 |access-date=14 May 2026}}</ref> A 2025 [[Cochrane (organisation)|Cochrane]] systematic review of interventions for neurotrophic keratopathy assessed the evidence for thymosin β<sub>4</sub> eye drops among other treatments.<ref name="Cochrane2025">{{cite journal |vauthors=Kruoch Z, Choo AY, Kemp A, Gonzales M, Yim TW, McCann P |title=Medical and surgical interventions for neurotrophic keratopathy |journal=The Cochrane Database of Systematic Reviews |volume=12 |issue=12 |pages=CD015723 |date=December 2025 |pmid=41347649 |pmc=12679690 |doi=10.1002/14651858.CD015723.pub2}}</ref>

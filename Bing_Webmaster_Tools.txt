@@ -1,0 +1,56 @@
+{{Short description|Tool to provide better indexing and search performance on Bing}}
+{{Infobox website
+|name = Microsoft Bing Webmaster Tools
+|logo = Bing Fluent Logo Text.svg
+|logo_size = 120px
+|screenshot =
+|caption = Bing Webmaster Tools
+|owner = [[Microsoft]]
+|launch_date = {{Start date and age|2009|06|03}}
+|type = Webmaster portal
+|url = {{URL|https://www.bing.com/webmasters}}
+}}
+'''Bing Webmaster Tools''' (previously the ''Bing Webmaster Center'') is a free service as part of [[Microsoft]]'s [[Bing (search engine)|Bing]] [[Web search engine|search engine]] which allows [[Webmaster|webmasters]] to add their websites to the [[Bing (search engine)|Bing]] index crawler, see their site's performance in Bing (clicks, impressions) and a lot more. The service also offers tools for webmasters to troubleshoot the crawling and [[Web indexing|indexing]] of their website, submission of new URLs, [[Sitemaps|Sitemap]] creation, submission and ping tools, website statistics, consolidation of content submission, and new content and community resources.<ref name=Search-Engine-Land-Bing-Webmaster-Tools-Guide>{{cite news|last=Lincoln|first=John E.|title=The Ultimate Guide To Bing Webmaster Tools. Contributor John E Lincoln has put together this comprehensive guide to getting started with Bing Webmaster Tools.|url=http://searchengineland.com/ultimate-guide-bing-webmaster-tools-221206/|newspaper=Search Engine Land|date=2 July 2015}}</ref>
+
+==Features==
+Bing Webmaster Tools provides many features that can be accessed by webmasters after they verify the ownership of their websites using methods such as MetaTag verification, adding [[CNAME record]] to DNS entry, XML verification and [[Domain Connect]].<ref>{{cite web|url=https://blogs.bing.com/webmaster/august-2019/Bing-Webmaster-Tools-simplifies-site-verification-using-Domain-Connect|title=Bing Webmaster Tools simplifies site verification using Domain Connect |publisher=Bing Blogs|date=21 August 2019 |accessdate=29 August 2019}}</ref>
+
+It contains the following tools and features to support webmasters to access data and manage their websites on Bing:<ref name=Tech-Republic-Bing-Webmaster-Tools>{{cite news|last=Frye|first=Selena|title=Microsoft updates Bing Webmaster Tools. Microsoft Bing recently refreshed their Webmaster Tools after seeking feedback from the web master community. Have you tried them? Here are the major updates.|url=http://www.techrepublic.com/blog/web-designer/microsoft-updates-bing-webmaster-tools/|newspaper=TechRepublic|date=9 November 2011}}</ref><ref name=Web-Pro-News-Bing-Webmaster-Tools>{{cite news|last=Crum|first=Chris|title=Bing Webmaster Tools Changes Site Activity Calculations.|url=http://www.webpronews.com/bing-webmaster-tools-changes-site-activity-calculations-2012-08|newspaper=WebProNews|date=22 August 2012}}</ref>
+*'''Submit Urls''' allows webmasters to submit thousands of URLs present in their website for faster indexing. The number of URLs they can submit can be as much as 10,000 URLs per day.
+*'''Crawl issues''' allows webmasters to discover potential issues with their websites such as [[Error message|File Not Found]] (404) errors, blocked by REP, long dynamic URLs, and unsupported content-types.
+*'''Backlink data''' allows webmasters to access data about their referring links. Part of this feature was acquired from [[Yahoo! Site Explorer]].<ref>{{cite web|url=http://searchengineland.com/bing-revamps-their-webmaster-tools-and-launches-partial-yahoo-site-explorer-replacement-123466|title=Bing Revamps Their Webmaster Tools & Launches Partial Yahoo Site Explorer Replacement |publisher=Search Engine Land|date=6 June 2012|accessdate=16 March 2013}}</ref>
+*'''Advanced filtering''' allows webmasters to quickly scope the results in their website reports to zoom into the data they need.
+*'''Data download''' allows webmasters to access the first 1000 results in a [[Comma-separated values|CSV]] file to analyze the results.
+*'''Keyword search tool''' allows webmasters to explore new keywords.
+*'''Robots.txt validator''' allows webmasters to check if their [[robots.txt]] file meets the standard.
+*'''Sitemaps''' allows webmasters to check if Bing is viewing their XML [[sitemap]],[[rss|RSS]], [[Atom_(web_standard)|Atom]] or other sitemap formats correctly.<ref>{{Cite web |last=Crowe |first=Anna |date=2021-01-04 |title=A Complete Guide to Bing Webmaster Tools |url=https://www.searchenginejournal.com/bing-webmaster-tools-guide/371540/ |access-date=2025-07-11 |website=Search Engine Journal |language=en}}</ref>
+
+In October 2020, Bing Webmaster Tools integrated Microsoft Clarity, a [[behavioral analytics]] platform developed by Microsoft. This integration enabled site owners to view user engagement metrics such as heatmaps and session recordings directly within Bing Webmaster Tools.<ref name="SEJ2020Clarity">{{cite web |last=Southern |first=Matt |date=2020-10-15 |title=Bing Webmaster Tools Gains Features From Microsoft Clarity |url=https://www.searchenginejournal.com/bing-webmaster-tools-gains-features-from-microsoft-clarity/390690/ |website=Search Engine Journal}}</ref><ref name="SEL2020Clarity">{{cite web |last=Schwartz |first=Barry |date=2020-10-15 |title=Bing Webmaster Tools Adds Microsoft Clarity Integration |url=https://searchengineland.com/bing-webmaster-tools-adds-microsoft-clarity-integration-344782 |website=Search Engine Land}}</ref><ref name="SER2020Clarity">{{cite web |last=Schwartz |first=Barry |date=2020-10-15 |title=Bing Webmaster Tools Integrates Microsoft Clarity |url=https://www.seroundtable.com/bing-webmaster-tools-integrate-microsoft-clarity-30601.html |website=Search Engine Roundtable}}</ref>
+
+In March 2024, Bing Webmaster Tools launched a new [[IndexNow]] Insights report. The report provides data on which URLs have been submitted using the IndexNow protocol, whether those URLs were successfully indexed, and how quickly [[search engines]] respond to those submissions.<ref name="SEL2024IndexNow">{{cite web |last=Schwartz |first=Barry |date=2024-03-07 |title=Bing Webmaster Tools Gains New IndexNow Insights & Top SEO Insights Report |url=https://searchengineland.com/bing-webmaster-tools-gains-new-indexnow-insights-top-seo-insights-report-438100 |website=Search Engine Land}}</ref><ref name="SER2024IndexNow">{{cite web |last=Schwartz |first=Barry |date=2024-03-07 |title=Bing Webmaster Tools Adds IndexNow Insights & Top SEO Report |url=https://www.seroundtable.com/bing-webmaster-tools-indexnow-insights-top-seo-insights-36995.html |website=Search Engine Roundtable}}</ref>
+
+==AI Performance report==
+
+In 2026, Bing announced a beta of an AI Performance report in Bing Webmaster Tools, describing it as "an early step toward [[generative engine optimization|Generative Engine Optimization]] (GEO) tooling in Bing Webmaster Tools, helping publishers understand how their content participates in AI-driven experiences."<ref name="BingBlog2026AIPerformance">{{cite web |title=Introducing AI Performance in Bing Webmaster Tools Public Preview |url=https://blogs.bing.com/webmaster/February-2026/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview |website=Microsoft Bing Blogs}}</ref> The report is focused on citation frequency.<ref name="SEL2026AIPerformance">{{cite web |last1=Goodwin |first1=Danny |title=Bing Webmaster Tools officially adds AI Performance report |url=https://searchengineland.com/bing-webmaster-tools-ai-performance-report-468751 |website=Search Engine Land}}</ref>
+
+According to Microsoft, the dashboard provides a consolidated view of how often a site's content is cited across Microsoft Copilot, AI-generated summaries in Bing, and selected partner integrations.<ref name="BingBlog2026AIPerformance" /> The report includes metrics for total citations and average cited pages, a timeline showing changes in citation activity over time, grounding queries that indicate the phrases used to retrieve cited content, and page-level citation activity for individual URLs.<ref name="BingBlog2026AIPerformance" /><ref name="SEL2026AIPerformance" /> Microsoft also said that some of the query data represents a sample of overall citation activity and may be refined as additional data is processed.<ref name="BingBlog2026AIPerformance" />
+
+==See also==
+*[[Windows Live]]
+*[[Microsoft Bing]]
+*[[Google Search Console]]
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+*[https://www.bing.com/webmasters/about Bing Webmaster Tools]
+*[https://www.bing.com/ Bing]
+*[https://blogs.bing.com/webmaster/ Bing Webmaster Tools official blog]
+*[https://web.archive.org/web/20080429221301/http://forums.microsoft.com/webmaster/default.aspx?siteid=79 Bing Webmaster Center official forum]
+
+{{Bing}}
+
+[[Category:Microsoft Bing|Webmaster Tools]]
+[[Category:Search engine webmaster tools]]
+[[Category:Internet properties established in 2009]]
