@@ -1,0 +1,126 @@
+{{Short description|Monoclonal antibody}}
+{{Use dmy dates|date=June 2023}}
+{{cs1 config|name-list-style=vanc|display-authors=3}}
+{{Infobox drug
+| type              = mab
+| image             = 
+| alt               = 
+| caption           =
+
+<!-- Monoclonal antibody data -->
+| mab_type          = mab
+| source            = zu
+| target            = [[Interleukin 17A|IL17A]], [[Interleukin 17F|IL17F]], [[Interleukin 17AF|IL17AF]]
+
+<!-- Clinical data -->
+| pronounce         =
+| tradename         = Bimzelx
+| Drugs.com         = 
+| MedlinePlus       = 
+| DailyMedID        = Bimekizumab
+| pregnancy_AU      = C
+| pregnancy_AU_comment = <ref name="Bimzelx APMDS" /><ref>{{cite web | title=Updates to the Prescribing Medicines in Pregnancy database | website= tga.gov.au| publisher= Therapeutic Goods Administration | date=21 December 2022 | url=https://www.tga.gov.au/resources/resource/guidance/updates-prescribing-medicines-pregnancy-database | access-date=2 January 2023 | archive-date=3 April 2022 | archive-url= https://web.archive.org/web/20220403064059/https://www.tga.gov.au/updates-prescribing-medicines-pregnancy-database | url-status=live }}</ref>
+| pregnancy_category= 
+| routes_of_administration = [[Subcutaneous administration|Subcutaneous]]
+| class             = 
+| ATC_prefix        = L04
+| ATC_suffix        = AC21
+| ATC_supplemental  =
+
+<!-- Legal status -->
+| legal_AU          = S4
+| legal_AU_comment  = <ref name="Bimzelx APMDS">{{cite web | title=Bimzelx APMDS | website= tga.gov.au| publisher= Therapeutic Goods Administration | date=7 April 2022 | url= https://www.tga.gov.au/resources/auspmd/bimzelx | access-date=24 April 2022 | archive-date=24 April 2022 | archive-url= https://web.archive.org/web/20220424055637/https://www.tga.gov.au/apm-summary/bimzelx | url-status=live }}</ref>
+| legal_BR          = <!-- OTC, A1, A2, A3, B1, B2, C1, C2, C3, C4, C5, D1, D2, E, F -->
+| legal_BR_comment  = 
+| legal_CA          = Rx-only
+| legal_CA_comment  = /&nbsp;Schedule D<ref>{{cite web | title=Bimzelx Product information | website= health-products.canada.ca| publisher= Health Canada | date=25 April 2012 | url= https://health-products.canada.ca/dpd-bdpp/info.do?lang=en&code=101427 | access-date=29 June 2022 | archive-date=29 June 2022 | archive-url= https://web.archive.org/web/20220629032157/https://health-products.canada.ca/dpd-bdpp/info.do?lang=en&code=101427 | url-status=live }}</ref><ref>{{cite web | title=Regulatory Decision Summary for Bimzelx | website= health-products.canada.ca| publisher= Drug and Health Products Portal | date=23 February 2024 | url=https://dhpp.hpfb-dgpsa.ca/review-documents/resource/RDS1709215072174 | access-date=1 April 2024}}</ref>
+| legal_DE          = <!-- Anlage I, II, III or Unscheduled -->
+| legal_DE_comment  = 
+| legal_NZ          = <!-- Class A, B, C -->
+| legal_NZ_comment  = 
+| legal_UK          = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM / Class A, B, C -->
+| legal_UK_comment  = 
+| legal_US          = Rx-only
+| legal_US_comment  = <ref name="Bimzelx FDA label">{{cite web | title=Bimzelx- bimekizumab injection, solution | website=DailyMed | publisher= National Library of Medicine, National Institutes of Health |place= US| date=20 October 2023 | url=https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=26b88358-871f-4c80-9d80-b2fb16477f81 | access-date=10 November 2023}}</ref>
+| legal_EU          = Rx-only
+| legal_EU_comment  = <ref name="Bimzelx EPAR">{{cite web | title=Bimzelx EPAR | website= ema.europa.eu | publisher= [[European Medicines Agency]] | date= 23 June 2021 | url=https://www.ema.europa.eu/en/medicines/human/EPAR/bimzelx | access-date=24 August 2021 | archive-date=25 August 2021 | archive-url=https://web.archive.org/web/20210825042145/https://www.ema.europa.eu/en/medicines/human/EPAR/bimzelx | url-status=live }} Text was copied from this source which is copyright European Medicines Agency. Reproduction is authorized provided the source is acknowledged.</ref>
+| legal_UN          = <!-- N I, II, III, IV / P I, II, III, IV -->
+| legal_UN_comment  = 
+| legal_status      = <!-- For countries not listed above -->
+
+<!-- Pharmacokinetic data -->
+| bioavailability   = 
+| protein_bound     = 
+| metabolism        = 
+| metabolites       = 
+| onset             = 
+| elimination_half-life = 
+| duration_of_action = 
+| excretion         =
+
+<!-- Identifiers -->
+| CAS_number        = 1418205-77-2
+| CAS_supplemental  = 
+| PubChem           = 
+| IUPHAR_ligand     = 
+| DrugBank          = DB12917
+| ChemSpiderID      = 
+| UNII = 09495UIM6V
+| KEGG              = D11550
+| ChEBI             = 
+| ChEMBL            = 
+| NIAID_ChemDB      = 
+| PDB_ligand        = 
+| synonyms          = UCB4940, bimekizumab-bkzx
+
+<!-- Chemical and physical data -->
+| IUPAC_name        = 
+| C = 6552 | H = 10132 | N = 1750 | O = 2029 | S = 42
+| SMILES            = 
+| StdInChI          = 
+| StdInChI_comment  = 
+| StdInChIKey       = 
+| density           = 
+| density_notes     = 
+| melting_point     = 
+| melting_high      = 
+| melting_notes     = 
+| boiling_point     = 
+| boiling_notes     = 
+| solubility        = 
+| sol_units         = 
+| specific_rotation = 
+}}
+
+'''Bimekizumab''', sold under the brand name '''Bimzelx''' ({{IPAc-en|b|I|m|'|z|E|l|I|k|s}} {{respell|bim|ZEL|iks}}), is a humanized anti-IL17A, anti-IL-17F, and anti-IL17AF [[monoclonal antibody]]<ref name="Bimzelx EPAR" /><ref>{{cite journal | vauthors = Lim SY, Oon HH | title = Systematic review of immunomodulatory therapies for hidradenitis suppurativa | journal =  Biologics: Targets and Therapy| volume = 13 | pages = 53–78 | date = 13 May 2019 | pmid = 31190730 | pmc = 6526329 | doi = 10.2147/BTT.S199862 | doi-access = free }}</ref> that is used to treat [[plaque psoriasis]], [[psoriatic arthritis]], [[axial spondyloarthritis]], [[ankylosing spondylitis]], and [[hidradenitis suppurativa]].<ref name="Bimzelx EPAR" />
+
+The most common side effects include upper respiratory tract infections (nose and throat infection) and oral candidiasis (thrush, a fungal infection in the mouth or throat).<ref name="Bimzelx EPAR" /> [[Injection site reaction]]s were also common, reported in 3% of subjects.<ref>{{Drugs.com|pro|bimzelx}} at Drugs.com</ref>
+
+Bimekizumab was approved for medical use in the European Union in August 2021<ref name="Bimzelx EPAR" /><ref>{{cite web | title=Bimzelx Product information | via= ec.europa.eu| work= Union Register of Medicinal Products | url=https://ec.europa.eu/health/documents/community-register/html/h1575.htm | access-date=3 March 2023 | archive-date=4 March 2023 | archive-url=https://web.archive.org/web/20230304104806/https://ec.europa.eu/health/documents/community-register/html/h1575.htm | url-status=live }}</ref><ref>{{cite press release | title=UCB Announces European Commission Approval of Bimzelx (bimekizumab) for the Treatment of Adults with Moderate to Severe Plaque Psoriasis | website=UCB.com | date=24 August 2021 | url=https://www.ucb.com/stories-media/Press-Releases/article/UCB-Announces-European-Commission-Approval-of-BIMZELX-bimekizumab-for-the-Treatment-of-Adults-with-Moderate-to-Severe-Plaque-Psoriasis | access-date=24 August 2021 | archive-date=25 August 2021 | archive-url=https://web.archive.org/web/20210825043245/https://www.ucb.com/stories-media/Press-Releases/article/UCB-Announces-European-Commission-Approval-of-BIMZELX-bimekizumab-for-the-Treatment-of-Adults-with-Moderate-to-Severe-Plaque-Psoriasis | url-status=live }}</ref> and in the US in October 2023.<ref name="Frellick 2023">{{cite web | vauthors = Frellick M |title=FDA Approves Bimekizumab for Plaque Psoriasis in Adults |website=[[Medscape]] |date=18 October 2023 |url=https://www.medscape.com/viewarticle/997490 |access-date=28 October 2023 |archive-date=28 October 2023 |archive-url=https://web.archive.org/web/20231028071500/https://www.medscape.com/viewarticle/997490 |url-status=live }}</ref><ref>{{cite press release |title=Bimzelx Approved by the U.S. FDA for the Treatment of Adults with Moderate to Severe Plaque Psoriasis |website=UCB.com| publisher= |date=18 October 2023 |url=https://www.ucb.com/stories-media/Press-Releases/article/BIMZELXR-Approved-by-the-US-FDA-for-the-Treatment-of-Adults-with-Moderate-to-Severe-Plaque-Psoriasis |access-date=28 October 2023 |archive-date=28 October 2023 |archive-url= https://web.archive.org/web/20231028071447/https://www.ucb.com/stories-media/Press-Releases/article/BIMZELXR-Approved-by-the-US-FDA-for-the-Treatment-of-Adults-with-Moderate-to-Severe-Plaque-Psoriasis |url-status=live }}</ref> In November 2024, bimekizumab was approved by the US [[Food and Drug Administration]] for the treatment of active moderate-to-severe [[hidradenitis suppurativa]] in adults.<ref>{{Cite web |title=UCB Receives U.S. FDA Approval for BIMZELX® (bimekizumab-bkzx) as the First IL-17A and IL-17F Inhibitor for Adults with Moderate-to-Severe Hidradenitis Suppurativa |url= https://www.prnewswire.com/news-releases/ucb-receives-us-fda-approval-for-bimzelx-bimekizumab-bkzx-as-the-first-il-17a-and-il-17f-inhibitor-for-adults-with-moderate-to-severe-hidradenitis-suppurativa-302311330.html |website= prnewswire.com |language=en |access-date=2024-11-20}}</ref>
+
+== Medical uses ==
+In the EU, bimekizumab is [[indicated]] for the treatment of moderate to severe plaque psoriasis, active psoriatic arthritis, non-radiographic axial spondyloarthritis, and active ankylosing spondylitis.<ref name="Bimzelx EPAR" />
+
+== Society and culture ==
+=== Names ===
+Bimekizumab is the [[international nonproprietary name]] (INN).<ref name=WHORecList72>{{cite journal | title=International nonproprietary names for pharmaceutical substances (INN): recommended INN: list 72 | journal=WHO Drug Information | volume=28 | issue=3 | year=2014 | hdl=10665/331112 | hdl-access=free | publisher= [[World Health Organization]]}}</ref>
+
+== Research ==
+Phase III trials have demonstrated that bimekizumab is superior to not only [[adalimumab]]<ref>{{cite journal | vauthors = Warren RB, Blauvelt A, Bagel J, Papp KA, Yamauchi P, Armstrong A, Langley RG, Vanvoorden V, De Cuyper D, Cioffi C, Peterson L, Cross N, Reich K | title = Bimekizumab versus Adalimumab in Plaque Psoriasis | journal = [[The New England Journal of Medicine]] | volume = 385 | issue = 2 | pages = 130–141 | date = July 2021 | pmid = 33891379 | doi = 10.1056/NEJMoa2102388 | s2cid = 233372177 | title-link = doi | doi-access = free}}</ref> but also [[secukinumab]] (PASI 100 at week 16: 61.7% vs 48.9% in BE RADIANT)<ref>{{cite journal | vauthors = Reich K, Warren RB, Lebwohl M, Gooderham M, Strober B, Langley RG, Paul C, De Cuyper D, Vanvoorden V, Madden C, Cioffi C, Peterson L, Blauvelt A | title = Bimekizumab versus Secukinumab in Plaque Psoriasis | journal = The New England Journal of Medicine | volume = 385 | issue = 2 | pages = 142–152 | date = July 2021 | pmid = 33891380 | doi = 10.1056/NEJMoa2102383 | s2cid = 233370455 | title-link = doi | doi-access = free }}</ref><ref name="hipa-bimekizumab-alternatives">{{cite web | title = Bimekizumab Alternatives: How It Compares to Other IL-17 Inhibitors | website = Hipa.ai | url = https://hipa.ai/drug/bimekizumab/alternatives | access-date = 20 May 2026}}</ref> and [[ustekinumab]] (PASI 90 at week 16: 85.0% vs 49.7% in BE VIVID)<ref>{{cite journal | vauthors = Reich K, Papp KA, Blauvelt A, Langley RG, Armstrong A, Warren RB, Gordon KB, Merola JF, Okubo Y, Madden C, Wang M, Cioffi C, Vanvoorden V, Lebwohl M | title = Bimekizumab versus ustekinumab for the treatment of moderate to severe plaque psoriasis (BE VIVID): efficacy and safety from a 52-week, multicentre, double-blind, active comparator and placebo controlled phase 3 trial | journal = [[The Lancet (journal)|The Lancet]] | volume = 397 | issue = 10273 | pages = 487–498 | date = February 2021 | pmid = 33549193 | doi = 10.1016/S0140-6736(21)00125-2 | s2cid = 231809826 }}</ref><ref name="hipa-bimekizumab-alternatives" /> for the treatment of plaque psoriasis.
+
+The approval for the treatment of active moderate-to-severe [[hidradenitis suppurativa]] (HS) in adults was supported by data from two Phase 3 studies, BE HEARD I and BE HEARD II, which evaluated the efficacy and safety of bimekizumab in the treatment of adults with moderate-to-severe HS.<ref>{{cite journal | vauthors = Kimball AB, Jemec GB, Sayed CJ, Kirby JS, Prens E, Ingram JR, Garg A, Gottlieb AB, Szepietowski JC, Bechara FG, Giamarellos-Bourboulis EJ, Fujita H, Rolleri R, Joshi P, Dokhe P, Muller E, Peterson L, Madden C, Bari M, Zouboulis CC | title = Efficacy and safety of bimekizumab in patients with moderate-to-severe hidradenitis suppurativa (BE HEARD I and BE HEARD II): two 48-week, randomised, double-blind, placebo-controlled, multicentre phase 3 trials | journal = Lancet | volume = 403 | issue = 10443 | pages = 2504–2519 | date = June 2024 | pmid = 38795716 | doi = 10.1016/S0140-6736(24)00101-6 }}</ref><ref>{{Cite web |title=A Study to Evaluate the Efficacy and Safety of Bimekizumab in Study Participants With Moderate to Severe Hidradenitis Suppurativa (BE HEARD I) |url=https://clinicaltrials.gov/study/NCT04242446 |website=clinicaltrials.gov |access-date=2024-11-20}}</ref><ref>{{Cite web |title=A Study to Evaluate the Efficacy and Safety of Bimekizumab in Study Participants With Moderate to Severe Hidradenitis Suppurativa (BE HEARD II) |url=https://clinicaltrials.gov/study/NCT04242498 |website=clinicaltrials.gov |access-date=2024-11-20}}</ref>
+
+== References ==
+{{reflist}}
+
+== Further reading ==
+{{refbegin}}
+* {{cite journal | vauthors = Reis J, Vender R, Torres T | title = Bimekizumab: The First Dual Inhibitor of Interleukin (IL)-17A and IL-17F for the Treatment of Psoriatic Disease and Ankylosing Spondylitis | journal = BioDrugs | volume = 33 | issue = 4 | pages = 391–399 | date = August 2019 | pmid = 31172372 | doi = 10.1007/s40259-019-00361-6 | s2cid = 174812750 }}
+{{refend}}
+
+{{Immunosuppressants}}
+{{Monoclonals for immune system}}
+{{Portal bar | Medicine}}
+{{Authority control}}
+
+[[Category:Monoclonal antibodies]]
