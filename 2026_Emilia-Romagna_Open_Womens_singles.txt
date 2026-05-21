@@ -1,0 +1,524 @@
+{{Short description|Tennis tournament}}
+
+{{Infobox tennis tournament event|2026|Emilia-Romagna Open
+| champ = {{flagicon|UKR}} [[Dayana Yastremska]]
+| runner = {{flagicon|CZE}} [[Barbora Krejčíková]]
+| score = 6–3, 6–3
+| edition=
+| seeds= 8
+| draw= 32 (4 {{abbr|WC|Wildcard}})
+| before_name = Emilia-Romagna Open – Women's singles
+}}
+
+{{further|2026 Emilia-Romagna Open}}
+
+[[Mayar Sherif]] was the defending champion,<ref>{{cite web|url=https://www.tennistourtalk.com/122203/sherif-secures-second-parma-ladies-open-title|title=Sherif Secures Second Parma Ladies Open Title|publisher=tennistourtalk.com|accessdate=17 May 2025}}</ref> but lost in the second round to [[Dominika Šalková]].
+
+[[Dayana Yastremska]] won the title, after defeating [[Barbora Krejčíková]] in the final, 6–3, 6–3.<ref>{{cite web|url=https://www.tenisportal.cz/zpravy/titul-byl-daleko-krejcikova-ve-finale-nestacila-titul-z-parmy-slavi-jastremska-56654/|title=Titul byl daleko. Krejčíková ve finále nestačila, titul z Parmy slaví Jastremská|publisher=Tenis Portal (in Czech)|accessdate=16 May 2026}}</ref>
+
+==Seeds==
+{{columns-list|colwidth=30em|
+#{{flagicon|FRA}} [[Loïs Boisson]] ''(first round)''
+#{{flagicon|ESP}} [[Jéssica Bouzas Maneiro]] ''(semifinals)''
+#{{flagicon|UKR}} '''[[Dayana Yastremska]] (champion)'''
+#{{flagicon|CZE}} [[Barbora Krejčíková]] ''(final)''
+#{{flagicon|ARG}} [[Solana Sierra]] ''(quarterfinals)''
+#{{flagicon|USA}} [[Alycia Parks]] ''(second round)''
+#{{flagicon|COL}} [[Camila Osorio]] ''(semifinals)''
+#{{flagicon|SUI}} [[Viktorija Golubic]] ''(quarterfinals)''
+}}
+
+==Draw==
+{{Draw key}}
+===Finals===
+{{4TeamBracket-Tennis3
+|RD1=Semifinals
+|RD2=Final
+
+|team-width=175
+
+|RD1-seed1=7
+|RD1-team1={{flagicon|COL}} [[Camila Osorio]]
+|RD1-score1-1=2
+|RD1-score1-2='''6'''
+|RD1-score1-3=5
+|RD1-seed2=4
+|RD1-team2='''{{flagicon|CZE}} [[Barbora Krejčíková]]'''
+|RD1-score2-1='''6'''
+|RD1-score2-2=1
+|RD1-score2-3='''7'''
+
+|RD1-seed3=<small>3/WC</small>
+|RD1-team3='''{{flagicon|UKR}} [[Dayana Yastremska]]'''
+|RD1-score3-1='''7<sup>7</sup>'''
+|RD1-score3-2=6<sup>4</sup>
+|RD1-score3-3='''7<sup>7</sup>'''
+|RD1-seed4=2
+|RD1-team4={{flagicon|ESP}} [[Jéssica Bouzas Maneiro]]
+|RD1-score4-1=6<sup>5</sup>
+|RD1-score4-2='''7<sup>7</sup>'''
+|RD1-score4-3=6<sup>5</sup>
+
+|RD2-seed1=4
+|RD2-team1={{flagicon|CZE}} [[Barbora Krejčíková]]
+|RD2-score1-1=3
+|RD2-score1-2=3
+|RD2-score1-3=
+|RD2-seed2=<small>3/WC</small>
+|RD2-team2='''{{flagicon|UKR}} [[Dayana Yastremska]]'''
+|RD2-score2-1='''6'''
+|RD2-score2-2='''6'''
+|RD2-score2-3=
+}}
+
+===Top half===
+{{16TeamBracket-Compact-Tennis3-Byes 
+| RD1=First round
+| RD2=Second round
+| RD3=Quarterfinals
+| RD4=Semifinals
+
+| RD1-seed01=1
+| RD1-team01={{flagicon|FRA}} [[Loïs Boisson|L Boisson]]
+| RD1-score01-1='''7<sup>7</sup>'''
+| RD1-score01-2=1
+| RD1-score01-3=2
+| RD1-seed02=
+| RD1-team02='''{{flagicon|CZE}} [[Dominika Šalková|D Šalková]]'''
+| RD1-score02-1=6<sup>5</sup>
+| RD1-score02-2='''6'''
+| RD1-score02-3='''6'''
+
+| RD1-seed03=
+| RD1-team03={{flagicon|CHN}} [[Yuan Yue|Y Yuan]]
+| RD1-score03-1=4
+| RD1-score03-2='''6'''
+| RD1-score03-3=4
+| RD1-seed04=
+| RD1-team04='''{{flagicon|EGY}} [[Mayar Sherif|M Sherif]]'''
+| RD1-score04-1='''6'''
+| RD1-score04-2=0
+| RD1-score04-3='''6'''
+
+| RD1-seed05=
+| RD1-team05={{flagicon|ITA}} [[Lisa Pigato|L Pigato]]
+| RD1-score05-1=4
+| RD1-score05-2=4
+| RD1-score05-3=
+| RD1-seed06=
+| RD1-team06='''{{flagicon|ITA}} [[Lucia Bronzetti|L Bronzetti]]'''
+| RD1-score06-1='''6'''
+| RD1-score06-2='''6'''
+| RD1-score06-3=
+
+| RD1-seed07=Q
+| RD1-team07={{flagicon|ITA}} [[Deborah Chiesa|D Chiesa]]
+| RD1-score07-1=1
+| RD1-score07-2=3
+| RD1-score07-3=
+| RD1-seed08=7
+| RD1-team08='''{{flagicon|COL}} [[Camila Osorio|C Osorio]]'''
+| RD1-score08-1='''6'''
+| RD1-score08-2='''6'''
+| RD1-score08-3=
+
+| RD1-seed09=4
+| RD1-team09='''{{flagicon|CZE}} [[Barbora Krejčíková|B Krejčíková]]'''
+| RD1-score09-1='''6'''
+| RD1-score09-2='''6'''
+| RD1-score09-3=
+| RD1-seed10=
+| RD1-team10={{flagicon|AND}} [[Victoria Jiménez Kasintseva|V Jiménez Kasintseva]]
+| RD1-score10-1=4
+| RD1-score10-2=1
+| RD1-score10-3=
+
+| RD1-seed11=Q
+| RD1-team11={{flagicon|KAZ}} [[Zhibek Kulambayeva|Z Kulambayeva]]
+| RD1-score11-1=1
+| RD1-score11-2=4
+| RD1-score11-3=
+| RD1-seed12=
+| RD1-team12='''{{flagicon|GER}} [[Anna-Lena Friedsam|A-L Friedsam]]'''
+| RD1-score12-1='''6'''
+| RD1-score12-2='''6'''
+| RD1-score12-3=
+
+| RD1-seed13=WC
+| RD1-team13='''{{flagicon|ITA}} [[Federica Urgesi|F Urgesi]]'''
+| RD1-score13-1='''6'''
+| RD1-score13-2=0
+| RD1-score13-3=
+| RD1-seed14=
+| RD1-team14={{flagicon|POL}} [[Maja Chwalińska|M Chwalińska]]
+| RD1-score14-1=3
+| RD1-score14-2=0<sup>r</sup>
+| RD1-score14-3=
+
+| RD1-seed15=
+| RD1-team15={{flagicon|USA}} [[Varvara Lepchenko|V Lepchenko]]
+| RD1-score15-1='''6'''
+| RD1-score15-2=1
+| RD1-score15-3=4
+| RD1-seed16=8
+| RD1-team16='''{{flagicon|SUI}} [[Viktorija Golubic|V Golubic]]'''
+| RD1-score16-1=4
+| RD1-score16-2='''6'''
+| RD1-score16-3='''6'''
+
+| RD2-seed01=
+| RD2-team01='''{{flagicon|CZE}} [[Dominika Šalková|D Šalková]]'''
+| RD2-score01-1='''7<sup>7</sup>'''
+| RD2-score01-2='''6'''
+| RD2-score01-3=
+| RD2-seed02=
+| RD2-team02={{flagicon|EGY}} [[Mayar Sherif|M Sherif]]
+| RD2-score02-1=6<sup>4</sup>
+| RD2-score02-2=2
+| RD2-score02-3=
+
+| RD2-seed03=
+| RD2-team03={{flagicon|ITA}} [[Lucia Bronzetti|L Bronzetti]]
+| RD2-score03-1=1
+| RD2-score03-2=6<sup>2</sup>
+| RD2-score03-3=
+| RD2-seed04=7
+| RD2-team04='''{{flagicon|COL}} [[Camila Osorio|C Osorio]]'''
+| RD2-score04-1='''6'''
+| RD2-score04-2='''7<sup>7</sup>'''
+| RD2-score04-3=
+
+| RD2-seed05=4
+| RD2-team05='''{{flagicon|CZE}} [[Barbora Krejčíková|B Krejčíková]]'''
+| RD2-score05-1='''6'''
+| RD2-score05-2=6<sup>2</sup>
+| RD2-score05-3='''6'''
+| RD2-seed06=
+| RD2-team06={{flagicon|GER}} [[Anna-Lena Friedsam|A-L Friedsam]]
+| RD2-score06-1=2
+| RD2-score06-2='''7<sup>7</sup>'''
+| RD2-score06-3=2
+
+| RD2-seed07=WC
+| RD2-team07={{flagicon|ITA}} [[Federica Urgesi|F Urgesi]]
+| RD2-score07-1=2
+| RD2-score07-2=3
+| RD2-score07-3=
+| RD2-seed08=8
+| RD2-team08='''{{flagicon|SUI}} [[Viktorija Golubic|V Golubic]]'''
+| RD2-score08-1='''6'''
+| RD2-score08-2='''6'''
+| RD2-score08-3=
+
+| RD3-seed01=
+| RD3-team01={{flagicon|CZE}} [[Dominika Šalková|D Šalková]]
+| RD3-score01-1=1
+| RD3-score01-2='''6'''
+| RD3-score01-3=3
+| RD3-seed02=7
+| RD3-team02='''{{flagicon|COL}} [[Camila Osorio|C Osorio]]'''
+| RD3-score02-1='''6'''
+| RD3-score02-2=2
+| RD3-score02-3='''6'''
+
+| RD3-seed03=4
+| RD3-team03='''{{flagicon|CZE}} [[Barbora Krejčíková|B Krejčíková]]'''
+| RD3-score03-1=6<sup>4</sup>
+| RD3-score03-2='''6'''
+| RD3-score03-3='''6'''
+| RD3-seed04=8
+| RD3-team04={{flagicon|SUI}} [[Viktorija Golubic|V Golubic]]
+| RD3-score04-1='''7<sup>7</sup>'''
+| RD3-score04-2=3
+| RD3-score04-3=2
+
+| RD4-seed01=7
+| RD4-team01={{flagicon|COL}} [[Camila Osorio|C Osorio]]
+| RD4-score01-1=2
+| RD4-score01-2='''6'''
+| RD4-score01-3=5
+| RD4-seed02=4
+| RD4-team02='''{{flagicon|CZE}} [[Barbora Krejčíková|B Krejčíková]]'''
+| RD4-score02-1='''6'''
+| RD4-score02-2=1
+| RD4-score02-3='''7'''
+}}
+
+===Bottom half===
+{{16TeamBracket-Compact-Tennis3-Byes 
+| RD1=First round
+| RD2=Second round
+| RD3=Quarterfinals
+| RD4=Semifinals
+
+| RD1-seed01=5
+| RD1-team01='''{{flagicon|ARG}} [[Solana Sierra|S Sierra]]'''
+| RD1-score01-1='''6'''
+| RD1-score01-2='''6'''
+| RD1-score01-3=
+| RD1-seed02=
+| RD1-team02={{flagicon|FRA}} [[Carole Monnet|C Monnet]]
+| RD1-score02-1=4
+| RD1-score02-2=0
+| RD1-score02-3=
+
+| RD1-seed03=
+| RD1-team03='''{{flagicon|SLO}} [[Kaja Juvan|K Juvan]]'''
+| RD1-score03-1='''7<sup>7</sup>'''
+| RD1-score03-2=3
+| RD1-score03-3='''6'''
+| RD1-seed04=
+| RD1-team04={{flagicon|JPN}} [[Moyuka Uchijima|M Uchijima]]
+| RD1-score04-1=6<sup>3</sup>
+| RD1-score04-2='''6'''
+| RD1-score04-3=0
+
+| RD1-seed05=
+| RD1-team05='''{{flagicon|BEL}} [[Hanne Vandewinkel|H Vandewinkel]]'''
+| RD1-score05-1='''7'''
+| RD1-score05-2='''6'''
+| RD1-score05-3=
+| RD1-seed06=
+| RD1-team06={{flagicon|USA}} [[Whitney Osuigwe|W Osuigwe]]
+| RD1-score06-1=5
+| RD1-score06-2=4
+| RD1-score06-3=
+
+| RD1-seed07=Q
+| RD1-team07={{flagicon|ARG}} [[Victoria Bosio|V Bosio]]
+| RD1-score07-1=6<sup>3</sup>
+| RD1-score07-2=3
+| RD1-score07-3=
+| RD1-seed08=<small>3/WC</small>
+| RD1-team08='''{{flagicon|UKR}} [[Dayana Yastremska|D Yastremska]]'''
+| RD1-score08-1='''7<sup>7</sup>'''
+| RD1-score08-2='''6'''
+| RD1-score08-3=
+
+| RD1-seed09=6
+| RD1-team09='''{{flagicon|USA}} [[Alycia Parks|A Parks]]'''
+| RD1-score09-1='''7'''
+| RD1-score09-2=6<sup>8</sup>
+| RD1-score09-3='''6'''
+| RD1-seed10=
+| RD1-team10={{flagicon|USA}} [[Mary Stoiana|M Stoiana]]
+| RD1-score10-1=5
+| RD1-score10-2='''7<sup>10</sup>'''
+| RD1-score10-3=2
+
+| RD1-seed11=
+| RD1-team11={{flagicon|AUS}} [[Priscilla Hon|P Hon]]
+| RD1-score11-1='''7<sup>7</sup>'''
+| RD1-score11-2=4
+| RD1-score11-3=5
+| RD1-seed12=Q
+| RD1-team12='''{{flagicon|SUI}} [[Susan Bandecchi|S Bandecchi]]'''
+| RD1-score12-1=6<sup>5</sup>
+| RD1-score12-2='''6'''
+| RD1-score12-3='''7'''
+
+| RD1-seed13=WC
+| RD1-team13={{flagicon|ITA}} [[Noemi Basiletti|N Basiletti]]
+| RD1-score13-1=4
+| RD1-score13-2=2
+| RD1-score13-3=
+| RD1-seed14=
+| RD1-team14='''{{flagicon|AUT}} [[Lilli Tagger|L Tagger]]'''
+| RD1-score14-1='''6'''
+| RD1-score14-2='''6'''
+| RD1-score14-3=
+
+| RD1-seed15=WC
+| RD1-team15={{flagicon|ITA}} [[Marta Lombardini|M Lombardini]]
+| RD1-score15-1=4
+| RD1-score15-2=2
+| RD1-score15-3=
+| RD1-seed16=2
+| RD1-team16='''{{flagicon|ESP}} [[Jéssica Bouzas Maneiro|J Bouzas Maneiro]]'''
+| RD1-score16-1='''6'''
+| RD1-score16-2='''6'''
+| RD1-score16-3=
+
+| RD2-seed01=5
+| RD2-team01='''{{flagicon|ARG}} [[Solana Sierra|S Sierra]]'''
+| RD2-score01-1=3
+| RD2-score01-2='''6'''
+| RD2-score01-3='''6'''
+| RD2-seed02=
+| RD2-team02={{flagicon|SLO}} [[Kaja Juvan|K Juvan]]
+| RD2-score02-1='''6'''
+| RD2-score02-2=2
+| RD2-score02-3=2
+
+| RD2-seed03=
+| RD2-team03={{flagicon|BEL}} [[Hanne Vandewinkel|H Vandewinkel]]
+| RD2-score03-1=3
+| RD2-score03-2=2
+| RD2-score03-3=
+| RD2-seed04=<small>3/WC</small>
+| RD2-team04='''{{flagicon|UKR}} [[Dayana Yastremska|D Yastremska]]'''
+| RD2-score04-1='''6'''
+| RD2-score04-2='''6'''
+| RD2-score04-3=
+
+| RD2-seed05=6
+| RD2-team05={{flagicon|USA}} [[Alycia Parks|A Parks]]
+| RD2-score05-1=4
+| RD2-score05-2=5
+| RD2-score05-3=
+| RD2-seed06=Q
+| RD2-team06='''{{flagicon|SUI}} [[Susan Bandecchi|S Bandecchi]]'''
+| RD2-score06-1='''6'''
+| RD2-score06-2='''7'''
+| RD2-score06-3=
+
+| RD2-seed07=
+| RD2-team07={{flagicon|AUT}} [[Lilli Tagger|L Tagger]]
+| RD2-score07-1=3
+| RD2-score07-2=2
+| RD2-score07-3=
+| RD2-seed08=2
+| RD2-team08='''{{flagicon|ESP}} [[Jéssica Bouzas Maneiro|J Bouzas Maneiro]]'''
+| RD2-score08-1='''6'''
+| RD2-score08-2='''6'''
+| RD2-score08-3=
+
+| RD3-seed01=5
+| RD3-team01={{flagicon|ARG}} [[Solana Sierra|S Sierra]]
+| RD3-score01-1=3
+| RD3-score01-2=5
+| RD3-score01-3=
+| RD3-seed02=<small>3/WC</small>
+| RD3-team02='''{{flagicon|UKR}} [[Dayana Yastremska|D Yastremska]]'''
+| RD3-score02-1='''6'''
+| RD3-score02-2='''7'''
+| RD3-score02-3=
+
+| RD3-seed03=Q
+| RD3-team03={{flagicon|SUI}} [[Susan Bandecchi|S Bandecchi]]
+| RD3-score03-1=1
+| RD3-score03-2='''6'''
+| RD3-score03-3=4
+| RD3-seed04=2
+| RD3-team04='''{{flagicon|ESP}} [[Jéssica Bouzas Maneiro|J Bouzas Maneiro]]'''
+| RD3-score04-1='''6'''
+| RD3-score04-2=3
+| RD3-score04-3='''6'''
+
+| RD4-seed01=<small>3/WC</small>
+| RD4-team01='''{{flagicon|UKR}} [[Dayana Yastremska|D Yastremska]]'''
+| RD4-score01-1='''7<sup>7</sup>'''
+| RD4-score01-2=6<sup>4</sup>
+| RD4-score01-3='''7<sup>7</sup>'''
+| RD4-seed02=2
+| RD4-team02={{flagicon|ESP}} [[Jéssica Bouzas Maneiro|J Bouzas Maneiro]]
+| RD4-score02-1=6<sup>5</sup>
+| RD4-score02-2='''7<sup>7</sup>'''
+| RD4-score02-3=6<sup>5</sup>
+}}
+
+==Qualifying==
+===Seeds===
+{{columns-list|colwidth=30em|
+# {{flagicon|SUI}} '''[[Susan Bandecchi]] (qualified)'''
+# {{flagicon|ARG}} '''[[Victoria Bosio]] (qualified)'''
+# {{flagicon|BRA}} [[Gabriela Cé]] ''(qualifying competition)''
+# {{flagicon|KAZ}} '''[[Zhibek Kulambayeva]] (qualified)'''
+}}
+
+===Qualifiers===
+{{columns-list|colwidth=30em|
+# {{flagicon|SUI}} '''[[Susan Bandecchi]]'''
+# {{flagicon|ARG}} '''[[Victoria Bosio]]'''
+# {{flagicon|ITA}} '''[[Deborah Chiesa]]'''
+# {{flagicon|KAZ}} '''[[Zhibek Kulambayeva]]'''
+}}
+
+===Qualifying draw===
+
+====First qualifier====
+{{2TeamBracket|sets=3
+| RD1=Qualifying competition
+|score-width=
+|team-width=175
+
+| RD1-seed1=1
+| RD1-team1='''{{flagicon|SUI}} [[Susan Bandecchi]]'''
+| RD1-score1-1='''7'''
+| RD1-score1-2='''6'''
+| RD1-score1-3=
+| RD1-seed2=
+| RD1-team2={{flagicon|GRE}} [[Sapfo Sakellaridi]] 
+| RD1-score2-1=5
+| RD1-score2-2=0
+| RD1-score2-3=
+}}
+
+====Second qualifier====
+{{2TeamBracket|sets=3
+| RD1=Qualifying competition
+|score-width=
+|team-width=175
+
+| RD1-seed1=2
+| RD1-team1='''{{flagicon|ARG}} [[Victoria Bosio]]'''
+| RD1-score1-1='''6'''
+| RD1-score1-2='''6'''
+| RD1-score1-3=
+| RD1-seed2=WC
+| RD1-team2={{flagicon|ITA}} Elena Bocchi
+| RD1-score2-1=2
+| RD1-score2-2=4
+| RD1-score2-3=
+}}
+
+====Third qualifier====
+{{2TeamBracket|sets=3
+| RD1=Qualifying competition
+|score-width=
+|team-width=175
+
+| RD1-seed1=3
+| RD1-team1={{flagicon|BRA}} [[Gabriela Cé]] 
+| RD1-score1-1=0
+| RD1-score1-2='''6'''
+| RD1-score1-3=4
+| RD1-seed2=
+| RD1-team2='''{{flagicon|ITA}} [[Deborah Chiesa]]'''
+| RD1-score2-1='''6'''
+| RD1-score2-2=3
+| RD1-score2-3='''6'''
+}}
+
+====Fourth qualifier====
+{{2TeamBracket|sets=3
+| RD1=Qualifying competition
+|score-width=
+|team-width=175
+
+| RD1-seed1=4
+| RD1-team1='''{{flagicon|KAZ}} [[Zhibek Kulambayeva]]'''
+| RD1-score1-1='''6'''
+| RD1-score1-2='''6'''
+| RD1-score1-3=
+| RD1-seed2=
+| RD1-team2={{flagicon|ARG}} [[Nicole Fossa Huergo]] 
+| RD1-score2-1=1
+| RD1-score2-2=4
+| RD1-score2-3=
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://wtafiles.wtatennis.com/pdf/draws/2026/2041/MDS.pdf Main Draw]
+*[https://wtafiles.wtatennis.com/pdf/draws/2026/2041/QS.pdf Qualifying Draw]
+
+{{2026 WTA 125 tournaments}}
+
+{{DEFAULTSORT:2026 Emilia-Romagna Open - Women's singles}}
+[[Category:2026 WTA 125 tournaments|Emilia-Romagna Open - Singles]]
+[[Category:Emilia-Romagna Open]]
+[[Category:2026 in Italian women's sport]]
+[[Category:Women's sports competitions in Italy]]

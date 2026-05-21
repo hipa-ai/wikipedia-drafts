@@ -1,0 +1,72 @@
+{{Short description|Urban locality in Donetsk Oblast, Ukraine}}
+{{expand Ukrainian|date=November 2025}}
+{{Infobox settlement
+<!-- See Template:Infobox settlement for additional fields and descriptions -->| name               = Ocheretyne
+| native_name        = Очеретине
+| native_name_lang   = uk
+| settlement_type    = [[Rural settlement (Ukraine)|Rural settlement]]
+| image_skyline      = Очеретине.JPG
+| image_caption      = {{ill|Ocheretyne railway station|uk|Очеретине (станція)}}
+| pushpin_map        = Ukraine Donetsk Oblast#Ukraine
+| coordinates        = {{coord|48|14|34|N|37|36|38|E|display=inline,title}}
+| subdivision_type   = Country
+| subdivision_name   = {{UKR}}
+| subdivision_type1  = [[Oblasts of Ukraine|Oblast]]
+| subdivision_name1  = [[Donetsk Oblast]]
+| subdivision_type2  = [[Raions of Ukraine|Raion]]
+| subdivision_name2  = [[Pokrovsk Raion]]
+| subdivision_type3  = [[Hromada]]
+| subdivision_name3  = [[Ocheretyne settlement hromada]]
+| established_title  = Founded
+| established_date   = 1880
+| unit_pref          = Metric
+| population_total   = 3,378
+| population_as_of   = 2022
+| population_density_km2 = auto
+| timezone           = EET
+| utc_offset         = +2
+| timezone_DST       = EEST
+| utc_offset_DST     = +3
+| mapframe          = yes
+| mapframe-zoom     = 11
+| mapframe-wikidata = yes
+}}
+[[File:Ocheretyne Train Station, 2023-07-20 (01).jpg|thumb|Ocheretyne Train Station]]
+
+'''Ocheretyne''' ({{langx|uk|Очеретине}}) is a [[rural settlement]] in [[Pokrovsk Raion]], [[Donetsk Oblast]], eastern [[Ukraine]]. It serves as the administrative center of [[Ocheretyne settlement hromada]].<ref>{{Cite web |last=Bida |first=Olesya |date=27 July 2020 |title= |script-title=ru:Новое районирование Украины. Куда теперь ехать за справкой и как будут распределяться деньги |trans-title=New zoning of Ukraine. Where to go now to get a certificate and how the money will be distributed |url=https://hromadske.ua/ru/posts/novoe-rajonirovanie-ukrainy-kuda-teper-ehat-za-spravkoj-i-kak-budut-raspredelyatsya-dengi |access-date=2023-10-10 |website=[[Hromadske]] |language=ru}}</ref> Its population is approximately {{Ua-pop-est2022|3,378|.}} Since April 2024, it has been temporarily occupied by [[Russia]], and the settlement has been largely destroyed in the fighting.
+
+==History==
+Ocheretyne was founded in 1880 in connection with constructing a railway and the {{ill|Ocheretyne railway station|lt=Ocheretyne station|uk|Очеретине (станція)}}.
+
+169 villagers fought against [[Nazi Germany|Nazi German]] soldiers on the fronts of [[World War II]], of whom 78 died on the battlefield, and 121 were awarded orders and medals. Two monuments were erected on the graves of soldiers who died during the liberation of the village from Nazi occupation. A memorial plaque was also erected in honor of them.<ref>Історія міст і сіл Української РСР. Донецька область.&nbsp;— К.: Головна редакція УРЕ АН УРСР, 1970</ref>
+
+On 9 December 2014, following the events surrounding the [[War in Donbas]], the [[Verkhovna Rada]], Ukraine's national parliament, moved [[Yasynuvata Raion]]'s administration buildings and government to вул. Першотравнева 12, (English: 12 May Day Street) in Ocheretyne, which is near the [[Highway H20 (Ukraine)|H20 highway]], about 35&nbsp;km north-northwest of [[Donetsk]].<ref name=vru>{{Cite Ukrainian law|type=[[Verkhovna Rada|Verkhovna Rada of Ukraine]]|number=32-VIII|law=32-VIII|name=Про зміни в адміністративно-територіальному устрої Донецької області, зміну і встановлення меж Волноваського, Новоазовського та Тельманівського районів Донецької області (On the changes in the administrative and territorial structure of Donetsk Oblast, changing and defining the boundaries of the Volnovakha, Novoazovsk and Telmanove Raions of Donetsk Oblast)|date=11 December 2014}}</ref><ref name=pravda>{{cite news|title=In the Donetsk Oblast three district centers removed from the territory seized by militants|url=http://www.pravda.com.ua/news/2014/12/8/7046811/|access-date=31 December 2014|work=[[Ukrayinska Pravda]]|date=8 December 2014|language=uk}}</ref> As a result, Ocheretyne was the ''de facto'' administrative center of the raion until it was abolished on 18 July 2020 as part of the administrative reform of Ukraine, which reduced the number of raions of Donetsk Oblast to eight, of which only five were controlled by the government.<ref>{{Cite news|title=Про утворення та ліквідацію районів. Постанова Верховної Ради України № 807-ІХ.|url=http://www.golos.com.ua/article/333466|access-date=2020-10-03|date=2020-07-18|website=Голос України|language=uk}}</ref><ref>{{cite web |title=Нові райони: карти + склад |url=https://www.minregion.gov.ua/press/news/novi-rajony-karty-sklad/ |publisher=Міністерство розвитку громад та територій України |language=Ukrainian}}</ref>
+
+===Battle of Ocheretyne===
+During the [[Russian invasion of Ukraine]], Russian military forces [[Battle of Avdiivka (2023–2024)|captured]] the city of [[Avdiivka]] on 17 February 2024, located southeast of Ocheretyne. On 14–16 April 2024, Russian forces advanced northwards towards Ocheretyne, resulting in a [[Battle of Ocheretyne|two week-long battle]].<ref name=pravda2>{{Cite news|title=Russian forces advance towards Ocheretyne, Donetsk Oblast – DeepState interactive map|url=https://www.pravda.com.ua/eng/news/2024/04/17/7451563/}}</ref> Quickly entering from the southern direction, intense clashes were reported ongoing near the train station on 21 April, with Russia controlling more than 30% of the settlement by 22 April after Ukraine's [[115th Mechanized Brigade (Ukraine)|115th Mechanized Brigade]] reportedly fled their front line positions without permission. Despite the [[47th Mechanized Brigade (Ukraine)|47th Mechanized Brigade]] deploying reserves in the area, Ocheretyne was reportedly captured by Russian forces on 28 April 2024.<ref>{{cite news|url=https://theatlasnews.co/latest/2024/04/22/russian-ground-forces-advance-to-ocheretyne-donetsk-oblast-signaling-front-wide-collapses/|work=The Atlas News|title=Russian Ground Forces Advance to Ocheretyne, Donetsk Oblast, Signaling Front-Wide Collapses|date=22 April 2024|access-date=5 May 2024}}</ref><ref>{{Cite news|title=Russian forces make significant gains in eastern Ukraine|url=https://www.theguardian.com/world/2024/apr/23/russian-forces-make-significant-gains-in-eastern-ukraine|access-date=25 April 2024|work=The Guardian}}</ref><ref>{{cite news |last1=Barnes |first1=Joe |title=Russian troops advance five miles after Ukrainians left front line unmanned |url=https://www.telegraph.co.uk/world-news/2024/04/24/russia-advances-5-miles-after-error-by-ukraine-forces/ |work=The Telegraph |date=24 April 2024}}</ref> The capture of the village was attributed to a rotational error by Ukrainian military commanders that left the sector mostly undefended and led to Russian forces advancing five kilometers.<ref>{{Cite news|title=Russian forces make significant gains in eastern Ukraine|url=https://www.theguardian.com/world/2024/apr/23/russian-forces-make-significant-gains-in-eastern-ukraine|first1=Luke|last1=Harding|first2=Dan|last2=Sabbagh|date=23 April 2024|access-date=25 April 2024|work=The Guardian}}</ref><ref>{{cite news |last1=Barnes |first1=Joe |title=Russian troops advance five miles after Ukrainians left front line unmanned |url=https://www.telegraph.co.uk/world-news/2024/04/24/russia-advances-5-miles-after-error-by-ukraine-forces/ |work=The Telegraph |date=24 April 2024}}</ref>
+
+The [[Ministry of Defence (Russia)|Russian Ministry of Defence]] confirmed the capture of Ocheretyne on 5 May 2024.<ref name=Reu>{{cite news|url=https://www.reuters.com/world/europe/russia-takes-control-ocheretyne-village-ukraines-east-defence-ministry-2024-05-05/|work=Reuters|date=5 May 2024|title=Russia takes control of Ocheretyne village in Ukraine's east -defence ministry}}</ref>
+
+==Education==
+The settlement's public general-education school, [[Ocheretyne School]], occupied a multi-storey Soviet-era building in the centre of Ocheretyne and was renovated in 2015. An adjacent indoor swimming pool, built during the Soviet period, operated until 1995. Both the school building and the disused pool were destroyed during the fighting and subsequent temporary Russian occupation of the settlement in 2024.
+
+==Demographics==
+Native language as of the [[Ukrainian Census (2001)|Ukrainian Census of 2001]]:<ref>[http://database.ukrcensus.gov.ua/MULT/Database/Census/databasetree_uk.asp Розподіл населення за рідною мовою на ukrcensus.gov.ua] {{webarchive|url=https://web.archive.org/web/20140731182036/http://database.ukrcensus.gov.ua/Mult/Database/Census/databasetree_uk.asp |date=31 July 2014 }}</ref>
+* [[Russian language in Ukraine|Russian]] 54.52%
+* [[Ukrainian language|Ukrainian]] 44.67%
+* [[Armenian language|Armenian]] 0.25%
+* [[Romani language|Romani]] 0.22%
+* [[German language|German]] 0.07%
+* [[Belarusian language|Belarusian]] 0.05%
+* [[Polish language|Polish]]  and [[Romanian language|Romanian]] 0.02%
+
+==References==
+{{reflist}}
+
+{{Pokrovsk Raion}}
+{{Donetsk Oblast}}
+{{Russian invasion of Ukraine}}
+{{Authority control}}
+
+[[Category:Rural settlements in Pokrovsk Raion]]
+[[Category:Ocheretyne settlement hromada]]

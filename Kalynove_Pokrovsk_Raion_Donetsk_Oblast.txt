@@ -1,0 +1,80 @@
+{{Use British English|date=August 2024}}
+{{Use dmy dates|date=August 2024}}
+{{Infobox settlement
+| name = Kalynove
+| native_name = Калинове
+| native_name_lang = uk
+| settlement_type    = [[Village (Ukraine)|Village]]
+| image_skyline = 
+| imagesize = 
+| image_alt = 
+| image_caption = 
+| image_map =
+| mapsize =
+| map_alt =
+| map_caption =
+| established_title = Founded
+| established_date = 1885
+| unit_pref = Metric<!-- or US or UK -->
+| area_footnotes =
+| area_total_km2 = 
+| area_land_km2 = 
+| area_water_km2 = 
+| population_note = 
+| population_total = 219
+| population_footnotes= <ref name=ukrcensus />
+| population_as_of = [[2001 Ukrainian census|2001 census]]
+| population_density_km2 = auto
+| timezone = EET
+| utc_offset = +2
+| timezone_DST = EEST
+| utc_offset_DST = +3
+| pushpin_map = Ukraine Donetsk Oblast#Ukraine
+| pushpin_label_position = <!-- the position of the pushpin label: left, right, top, bottom, none -->
+| pushpin_map_caption = Location of Kalynove within Ukraine
+| pushpin_mapsize =
+| coordinates = {{Coord|format=dms|display=inline,title}}
+| postal_code_type=[[Postal code]]
+| postal_code = 85382
+| area_code_type = [[Telephone numbering plan|Area code]]
+| area_code = +380 623
+| elevation_m = 201
+| subdivision_type = Country
+| subdivision_name = [[Ukraine]]
+| subdivision_type1 = [[Oblasts of Ukraine|Oblast]]
+| subdivision_name1 = [[Donetsk Oblast]]
+| subdivision_type2 = [[Raions of Ukraine|Raion]]
+| subdivision_name2 = [[Pokrovsk Raion]]
+| subdivision_type3 = [[Hromada]]
+| subdivision_name3 = [[Novohrodivka urban hromada]]
+| code1_name       = [[Codifier of administrative-territorial units and territories of territorial communities|KATOTTH]]
+| code1_info       = UA14160170060039203
+| pushpin_relief = 
+| mapframe = yes
+| mapframe-zoom = 13
+| mapframe-wikidata = yes
+}}
+[[File:Братська могила радянських воїнів с. Калинове.jpg|thumb]]
+''' Kalynove''' ({{langx|uk|Калинове}}; {{langx|ru|link=no|Калиново}}) is a village in [[Novohrodivka urban hromada]], [[Pokrovsk Raion]], [[Donetsk Oblast]], eastern [[Ukraine]]. It is located {{convert|31.04|km|mi}} northwest by north ([[Points of the compass#32-wind compass rose|NWbN]]) from the centre of [[Donetsk]] city.
+
+==History==
+The settlement was founded in 1885.
+
+===Russian invasion of Ukraine===
+The village was captured by Russian Forces in August 2024, during the [[Russian invasion of Ukraine|full-scale Russian invasion of Ukraine]].<ref name=ISW_2024-08-27 />
+
+==Demographics==
+As of the [[2001 Ukrainian census]], the settlement had 1,192 inhabitants, whose [[First language|native languages]] were 74.89% [[Ukrainian language|Ukrainian]] and 25.11% [[Russian language|Russian]].<ref name=ukrcensus />
+
+==References==
+{{Reflist|refs=
+<ref name=ukrcensus>{{cite web|url=http://db.ukrcensus.gov.ua/MULT/Database/Census/databasetree_en.asp |title=All-Ukrainian population census |publisher=[[State Statistics Service of Ukraine]] |date= |access-date=2024-08-28 |website=db.ukrcensus.gov.ua |language=en }}</ref>
+<ref name=ISW_2024-08-27>{{Cite web |title=Russian Offensive Campaign Assessment, August 27, 2024 |last1=Barros |first1=George |last2=Hird |first2=Karolina |last3=Wolkov |first3=Nicole |last4=Evans |first4=Angelica |last5=Gasparyan |first5=Davit|work=Institute for the Study of War |date=27 August 2024 |access-date=28 August 2024 |url=https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-august-27-2024 |quote=Additional geolocated footage published on August 27 indicates that Russian forces have marginally advanced in southeastern Hrodivka (east of Pokrovsk and northeast of Novohrodivka) and have seized Kalynove (further southeast of Pokrovsk and southeast of Novohrodivka).}}</ref>
+}}
+
+{{Pokrovsk Raion}}
+
+[[Category:Villages in Pokrovsk Raion]]
+[[Category:Novohrodivka urban hromada]]
+
+{{Donetsk-geo-stub}}

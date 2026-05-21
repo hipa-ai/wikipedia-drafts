@@ -1,0 +1,90 @@
+{{Short description|Village in Ukraine}}
+{{More citations needed|date=April 2024}}
+{{Use dmy dates|date=April 2024}}
+{{Use Canadian English|date=April 2024}}
+{{Infobox settlement
+| name                    = Arkhanhelske
+| native_name             = Архангельське
+| native_name_lang        = uk
+| settlement_type    = [[Village (Ukraine)|Village]]
+| image_skyline           = 
+| image_alt               = 
+| image_caption           = 
+| image_flag              = 
+| flag_alt                =
+| image_shield            = 
+| shield_alt              = 
+| pushpin_map             = Ukraine Donetsk Oblast#Ukraine
+| pushpin_label_position  =
+| pushpin_map_alt         =
+| pushpin_map_caption     = Location of Arkhanhelske
+| coordinates             = {{coord|48|16|0|N|37|38|40|E|display=inline,title|type:city(890)_region:UA_scale:30000}}
+| subdivision_type        = Country
+| subdivision_name        = {{UKR}}
+| subdivision_type1       = [[Oblasts of Ukraine|Oblast]]
+| subdivision_name1       = [[Donetsk Oblast]]
+| subdivision_type2       = [[Raions of Ukraine|Raion]]
+| subdivision_name2       = [[Pokrovsk Raion]]
+| subdivision_type3       = [[Hromada]]
+| subdivision_name3       = [[Ocheretyne settlement hromada]]
+| established_title       = Founded
+| established_date        = 
+| leader_party            =
+| leader_title            = 
+| leader_name             = 
+| unit_pref               = Metric<!-- or US or UK -->
+| area_footnotes          = 
+| area_total_km2          = 
+| area_land_km2           =
+| area_water_km2          =
+| area_water_percent      =
+| area_note               =
+| elevation_footnotes     = 
+| elevation_m             = 177
+| population_footnotes    = <ref name="ukrcensus" />
+| population_total        = 285
+| population_as_of        = 2001
+| population_density_km2  = auto
+| population_note         =
+| timezone               = EET
+| utc_offset             = +2
+| timezone_DST           = EEST
+| utc_offset_DST         = +3
+| postal_code_type        = [[Postal code]]
+| postal_code             = 86020
+| area_code_type          = [[Telephone numbering plan|Area code]]
+| area_code               = +380 6236
+| blank_name              =
+| blank_info              =
+| website                 = 
+| footnotes               =
+| mapframe          = yes
+| mapframe-zoom     = 11
+}}
+
+[[File:Ставок біля селища Калинове, Ясинуватський район, Донецька область.jpg|thumb|Pond near the village, formed by a local dam]]
+'''Arkhanhelske''' ({{langx|uk|Архангельське}}; [[Russian language|Russian]]: Архангельское) is a village in [[Ocheretyne settlement hromada]], [[Pokrovsk Raion]], [[Donetsk Oblast]], eastern [[Ukraine]]. As of 2001, the population was 285 people.
+
+==History==
+Russia claimed to have taken control over the village during its [[Russian invasion of Ukraine|invasion of Ukraine]] on 25 May 2024.<ref>{{cite news |title=Russia Says Captured Another Village in East Ukraine |url=https://www.themoscowtimes.com/2024/05/25/russia-says-captured-another-village-in-east-ukraine-a85223 |access-date=25 May 2024|work=The Moscow Times |date=25 May 2024 |language=en}}</ref> The occupation was confirmed by [[DeepStateMap.Live]].<ref>{{Cite web|url=https://deepstatemap.live/en#6/48.2685691/37.6391602|title=Arkhanhelske, Donetsk Oblast|website=[[DeepStateMap.Live]]}}</ref>
+
+== Geography ==
+The distance from Arkhanhelske to the district centre is approximately 29&nbsp;km.
+
+== Notable people ==
+Literary critic {{ill|Dmytro Vasylovych Chaliy|uk|Чалий Дмитро Васильович}} was born here.
+
+== Demographics ==
+According to [[2001 Ukrainian census|2001 census data]], the population of the village was 285,<ref name="ukrcensus">{{cite web |title=Table: 19A0501_07_014. Number of actual population in rural areas, Donetska oblast (1,2,3,4) |url=http://db.ukrcensus.gov.ua/MULT/Dialog/varval.asp?ma=19A0501_07_014&ti=19A0501_07_014.%20Number%20of%20actual%20population%20in%20rural%20areas,%20Donetska%20oblast%20(1,2,3,4)&path=../Database/Census/01/02/&lang=2&multilang=en |website=db.ukrcensus.gov.ua |publisher=[[State Statistics Service of Ukraine]] |access-date=30 April 2024}}</ref> with 49.12% indicating [[Ukrainian language|Ukrainian]] as their native language, and 50.88% indicating [[Russian language|Russian]].<ref>{{cite web |title=Table: 19A050501_02_014. Distribution of the population by native language, Donetska oblast (1,2,3,4) |url=http://db.ukrcensus.gov.ua/MULT/Dialog/varval.asp?ma=19A050501_02_014&ti=19A050501_02_014.%20Distribution%20of%20the%20population%20by%20native%20language,%20Donetska%20oblast%20(1,2,3,4)&path=../Database/Census/05/02/01/&lang=2&multilang=en |website=db.ukrcensus.gov.ua |publisher=[[State Statistics Service of Ukraine]] |access-date=30 April 2024}}</ref>
+
+== References ==
+{{reflist}}
+
+{{Pokrovsk Raion}}
+{{Donetsk Oblast}}
+
+[[Category:Ocheretyne settlement hromada]]
+[[Category:Villages in Pokrovsk Raion]]
+[[Category:Donetsk Oblast geography stubs]]
+
+{{Donetsk-geo-stub}}
