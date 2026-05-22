@@ -1,0 +1,152 @@
+{{Use dmy dates|date=October 2022}}
+{{Chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 419109485
+| ImageFile1 = Docosan-1-ol.svg
+| ImageClass1 = skin-invert-image
+| ImageFile1_Ref = {{chemboximage|correct|??}}
+| ImageSize1 = 244
+| ImageName1 = Skeletal formula of docosanol
+| ImageFile2 = Docosanol-3D-vdW rotated.png
+| ImageClass2 = bg-transparent
+| ImageFile2_Ref = {{chemboximage|correct|??}}
+| ImageSize2 = 244
+| ImageName2 = Spacefill model of docosanol
+| PIN = Docosan-1-ol<ref name = "docosan-1-ol (CHEBI:31000)" >{{Cite web|url = http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:31000|title = Docosan-1-ol (CHEBI:31000)|work = Chemical Entities of Biological Interest (ChEBI)|location = UK|publisher = European Bioinformatics Institute|access-date = 26 July 2011|archive-date = 4 August 2014|archive-url = https://web.archive.org/web/20140804191939/http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:31000|url-status = live}}</ref>
+| OtherNames = {{unbulleted list|
+*Behenic alcohol<ref name = "docosan-1-ol (CHEBI:31000)" />
+*Behenyl alcohol<ref name = "docosan-1-ol (CHEBI:31000)" />
+*Cachalot BE-22{{Citation needed|date = July 2011}}
+*1-Docosanol<ref name="chemical book">{{Cite web |url=http://www.chemicalbook.com/ChemicalProductProperty_EN_CB6219657.htm |title=Chemical Book: *1-Docosanol |access-date=26 July 2011 |archive-date=30 June 2013 |archive-url=https://web.archive.org/web/20130630073150/http://www.chemicalbook.com/ChemicalProductProperty_EN_CB6219657.htm |url-status=live }}</ref>
+*''n''-Docosanol<ref name="chemical book" />
+*Docosyl alcohol<ref name = "docosan-1-ol (CHEBI:31000)" />
+*Emery 3304<ref name="chemical book" />
+*Loxiol VPG 1451{{Citation needed|date = July 2011}}
+  }}
+|Section1={{Chembox Identifiers
+| CASNo = 661-19-8
+| CASNo_Ref = {{cascite|correct|CAS}}
+| PubChem = 12620
+| ChemSpiderID = 12100
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| UNII = 9G1OE216XY
+| UNII_Ref = {{fdacite|correct|FDA}}
+| EINECS = 211-546-6
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00632
+| KEGG = D03884
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| MeSHName = docosanol
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 31000
+| ChEMBL = 1200453
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| RTECS = JR1315000
+| Beilstein = 1770470
+| SMILES = CCCCCCCCCCCCCCCCCCCCCCO
+| StdInChI = 1S/C22H46O/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23/h23H,2-22H2,1H3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| InChI = 1/C22H46O/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-22-23/h23H,2-22H2,1H3
+| StdInChIKey = NOPFSRXAKWQILS-UHFFFAOYSA-N
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| InChIKey = NOPFSRXAKWQILS-UHFFFAOYAB
+}}
+|Section2={{Chembox Properties
+| C=22 | H=46 | O=1
+| MeltingPtK = 343
+| BoilingPtK = 453
+| BoilingPt_notes = at 29&nbsp;Pa
+| LogP = 10.009
+}}
+| Section6 = {{Chembox Pharmacology
+| Pharmacology_ref =
+| ATCCode_prefix = D06
+| ATCCode_suffix = BB11
+| ATC_Supplemental =
+| ATCvet =
+| Licence_EU =
+| INN =
+| INN_EMA =
+| Licence_US =
+| Legal_status =
+| Legal_AU =
+| Legal_AU_comment =
+| Legal_CA =
+| Legal_CA_comment =
+| Legal_NZ =
+| Legal_NZ_comment =
+| Legal_UK =
+| Legal_UK_comment =
+| Legal_US = OTC
+| Legal_US_comment = <ref name="Abreva FDA label">{{cite web | title=Abreva- docosanol cream | website=DailyMed | date=18 April 2022 | url=https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bf02c8c5-af60-41f1-a202-38a97491a720 | access-date=14 October 2022 | archive-date=14 October 2022 | archive-url=https://web.archive.org/web/20221014040530/https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bf02c8c5-af60-41f1-a202-38a97491a720 | url-status=live }}</ref><ref name="Abreva Approval Package">{{cite web | title=Drug Approval Package: Abreva (Docosanol) NDA #20-941 | website=U.S. [[Food and Drug Administration]] (FDA) | date=21 August 2001 | url=https://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20-941_Abreva.cfm | access-date=13 October 2022 | archive-date=14 October 2022 | archive-url=https://web.archive.org/web/20221014040518/https://www.accessdata.fda.gov/drugsatfda_docs/nda/2000/20-941_Abreva.cfm | url-status=live }}</ref>
+| Legal_EU = Rx-only
+| Legal_EU_comment = <ref name="docosanol PSUSA">{{cite web |title=List of nationally authorised medicinal products |url=https://www.ema.europa.eu/en/documents/psusa/docosanol-list-nationally-authorised-medicinal-products-psusa/00010092/202104_en.pdf |website=ema.europa.eu |publisher=European Medicines Agency |access-date=23 October 2022 |archive-url=https://web.archive.org/web/20221015233411/https://www.ema.europa.eu/en/documents/psusa/docosanol-list-nationally-authorised-medicinal-products-psusa/00010092/202104_en.pdf |archive-date=15 October 2022 |language=en |date=2 December 2021 |url-status=live}}</ref>
+| Legal_UN =
+| Legal_UN_comment =
+| Pregnancy_category =
+| Pregnancy_AU =
+| Pregnancy_AU_comment =
+| Dependence_liability =
+| AdminRoutes = [[Topical administration|Topical]]
+| Bioavail =
+| ProteinBound =
+| Metabolism =
+| Metabolites =
+| OnsetOfAction =
+| HalfLife =
+| DurationOfAction =
+| Excretion =
+  }}
+}}
+
+'''1-Docosanol''', also known as '''behenyl alcohol''', is a [[Saturated and unsaturated compounds|saturated]] [[fatty alcohol]] containing 22 carbon atoms, used traditionally as an [[Moisturizer|emollient]], [[Emulsifier#Emulsifiers|emulsifier]], and thickener in cosmetics.<ref>{{cite web|url=https://ec.europa.eu/growth/tools-databases/cosing/?fuseaction=search.details_v2&id=74589|title=CosIng: Behenyl alcohol|publisher=[[European Commission]]|accessdate=14 March 2021|archive-date=27 August 2021|archive-url=https://web.archive.org/web/20210827200639/https://ec.europa.eu/growth/tools-databases/cosing/?fuseaction=search.details_v2&id=74589|url-status=live}}</ref>
+
+In July 2000, docosanol was approved for medical use in the United States as an [[antiviral agent]] for reducing the duration of [[cold sore]]s.<ref name="Abreva FDA label" /><ref name="Abreva Approval Package" /><ref name="pmid1660151">{{Cite journal|vauthors=Katz DH, Marcelletti JF, Khalil MH, Pope LE, Katz LR |title=Antiviral activity of 1-docosanol, an inhibitor of lipid-enveloped viruses including herpes simplex |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=88 |issue=23 |pages=10825–10829 |date=December 1991 |pmid=1660151 |pmc=53024 |doi= 10.1073/pnas.88.23.10825|bibcode=1991PNAS...8810825K |doi-access=free }}</ref> It is an [[over-the-counter medication]] (OTC). It is sold under the brand name '''Abreva''' among others.<ref name="Abreva FDA label" /><ref name="docosanol PSUSA" /><ref name="AC" /><ref>{{Cite web |url=http://www.medilexicon.com/drugs/abreva.php |title=mediLexicon: Docosanol |access-date=2 September 2008 |archive-date=10 March 2013 |archive-url=https://web.archive.org/web/20130310114409/http://www.medilexicon.com/drugs/abreva.php |url-status=dead }}</ref>
+
+==Side effects==
+One of the most common side effects that has been reported from docosanol is [[headache]]. Headaches caused by the medication tend to be mild and can occur in any region of the head.<ref name="Abreva Side Effects">{{Cite web|url=http://www.livestrong.com/article/112151-abreva-side-effects/|publisher=Livestrong.com|title=Abreva Side Effects|access-date=20 May 2010|archive-date=23 May 2010|archive-url=https://web.archive.org/web/20100523015616/http://www.livestrong.com/article/112151-abreva-side-effects/|url-status=live}}</ref> In clinical trials, headache occurred in 10.4% of people treated with docosanol cream and 10.7% of people treated with [[placebo]].<ref name="AC" />
+
+The most serious side effects, although rare, are allergic reactions. Some of the patients experienced the symptoms of allergic reactions, including [[difficulty breathing]], [[confusion]], [[angioedema]] (facial swelling), [[fainting]], [[dizziness]], [[hives]] or [[chest pain]].<ref name="Abreva Side Effects"/>
+
+Other side effects may include: [[acne]], burning, dryness, [[itching]], [[rash]], redness, acute [[diarrhea]], [[soreness]], swelling.<ref name="Side Effects">{{Cite web|url=https://www.drugs.com/cons/docosanol-topical.html/|publisher=Drugs.com|title=Side Effects|access-date=2010-05-20|archive-date=11 May 2008|archive-url=https://web.archive.org/web/20080511134513/http://www.drugs.com/cons/docosanol-topical.html|url-status=live}}</ref>
+
+==Mechanism of action==
+Docosanol is thought to work by interfering with and stabilizing the host cell's surface phospholipids, preventing the fusion of the herpes virus's [[viral envelope]] with the human host cell. This disrupted ability of the virus to fuse with the host cell membrane prevents entry and subsequent [[viral replication|replication]].<ref name="pmid34202050">{{cite journal |vauthors=Sadowski LA, Upadhyay R, Greeley ZW, Margulies BJ |title=Current Drugs to Treat Infections with Herpes Simplex Viruses-1 and -2 |journal=Viruses |volume=13 |issue=7 |date=June 2021 |page=1228 |pmid=34202050 |pmc=8310346 |doi=10.3390/v13071228 |doi-access=free |quote=n-Docosanol is a long-chain, 22-carbon, primary alcohol offered over the counter. It likely inhibits a broad range of enveloped viruses that uncoat at the plasma membrane of target cells. The drug appears to prevent binding and entry of HSVs by interfering directly with the cell surface phospholipids, which are required by the viruses for entry, and stabilizing them. This activity tends to work well against ACV-resistant HSVs and can even act synergistically with other anti-HSV drugs.}}</ref><ref name="AC">{{cite book|title=Austria-Codex| veditors = Haberfeld H |at=Erazaban Creme|publisher=Österreichischer Apothekerverlag|location=Vienna|year=2020|language=German}}</ref><ref name="drugs.com">Docosanol {{Drugs.com|monograph|docosanol}}. Accessed 14 March 2021.</ref>
+
+==History==
+The drug was approved as a cream for oral herpes after clinical trials by the FDA in July 2000.<ref name="Abreva Approval Package" />
+It was shown to shorten the healing by 17.5 hours on average (95% [[confidence interval]]: 2 to 22 hours) in a placebo-controlled trial.<ref>{{Cite journal|last1=Sacks|first1=SL|title=Clinical efficacy of topical docosanol 10% cream for herpes simplex labialis: A multicenter, randomized, placebo-controlled trial|journal=J Am Acad Dermatol|volume=45|issue=2|pages=222–230|pmid=11464183|doi=10.1067/mjd.2001.116215|year=2001|last2=Thisted|first2=RA|last3=Jones|first3=TM|last4=Barbarash|first4=RA|last5=Mikolich|first5=DJ|last6=Ruoff|first6=GE|last7=Jorizzo|first7=JL|last8=Gunnill|first8=LB|last9=Katz|first9=DH|last10=Khalil|first10=MH|last11=Morrow|first11=Phillip R.|last12=Yakatan|first12=Gerald J.|last13=Pope|first13=Laura E.|last14=Berga|first14=James E.|display-authors=8}}</ref> Another trial showed no effect when treating the infected backs of guinea pigs.<ref name=":0">{{Cite journal
+| last1 = McKeough | first1 = MB
+| last2 = Spruance | first2 = SL
+| title = Comparison of new topical treatments for herpes labialis: Efficacy of penciclovir cream, acyclovir cream, and n-docosanol cream against experimental cutaneous herpes simplex virus type 1 infection
+| journal = Archives of Dermatology
+| volume = 137
+| issue = 9
+| pages = 1153–1158
+| year = 2001
+| pmid = 11559210
+| doi=10.1001/archderm.137.9.1153
+| doi-access = free}}</ref>
+
+Two experiments with 1-docosanol cream failed to show statistically significant differences by any parameter between 1-docosanol cream and vehicle control–treated sites or between 1-docosanol and untreated infection sites.<ref name=":0" />
+
+== Society and culture ==
+=== Controversy ===
+In March 2007, it was the subject of a US nationwide class-action suit against Avanir and GlaxoSmithKline as the claim that it cut recovery times in half was found to have been misleading in a California court, but the case was eventually settled and the "cuts healing time in half" claim had not been used in product advertising for some years, instead stating "clinically proven to speed healing".<ref>{{Cite web| title = California Court Upholds Settlement Of Class Action Over Cold Sore Medicationl | publisher = BNA Inc. | date = July 2000 | url = http://subscript.bna.com/SAMPLES/plp.nsf/85256269004a991e8525611300214487/29d5bb623a50fd25852572ad0074f772?OpenDocument  | access-date = 17 October 2007 |archive-url = https://web.archive.org/web/20080205070115/http://subscript.bna.com/SAMPLES/plp.nsf/85256269004a991e8525611300214487/29d5bb623a50fd25852572ad0074f772?OpenDocument |archive-date = 5 February 2008}}</ref>
+
+==References==
+{{Reflist}}
+
+{{alcohols}}
+{{Antibiotics and chemotherapeutics for dermatological use}}
+{{Antivirals}}
+{{Portal bar | Medicine}}
+
+{{DEFAULTSORT:Docosanol, 1-}}
+[[Category:Antiviral drugs]]
+[[Category:Fatty alcohols]]
+[[Category:Primary alcohols]]
+[[Category:Drugs developed by GSK plc]]
+[[Category:Alkanols]]
+[[Category:Over-the-counter drugs in the United States]]
