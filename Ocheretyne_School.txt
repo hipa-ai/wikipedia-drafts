@@ -9,6 +9,7 @@
 | region           = [[Pokrovsk Raion]]
 | state            = [[Donetsk Oblast]]
 | country          = [[Ukraine]]
+| coordinates      = {{coord|48.249466|37.619927|display=inline,title}}
 | type             = Public general-education school
 | language         = [[Ukrainian language|Ukrainian]]
 | status           = Destroyed during the temporary Russian occupation (2024)
