@@ -1,0 +1,161 @@
+{{Short description|Family of proprietary XML specifications}}
+{{Infobox file format
+| name                   = XML Forms Architecture (XFA)
+| icon                   =
+| logo                   =
+| screenshot             =
+| caption                =
+| extension              = .pdf, .xdp
+| mime                   = application/pdf, application/vnd.adobe.xdp+xml<ref>{{citation |url=https://www.iana.org/assignments/media-types/application/vnd.adobe.xdp+xml |title=IANA Application Media Types - Vendor Tree - vnd.adobe.xdp+xml |access-date=2014-04-09}}</ref>
+| type code              = 
+| uniform type           =
+| magic                  =
+| owner                  = [[JetForm]] (acquired by [[Adobe Systems]] in 2002)
+| released               = {{Start date|1999|df=yes}} 
+| latest release version = 3.3
+| latest release date    = {{Start date and age|2012|01|09|df=yes}}
+| genre                  =
+| container for          = [[Portable Document Format|PDF]], [[XML]]
+| contained by           = [[Portable Document Format|PDF]], XDP, FCDT<ref>{{citation |url=https://www.iana.org/assignments/media-types/application/vnd.adobe.formscentral.fcdt |title=IANA Application Media Types - Vendor Tree - vnd.adobe.formscentral.fcdt |access-date=2014-04-09}}</ref>
+| extended from          = [[XML]], [[XHTML]], [[Cascading Style Sheets|CSS]], [[XSL-FO]], PDF
+| extended to            =
+| standard               = No
+| open                   = No
+| url                    = [http://partners.adobe.com/public/developer/xml/index_arch.html Adobe XML Forms Architecture]
+}}
+
+'''XFA''' (also known as '''XFA forms''') stands for '''XML Forms Architecture''', a family of [[proprietary format|proprietary]] [[XML]] specifications that was suggested and developed by [[JetForm]] to enhance the processing of [[Form (web)|web forms]]. It can be also used in [[Portable Document Format|PDF]] files starting with the PDF 1.5 specification. The XFA specification is referenced as an external specification necessary for full application of the ISO 32000-1 specification (PDF 1.7). The XML Forms Architecture was not standardized as an [[International Organization for Standardization|ISO]] standard,<ref name="gnupdf-fdf">{{cite web |url=http://gnupdf.org/Forms_Data_Format |title=Gnu PDF - PDF Knowledge - Forms Data Format |quote="Apparently Adobe introduced something newer called XFA (XML Forms Architecture) which doesn't seem standardized." |access-date=2010-02-19}}</ref> and has been deprecated in PDF 2.0.<ref name="deprecation" />
+
+==Overview==
+XFA's main extension to XML are computationally active tags. In addition, all instances created from a given XFA form template keep the specification of data capture, rendering, and manipulation rules from the original. Another major advantage of XFA is that its data format allows compatibility with other systems, and with changes to other technology, applications and technology standards.
+
+According to JetForm's submission to the [[World Wide Web Consortium]], "XFA addresses the needs of organizations to securely capture, present, move, process, output and print information associated with electronic forms."<ref>[http://www.w3.org/Submission/1999/05/ W3C Submission] (accessed August 14, 2006)</ref> The XFA proposal was submitted to the W3C in May 1999.
+
+In 2002, the JetForm Corporation was acquired by [[Adobe Systems]], and the latter introduced XFA forms with PDF 1.5 and the subsequent [[Adobe Acrobat|Acrobat]] releases (6 and 7) in 2003.<ref>[http://www.amgraf.com/PDFiles/Acroforms2.pdf A Quick Introduction to Acrobat Forms Technology] (PDF format)</ref>
+
+XFA forms are saved internally in PDF files or as XDP (XML Data Package) files which can be opened in Adobe's [[LiveCycle]] Designer software. 
+An XDP can package a PDF file, along with XML form and template data.<ref name="xfa-adobe">{{cite web |url=http://partners.adobe.com/public/developer/xml/index_arch.html |title=Adobe XML Forms Architecture (XFA) |author=Adobe Systems Incorporated |access-date=2010-02-19 |archive-date=2009-12-23 |archive-url=https://web.archive.org/web/20091223030550/http://partners.adobe.com/public/developer/xml/index_arch.html |url-status=dead }}</ref> XDP provides a mechanism for packaging form components within a surrounding XML container.
+
+Although XFA can make use of PDF, XFA is not tied to a particular [[page description language]].
+
+The XFA specification includes an appendix that discusses details of the Adobe-specific XFA implementation and behaviors of Adobe products that deviate from the XFA specification.
+
+Data filled in an XFA form may be submitted to a host using an HTTP POST operation in XDP format, PDF format, XFDF format, XML 1.0 format or as an URL-encoded format.
+
+XFA supports the use of [[XSLT]] to transform the XML data before it is loaded to XFA Data DOM or after it is unloaded from XFA Data DOM.
+
+One of XFA approaches to pagination duplicates the pagination logic and much of the syntax of XSL-FO.
+
+XFA forms are synonymous with SmartForms in the Australian government. XFA forms have also been used extensively by the Government of Canada; [[Immigration, Refugees and Citizenship Canada]] distributes many of its application forms as XFA PDFs, which must be downloaded and opened in [[Adobe Acrobat|Adobe Reader]] rather than a web browser or mobile device.<ref name="ircc-pdf">{{cite web |title=I can't open my application form in PDF format. What can I do? |publisher=[[Immigration, Refugees and Citizenship Canada]] |url=https://www.ircc.canada.ca/english/helpcentre/answer.asp?qnum=660&top=18 |access-date=2026-07-29}}</ref>
+
+===Static and dynamic forms===
+XFA defines static forms (since XFA 2.0 and before) and dynamic forms (since XFA 2.1 or 2.2).
+
+In a static form the form’s appearance and layout is fixed, regardless of the field content. Any unfilled fields are present in the form. By default, static forms do not require re-rendering. XFA recognises two types of static forms: "old-style static forms" (using "full XFA") and XFAF (a subset of full XFA, defined since XFA 2.5).
+
+Dynamic forms (defined since XFA 2.1 or 2.2) can change in appearance in several ways in response to changes in the data. Dynamic form requires rendering of its content on file opening. Dynamic forms may also be designed to change structure to accommodate changes in the structure of the data supplied to the form. For example, a page of a form may be omitted if there is no data for it. Another example is a field that may occupy a variable amount of space on the page, resizing itself to efficiently hold its content. Dynamic form cannot rely on a PDF representation of its boilerplate, because the positioning and layout of the boilerplate change as the fields grow and shrink or as subforms are omitted and included.
+
+== Usage with Portable Document Format ==
+
+PDF 1.7 supports two different methods for integrating data and PDF forms.<ref name="gnupdf-fdf" /><ref>{{cite web |url=http://livedocs.adobe.com/coldfusion/8/htmldocs/help.html?content=formsPDF_02.html |title=About PDF forms |access-date=2010-02-19 |archive-date=2011-04-29 |archive-url=https://web.archive.org/web/20110429032948/http://livedocs.adobe.com/coldfusion/8/htmldocs/help.html?content=formsPDF_02.html |url-status=dead }}</ref> 
+* '''[[Acroforms|AcroForms]]''' (also known as '''Acrobat forms'''), introduced and included in the PDF 1.2 format specification.
+* '''Adobe XML Forms Architecture (XFA)''' forms, introduced in the PDF 1.5 format specification as an optional feature (The XFA specification is not included in the PDF specification, it is only referenced.)
+
+Adobe XFA Forms are not compatible with AcroForms. When an XFA is packaged inside a PDF file, it is placed in the AcroForm document resources dictionary ("Shell PDF") or referenced from the AcroForm entry in the document catalog.
+
+Creating XFA Forms for use in Adobe Reader requires [[Adobe LiveCycle Designer]].<ref>{{cite web |url=http://www.adobe.com/products/livecycle/readerextensions/ |title=Adobe LiveCycle Reader Extensions ES2 |access-date=2010-02-19 |archive-url=https://web.archive.org/web/20130106055303/http://www.adobe.com/products/livecycle/readerextensions/ |archive-date=2013-01-06 |url-status=dead}}</ref> Adobe Reader contains "disabled features" for use of XFA Forms, that will activate only when opening a PDF document that was created using enabling technology available only from Adobe.<ref>{{citation |url=http://www.adobe.com/products/eulas/pdfs/Reader_Player_AIR_WWEULA-Combined-20080204_1313.pdf |format=PDF |title=Adobe Reader - Software license agreement  |access-date=2010-02-19}}</ref><ref>{{cite web |url=http://www.adobe.com/go/readerextensions |title=LiveCycle Reader Extensions ES features and benefits |access-date=2010-02-19 |url-status=dead}}</ref> The XFA Forms are not compatible with Adobe Reader prior to version 6.
+
+===Profiles===
+Starting with XFA 2.5 forms can use a subset of the full XFA capability. Currently the only specified is the XFAF profile.
+
+XFA can be used as: 
+* '''''full'' XFA''' - which express all of the form, including boilerplate, directly in XFA (without any PDF or without a complete PDF background). It can be packaged inside a "shell PDF" with minimal PDF markup or as a standalone XDP. It is used for dynamic XFA forms (since XFA 2.1) and also for so called "traditional" (old-style) static XFA forms. Optionally it may include a pre-rendered depiction of the XFA form as PDF pages - but it is useful only for traditional static forms. Dynamic XFA must be rendered on file opening. 
+* '''XFAF (XFA Foreground)''' subset - (introduced in XFA 2.5) - a form in which each page of the XFA form overlays a PDF background. It can be used only for static XFA forms. This architecture uses only a subset of XFA.<ref name="xfa25">{{citation |url=http://partners.adobe.com/public/developer/en/xml/xfa_spec_2_5.pdf |format=PDF |title=XML Forms Architecture (XFA) Specification Version 2.5 |date=2007-06-08 |access-date=2010-02-19 |archive-url=https://web.archive.org/web/20160329151210/http://partners.adobe.com/public/developer/en/xml/xfa_spec_2_5.pdf |archive-date=2016-03-29 |url-status=dead}}</ref> It can be packaged inside a regular PDF document or as a standalone XDP file with embedded PDF. In XFAF each XFA field corresponds to a PDF interactive field (AcroForm field).
+
+===Packaging===
+XFA forms can be created and used as PDF 1.5 - 1.7 files or as XDP (XML Data Package). The format of an XFA resource in PDF is described by the XML Data Package Specification.<ref name="iso32000" /> PDF may contain XFA in XDP format, but XFA may also contain PDF.<ref name="xfa-adobe" />
+
+When the XFA (XML Forms Architecture) grammars used for an XFA form are moved from one application to another, they must be packaged as an XML Data Package. The XDP may be a standalone document or it may in turn be carried inside a PDF document.<ref name="xfa25" />
+
+XFA Form packaging variants (using XDP): 
+* as a '''standalone XML Data Package (XDP)''' (.xdp file) which can optionally also include a PDF file 
+* '''inside a regular PDF Document''' - used for static forms - XFAF. 
+* '''inside a "Shell PDF"''' - used for the "full XFA" form (dynamic or traditional static) - A Shell PDF file contains only a minimal skeleton of PDF markup plus the complete XFA content, any fonts and images needed for rendering of the form. It minimizes the file size and the rendering overhead is moved from the server to the client.
+
+Packaging an XDP within PDF has the advantage that it is more compact, because PDF is compressed. XDP in PDF can be digitally signed in ways that a standalone XDP cannot.
+
+In contrast, packaging form components within an XML container (XDP) makes it easy for standard XML applications to work with XFA forms. The XML components are human readable and easy editable (in contrast with PDF source code). When in XDP form, an XFA document may be validated using schemas attached to XFA specification.
+
+===Compatibility===
+Most PDF processors do not handle XFA content. When generating a shell PDF it is recommended to include in the PDF markup a simple one-page PDF image displaying a warning message (e.g. "To view the full contents of this document, you need a later version of the PDF viewer.",  "The full content of this file cannot be displayed with your current PDF viewer.", "Please wait... If this message is not eventually replaced by the proper contents of the document, your PDF viewer may not be able to display this type of document.", etc.). PDF processors that can render XFA content should either not display the supplied warning page image or replace it quickly with the dynamic form content.
+
+In 2013, as a solution for mobile platforms and desktop platforms without XFA support, Adobe created software that creates online HTML5 fillable forms from XFA (known as Adobe "Mobile Forms"). Mobile Forms are not a single file like a PDF or XDP.<ref name="mobile">{{citation |url=http://blogs.adobe.com/livecycle/2014/04/adobe-reader-mobile-and-xfa-forms-from-livecycle-designer.html |title=Adobe Reader Mobile and XFA forms from LiveCycle Designer |quote=Adobe Reader Mobile does not support XFA based PDF’s created in the LiveCycle Designer and it will not provide this support in the future. |date=2014-04-16 |archive-url=https://web.archive.org/web/20190717125446/https://blogs.adobe.com/livecycle/2014/04/adobe-reader-mobile-and-xfa-forms-from-livecycle-designer.html |archive-date=2019-07-17 |url-status=dead}}</ref><ref>{{citation |url=http://helpx.adobe.com/livecycle/help/mobile-forms/feature-differentiation-mobile-forms-pdf.html |title=Feature differentiation between Mobile Forms and PDF Forms |access-date=2014-04-22 |url-status=dead}}</ref>
+
+===Rich text===
+Rich text may appear in data supplied to the XFA forms, in XFA templates as default text values, as field captions, or as boilerplate (draw) content.
+
+Starting with PDF 1.5 (XFA 2.02), the text contents of variable text form fields, as well as markup annotations, may include formatting information (style information). These rich text strings are XML documents that conform to the rich text conventions specified for the XML Forms Architecture specification, which is itself a subset of the XHTML 1.0 specification, augmented with a restricted set of CSS2 style attributes.<ref name="iso32000">{{citation |url=http://www.adobe.com/devnet/acrobat/pdfs/PDF32000_2008.pdf |title=Document Management – Portable Document Format – Part 1: PDF 1.7, First Edition |author=Adobe Systems Incorporated |date=2008-07-01 |access-date=2010-02-19 |archive-url=https://web.archive.org/web/20100409113330/http://www.adobe.com/devnet/acrobat/pdfs/PDF32000_2008.pdf |archive-date=2010-04-09 |url-status=dead}}</ref>
+
+In PDF 1.6, PDF supports the rich text elements and attributes specified in the XML Forms Architecture (XFA) Specification, 2.2.  In PDF 1.7, PDF supports the rich text elements and attributes specified in the XML Forms Architecture (XFA) Specification, 2.4.<ref name="iso32000" /> It was announced in 2011 that PDF 2.0 (ISO 32000 Part 2) would reference XFA 3.1,<ref name="reference-xfa-31" /> but when published, PDF 2.0 deprecated it.<ref name="deprecation"/>
+
+=== PDF/A ===
+When an XFA form is converted to [[PDF/A]], both the boilerplate and field content are flattened into a PDF appearance stream. PDF/A forbids active content and all XFA content except, optionally, the XML Data Document (forms data created by a user).
+
+== Standardization ==
+The XML Forms Architecture specification is not included in the PDF 1.7 standard (ISO 32000-1:2008) and it is only referenced as an external proprietary specification created and published by Adobe. However, the ISO 32000-1 references XFA as normative and indispensable for the application of the ISO 32000-1 specification. XFA was not standardized as an ISO standard. 
+
+Since 2007, development of PDF standard has been conducted by ISO's Technical Committee 171/Subcommittee 2/Working Group 8 (TC 171/SC 2/WG 8).
+
+In 2011 the ISO Committee urged Adobe Systems to submit the XFA Specification, XML Forms Architecture (XFA), to ISO for standardization, and requested that Adobe Systems stabilize the XFA specification. The Committee expressed its concerns about the stability of the XFA specification.<ref name="reference-xfa-31">{{citation |url=http://pdf.editme.com/files/pdfREF-meetings/ISO-TC171-SC2-WG8_N0603_SC2WG8_MtgRept_SLC.pdf |title=ISO/TC 171/SC 2/WG 8 N 603 - Meeting Report |quote=XFA is not to be ISO standard just yet. ... The Committee urges Adobe Systems to submit the XFA Specification, XML Forms Architecture (XFA), to ISO for standardization ...  The Committee is concerned about the stability of the XFA specification ... Part 2 will reference XFA 3.1 |date=2011-06-27}}</ref>
+
+In 2017 the ISO Committee deprecated XFA from PDF 2.0.<ref name="deprecation">{{Cite web|url=https://www.pdfa.org/intro/pdf-2-0-the-worldwide-standard-for-electronic-documents-has-evolved/|title=PDF 2.0: The worldwide standard for electronic documents has evolved – PDF Association|language=en-US|access-date=2018-12-05}}</ref>
+
+==Current status==
+XFA has not been developed further since version 3.3 (2012), and following its deprecation in PDF 2.0 it is regarded as a legacy technology. [[Adobe LiveCycle]], the platform used to author XFA forms, was superseded by [[Adobe Experience Manager]] Forms, and most modern PDF viewers—including the built-in viewers in web browsers and mobile operating systems—do not render XFA content.<ref name="mobile" /> As a result, forms authored in XFA typically require a recent desktop version of Adobe Reader or Acrobat, and organizations have increasingly migrated to [[Acroforms|AcroForms]] or HTML-based forms.
+
+==XFA versions==
+
+{|class="wikitable" style="width: 100%"
+|-
+! width="5%" | XFA version 
+! width="5%" | Year of publication 
+! width="17%" | Referenced in PDF version 
+! width="60%" | New features 
+! width="6%" | Adobe Acrobat version
+! width="7%" | Adobe Designer version
+|-
+| 2.02 || 2003 || 1.5 || XFA 2.0 supports only static forms || 6.0  || 6
+|-
+| 2.1 ||  ||  || Connection Set [[Document Object Model|DOM]], Connection Data DOM, Data Description DOM, Layout DOM, Connection Set DOM, Connection Data DOM, Data Description DOM, Layout DOM, Special Object Models, Exclusion group element’s capability expanded, Hide/reveal containers depending on relevance, Growable containers, Paragraph formatting, Barcode formatting, Image aspect, Noninteractive fields, Support for Web Services ('doc-literal' SOAP operations over HTTP; the Web Service's WSDL defines SOAP binding operations), Submission of form parts to a target URI, Subforms may include calculations, Calculations may specify override conditions, Scripts specify whether they should be executed on the client, server or both, Document variables, Validation checks against validation-specific picture clauses, Event source included as an event attribute, Use of data description when writing out XML, '''Dynamic forms''', Repeating subforms, Explicit data references, Subform sets, Record processing, Global fields, Data description element, Default data binding to include attribute data, Subform scope option, Automatically breaking layout, Dynamic layout, Flowing layout strategy, Flowing layout support for tables and table-rows, Rich text: Embedded objects, Subscript and superscript support, New Widget Types, Support for Asian-Language Representations, Scripting Object Model: Referencing objects by their class names, FormCalc: New functions to access locale  ||   || 
+|-
+| 2.2 || 2004 || 1.6 || Connection Set DOM, Connection Data DOM, Event for populating drop-down choice list widgets, W3C XML digital signatures, Uniquely identifying templates, Document variables used as named script objects || 7.0  || 7
+|-
+| 2.4 || 2006 || 1.7 and ISO 32000-1 || Form fragments, Bar code encryption, Barcode character encoding, URL-encoded option for submit, Choice-list enter and exit events pair up, Manifests as scripting variables, Complex binding, Conditional binding, Support for right-to-left text flow, Conditional breaking, Nesting tables, Captions can differ between views || 7.0  || 7.1
+|-
+| 2.5 || 2007 || 1.7 Adobe Extension Level 1 || Secure submit, Index change event, '''XFA Foreground (XFAF)''', Change to initial page selection, Explicit control of printer pagination, Widget functionality: Control over scrolling, Checkmark shapes, Button highlight, Explicit control over number of cells in combs, Security and Control: MDP+ document signatures || 8.0 || 8
+|-
+| 2.6 || 2008 || 1.7 Adobe Extension Level 2 || Adobe [[Extensible Metadata Platform|XMP]] documented, Adobe configuration syntax documented, Template version control, Adobe legacy flags documented (for backward compatibility), Image storage in PDF (images stored as resources in the PDF container), New barcode types (UPS Maxicode, Aztec, Data Matrix, and the RSS14 family)  || 8.1, 8.1.1 || ES 8.1
+|-
+| 2.7 || 2008 || 1.7 Adobe Extension Level 3 || Locale set typefaces, New set of rules for picking alternate fonts || 8.1, 8.1.1  || ES 8.1.2
+|-
+| 2.8 || 2008 || 1.7 Adobe Extension Level 3 || New variables dataset, Form fragments declaring traversals, Access property extended to subforms, Improved orphan and widow control, Keep property extended to fields and draws, Authentication policy for web services, Submit via [[WSDL]]/[[SOAP]], Pre- and post-submit events standardized, Pre-sign and post-sign events added, Pre- events may cancel the associated action, Change in keep behavior, Pair kerning support, Hyphenation support, Rich text: Outbound hyperlinks  || 9.0  || ES 8.2
+|-
+| 3.0 || 2009 || 1.7 Adobe Extension Level 5 || Compatibility flag override in LiveCycle, Inactive presence, Event propagation (upward to their ancestral objects), Validation events added, Global validation handling control  || 9.1  || 
+|-
+| 3.1 || 2009 || 1.7 Adobe Extension Level 6 || Support for relational data, Data injection into data description, Barcode examples expanded and illustrated, Automation Examples expanded and corrected, Control over duplex imposition, Rendering: Support for long or short edge duplexing, Support for more label printers  || X (10)  || ES 2
+|-
+| 3.3 || 2012 || 1.7 Adobe Extension Level 8 || Bulleted List, Numbered List and Nested List Support, Support for Right To Left flowed content Subforms and Tables, Deprecating legacy rendering, XML Encryption and Decryption Support, autoSave element added, ADBE_JSConsole and ADBE_JSDebugger elements added, [[Adobe Flash|Flash]] ([[SWF]]) Integration in XFA || X (10) || ES 3
+|}
+
+==See also==
+* [[Portable Document Format]]
+* XML Data Package
+
+==References==
+<references />
+
+==External links==
+* [http://partners.adobe.com/public/developer/xml/index_arch.html Adobe XML Forms Architecture (XFA) - developer resources] {{Webarchive|url=https://web.archive.org/web/20091223030550/http://partners.adobe.com/public/developer/xml/index_arch.html |date=2009-12-23 }}
+
+[[Category:XML-based standards]]
+[[Category:Markup languages]]
